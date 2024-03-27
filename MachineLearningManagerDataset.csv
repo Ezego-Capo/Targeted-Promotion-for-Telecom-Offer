@@ -1,0 +1,2241 @@
+id,year_birth,consumer_seg,region,cltv,activation_dt,recency,device_type,data_rev_6mths,voice_rev_6mths,tot_rev_6mths,total_purchases,total_engagements,digital_channel_purchases,ussd_channel_purchases,other_channels_purchases,PrevResponseCnt,complaint_cnt,response
+11110,1973,Youth Seg,West,3502,2013-04-13,56,Non Smartphone,3,1,5,0,14,0,0,0,0,0,0
+3955,1965,Youth Seg,East,4861,2014-06-22,20,Smartphone,3,2,6,0,14,0,0,0,0,0,0
+5555,1975,Youth Seg,East,153924,2014-02-07,81,Smartphone,2,3,6,0,0,0,0,0,0,0,0
+6862,1971,Youth Seg,East,1730,2014-05-18,65,Smartphone,2,5,8,0,20,0,0,0,0,0,0
+11181,1949,HV seg,North,156924,2013-08-29,85,Smartphone,3,4,8,0,0,0,0,0,0,0,0
+9931,1963,HV seg,North,4023,2014-06-23,29,Non Smartphone,5,3,9,0,19,0,0,0,0,0,0
+9303,1976,Youth Seg,North,5305,2013-07-30,12,Smartphone,16,11,32,1,13,1,0,0,0,0,0
+5899,1950,HV seg,Lagos,5648,2014-03-13,68,Non Smartphone,28,8,49,1,20,1,0,0,1,0,0
+1503,1976,HV seg,Lagos,162397,2013-06-03,31,Non Smartphone,86,19,107,1,1,0,1,0,0,0,0
+4303,1957,HV seg,Lagos,6835,2012-12-08,76,Smartphone,109,16,137,1,20,0,1,0,0,0,0
+8720,1978,Youth Seg,Lagos,,2012-08-12,53,Smartphone,34,1623,1679,1,0,0,1,0,1,0,0
+10749,1991,Youth Seg,West,8028,2012-09-18,62,Smartphone,91,85,178,1,19,0,0,1,0,0,0
+5336,1971,Mass Mkt Seg,Lagos,157733,2013-06-04,37,Non Smartphone,40,11,59,2,1,1,1,0,0,0,0
+4246,1982,Mass Mkt Seg,West,6560,2013-12-12,2,Smartphone,78,33,373,2,17,1,1,0,0,0,0
+5824,1972,HV seg,Lagos,34578,2014-04-11,1,Non Smartphone,7,1,8,3,6,1,2,0,0,0,0
+10104,1974,Youth Seg,Lagos,33590,2013-11-03,65,Non Smartphone,4,2,8,3,7,1,2,0,0,0,0
+8566,1961,HV seg,Lagos,32583,2014-06-15,10,Non Smartphone,5,3,9,3,7,1,2,0,0,0,0
+4259,1986,Mass Mkt Seg,West,19485,2013-09-24,80,Non Smartphone,6,4,10,3,7,1,2,0,0,0,0
+4298,1973,HV seg,Lagos,20427,2014-03-24,63,Non Smartphone,5,4,10,3,8,1,2,0,0,0,0
+10492,1959,Youth Seg,Lagos,38285,2014-06-24,96,Non Smartphone,2,7,10,3,2,0,3,0,0,0,0
+7788,1983,HV seg,North,23536,2014-06-04,53,Non Smartphone,6,3,10,3,3,0,3,0,0,0,0
+6528,1982,Mass Mkt Seg,Lagos,18492,2014-06-05,75,Non Smartphone,4,5,10,3,8,1,2,0,0,0,0
+5329,1949,HV seg,East,35946,2013-09-27,24,Non Smartphone,8,3,11,3,5,0,3,0,0,0,0
+6961,1974,Youth Seg,North,26751,2014-05-22,26,Non Smartphone,2,8,11,3,8,1,2,0,0,0,0
+891,1951,Mass Mkt Seg,Lagos,29298,2013-09-07,60,Non Smartphone,6,4,11,3,5,1,2,0,0,0,0
+1386,1967,Youth Seg,Lagos,32474,2014-05-11,0,Non Smartphone,10,1,11,3,7,1,2,0,0,0,0
+6742,1979,Youth Seg,North,17688,2013-01-13,82,Non Smartphone,4,5,11,3,8,1,2,0,0,1,0
+1109,1982,Mass Mkt Seg,Lagos,27590,2013-04-23,38,Non Smartphone,6,5,12,3,7,1,2,0,0,0,0
+9725,1966,HV seg,Lagos,28764,2014-06-05,16,Non Smartphone,8,3,12,3,8,1,2,0,1,0,0
+10757,1967,HV seg,East,28420,2013-12-24,36,Non Smartphone,6,7,13,3,6,1,2,0,0,0,0
+11148,1975,Youth Seg,Lagos,22280,2013-05-19,85,Non Smartphone,3,8,13,3,8,1,2,0,0,0,0
+10067,1976,Youth Seg,Lagos,25176,2013-08-10,79,Non Smartphone,4,4,13,3,7,1,2,0,0,0,0
+7196,1950,HV seg,North,41145,2014-02-08,20,Non Smartphone,9,3,13,3,3,0,3,0,0,0,0
+2795,1958,Mass Mkt Seg,West,30523,2013-07-01,0,Non Smartphone,5,3,13,3,7,1,2,0,0,0,0
+5846,1977,Youth Seg,East,40246,2012-12-19,68,Non Smartphone,3,9,13,3,6,1,2,0,0,0,0
+9960,1991,Youth Seg,West,26868,2014-04-30,52,Non Smartphone,0,12,14,3,7,1,2,0,0,0,0
+10241,1975,Youth Seg,East,11448,2013-12-15,16,Smartphone,0,8,14,3,6,1,2,0,0,0,0
+5029,1946,Youth Seg,North,18100,2013-08-06,14,Smartphone,4,9,14,3,5,0,3,0,0,0,0
+9553,1987,Youth Seg,North,7500,2013-01-09,94,Smartphone,2,8,15,3,6,0,3,0,0,0,0
+8663,1974,Youth Seg,East,39996,2014-05-22,85,Non Smartphone,11,3,15,3,6,1,2,0,0,0,0
+7128,1977,HV seg,West,42997,2013-12-07,91,Non Smartphone,4,6,15,3,7,1,2,0,0,0,0
+10207,1978,Youth Seg,Lagos,22775,2013-06-19,40,Non Smartphone,6,8,15,3,8,1,2,0,0,0,0
+4838,1978,Youth Seg,Lagos,22775,2013-06-19,40,Non Smartphone,6,8,15,3,8,1,2,0,0,0,0
+9291,1959,Mass Mkt Seg,North,34242,2014-03-23,25,Smartphone,10,4,15,3,5,0,3,0,0,0,0
+3790,1956,Youth Seg,Lagos,34633,2014-01-23,31,Non Smartphone,9,5,15,3,6,1,2,0,0,0,0
+606,1967,Youth Seg,West,25930,2013-10-10,87,Non Smartphone,7,4,15,3,7,1,2,0,0,0,0
+9523,1982,Youth Seg,Lagos,40479,2013-08-17,95,Non Smartphone,5,10,15,3,4,0,3,0,0,0,0
+9213,1970,Youth Seg,East,31880,2012-10-31,13,Non Smartphone,5,7,15,3,8,1,2,0,0,0,0
+692,1954,Youth Seg,Lagos,36807,2012-12-20,88,Non Smartphone,6,5,16,3,6,1,2,0,0,0,0
+6679,1966,Youth Seg,West,33279,2014-06-12,29,Smartphone,13,3,16,3,3,0,3,0,0,0,0
+5423,1983,Youth Seg,Lagos,28359,2013-10-27,35,Non Smartphone,6,8,16,3,7,1,2,0,0,0,0
+2261,1969,Youth Seg,North,26304,2013-06-23,5,Non Smartphone,5,7,16,3,7,1,2,0,0,0,0
+11030,1976,Mass Mkt Seg,North,33181,2014-01-03,90,Non Smartphone,9,3,16,3,6,1,2,0,1,0,0
+8916,1975,Youth Seg,East,36627,2013-07-23,78,Non Smartphone,10,5,16,3,5,0,3,0,0,0,0
+6825,1953,Youth Seg,Lagos,41452,2013-03-06,86,Non Smartphone,13,3,16,3,7,1,2,0,0,0,0
+10022,1973,HV seg,West,54466,2014-02-09,78,Non Smartphone,12,4,16,3,5,1,2,0,0,0,0
+193,1996,Youth Seg,North,14421,2014-02-17,81,Smartphone,0,8,16,3,5,1,2,0,1,0,0
+8461,1962,Youth Seg,East,46102,2014-03-10,3,Non Smartphone,14,1,16,3,7,1,2,0,0,0,0
+4808,1956,Youth Seg,North,15759,2013-09-05,12,Smartphone,3,11,17,3,7,1,2,0,0,0,0
+3153,1957,HV seg,West,40737,2013-12-08,24,Non Smartphone,11,4,17,3,8,1,2,0,0,0,0
+7264,1978,Youth Seg,West,52195,2014-05-12,2,Non Smartphone,12,4,17,3,8,1,2,0,0,0,0
+3525,1970,Youth Seg,Lagos,38200,2012-12-07,19,Non Smartphone,12,4,17,3,7,1,2,0,0,0,0
+9392,1971,Youth Seg,West,26954,2014-05-08,17,Non Smartphone,5,11,17,3,7,1,2,0,0,0,0
+1581,1980,Youth Seg,North,37406,2013-10-10,18,Non Smartphone,2,12,17,3,8,1,2,0,0,0,1
+9530,1988,Youth Seg,North,24645,2012-11-01,16,Non Smartphone,8,9,17,3,8,1,2,0,0,0,0
+2098,1969,HV seg,North,33581,2013-01-08,38,Non Smartphone,11,5,17,3,8,1,2,0,0,0,0
+6119,1963,HV seg,West,36736,2013-05-10,52,Non Smartphone,10,3,17,3,6,1,2,0,0,0,0
+7990,1947,Youth Seg,North,27469,2012-08-02,2,Smartphone,10,7,17,3,6,0,3,0,0,0,0
+3726,1986,HV seg,Lagos,34320,2014-02-16,66,Non Smartphone,5,12,17,3,8,1,2,0,0,0,0
+5907,1952,Mass Mkt Seg,North,33444,2012-11-03,24,Non Smartphone,8,8,18,3,8,1,2,0,0,0,0
+73,1953,HV seg,West,51411,2013-05-26,81,Non Smartphone,14,3,18,3,5,0,3,0,0,0,0
+10710,1979,Youth Seg,North,7500,2012-08-29,61,Smartphone,7,6,18,3,8,1,2,0,0,0,0
+8234,1973,Youth Seg,Lagos,27190,2013-08-15,13,Non Smartphone,7,8,18,3,8,1,2,0,1,0,1
+9235,1957,Youth Seg,West,,2014-05-27,45,Non Smartphone,7,10,18,3,7,1,2,0,0,0,0
+1940,1986,Youth Seg,North,25252,2013-07-12,26,Non Smartphone,4,8,18,3,8,1,2,0,0,0,0
+9283,1978,Youth Seg,West,60199,2013-09-12,49,Non Smartphone,9,9,18,3,4,0,3,0,0,0,0
+6516,1989,Youth Seg,North,17487,2013-03-18,37,Non Smartphone,0,12,18,3,7,1,2,0,0,0,0
+4817,1956,Youth Seg,East,22304,2012-08-04,91,Smartphone,5,11,18,3,8,1,2,0,0,0,0
+10401,1976,Youth Seg,Lagos,26326,2013-09-04,12,Smartphone,1,8,18,3,3,0,3,0,0,1,0
+9850,1972,Youth Seg,North,24884,2012-11-29,32,Non Smartphone,9,7,19,3,7,0,3,0,0,0,0
+1994,1983,Youth Seg,North,,2013-11-15,11,Non Smartphone,10,8,19,3,7,1,2,0,0,0,0
+2724,1981,Mass Mkt Seg,West,36143,2014-03-30,33,Non Smartphone,12,1,19,3,3,0,2,1,0,0,0
+2836,1972,HV seg,North,43269,2013-09-16,61,Non Smartphone,11,7,19,3,8,1,2,0,0,0,0
+8754,1974,HV seg,Lagos,45068,2013-05-16,25,Smartphone,14,3,20,3,7,1,2,0,0,0,0
+3081,1978,HV seg,North,41014,2013-04-22,65,Non Smartphone,9,8,20,3,7,1,2,0,0,0,0
+10141,1960,Mass Mkt Seg,East,39228,2013-05-10,1,Smartphone,8,9,20,3,4,0,3,0,0,0,0
+7284,1953,Youth Seg,North,48686,2013-12-04,8,Non Smartphone,10,9,20,3,8,1,2,0,0,0,0
+361,1969,Mass Mkt Seg,North,43142,2014-02-18,84,Non Smartphone,6,10,20,3,7,1,2,0,0,0,0
+10364,1959,Youth Seg,East,23295,2013-07-13,72,Smartphone,0,15,20,3,8,1,2,0,0,0,0
+2986,1976,Youth Seg,North,30772,2014-03-12,89,Non Smartphone,9,7,20,3,6,1,2,0,0,0,0
+4037,1976,Youth Seg,East,31859,2013-06-14,77,Non Smartphone,4,11,20,3,7,1,2,0,0,0,0
+8275,1965,HV seg,East,47025,2014-02-09,6,Non Smartphone,16,3,20,3,7,1,2,0,0,0,0
+4345,1964,Youth Seg,West,,2014-01-12,49,Non Smartphone,6,11,21,3,7,1,2,0,0,0,0
+1463,1958,Youth Seg,West,45160,2014-03-29,9,Non Smartphone,10,8,21,3,7,1,2,0,0,0,0
+10686,1965,HV seg,Lagos,34230,2012-12-26,72,Non Smartphone,15,4,21,3,7,1,2,0,0,0,0
+10381,1979,Youth Seg,West,47691,2013-07-05,43,Smartphone,14,3,21,3,6,1,2,0,0,0,0
+10790,1985,HV seg,North,18169,2013-02-19,40,Non Smartphone,9,5,21,3,8,1,2,0,0,0,0
+803,1968,Youth Seg,Lagos,40521,2013-04-05,82,Non Smartphone,12,5,21,3,5,0,2,1,0,0,0
+8080,1986,Youth Seg,West,26816,2012-08-17,50,Smartphone,6,13,22,3,4,0,3,0,0,0,0
+7093,1985,Youth Seg,North,19986,2013-11-14,74,Non Smartphone,9,7,22,3,7,0,3,0,0,0,0
+1183,1949,Mass Mkt Seg,North,36408,2013-09-21,11,Non Smartphone,10,9,22,3,6,1,2,0,0,0,0
+2375,1972,Youth Seg,Lagos,30261,2012-09-25,75,Non Smartphone,8,8,22,3,8,0,3,0,0,0,0
+9543,1985,Youth Seg,North,19986,2013-11-14,74,Non Smartphone,9,7,22,3,7,0,3,0,0,0,0
+11004,1893,Youth Seg,West,60182,2014-05-17,23,Smartphone,8,12,22,3,4,1,2,0,0,0,0
+8619,1957,Youth Seg,Lagos,21994,2012-12-24,4,Smartphone,9,10,22,3,5,0,3,0,0,0,0
+7901,1971,Mass Mkt Seg,North,34109,2013-11-06,39,Smartphone,10,8,22,3,4,0,3,0,0,0,0
+3120,1981,Youth Seg,Lagos,38547,2013-08-28,49,Non Smartphone,7,11,22,3,8,1,2,0,0,1,0
+1606,1971,Youth Seg,Lagos,38590,2013-05-15,65,Non Smartphone,4,15,22,3,8,1,2,0,0,0,0
+8430,1957,Youth Seg,Lagos,21994,2012-12-24,4,Smartphone,9,10,22,3,5,0,3,0,0,0,0
+5577,1983,Youth Seg,Lagos,43776,2014-05-03,77,Non Smartphone,8,12,23,3,6,1,2,0,0,0,0
+8315,1995,Youth Seg,West,34824,2014-03-26,65,Smartphone,6,13,23,3,6,1,2,0,0,0,0
+8254,1974,HV seg,North,34596,2013-04-13,48,Non Smartphone,14,2,23,3,8,1,2,0,0,0,0
+5184,1995,Youth Seg,West,34824,2014-03-26,65,Smartphone,6,13,23,3,6,1,2,0,0,0,0
+2861,1983,Youth Seg,West,24072,2013-04-16,79,Non Smartphone,10,9,23,3,8,1,2,0,0,0,0
+2620,1974,HV seg,North,34596,2013-04-13,48,Non Smartphone,14,2,23,3,8,1,2,0,0,0,1
+2166,1960,Youth Seg,East,46779,2013-07-12,55,Non Smartphone,13,3,23,3,4,0,2,1,0,0,0
+4102,1975,Youth Seg,North,37284,2013-03-29,46,Non Smartphone,12,5,23,3,6,0,3,0,0,0,0
+2217,1975,Youth Seg,North,37284,2013-03-29,46,Non Smartphone,12,5,23,3,6,0,3,0,0,0,0
+5493,1976,Youth Seg,North,39356,2014-03-19,21,Non Smartphone,15,2,23,3,6,1,2,0,1,0,0
+8977,1985,Youth Seg,West,16581,2013-01-12,51,Smartphone,4,9,24,3,4,0,3,0,0,0,0
+4290,1972,Youth Seg,North,30467,2014-03-19,8,Non Smartphone,4,15,24,3,7,1,2,0,0,0,0
+5181,1982,Youth Seg,West,24367,2013-03-20,58,Non Smartphone,6,13,24,3,9,1,2,0,0,0,0
+1890,1971,Youth Seg,Lagos,42033,2012-09-19,95,Non Smartphone,12,6,25,3,7,1,2,0,0,0,0
+1176,1973,Youth Seg,North,26228,2013-09-22,50,Non Smartphone,8,8,25,3,8,1,2,0,0,0,0
+9396,1978,HV seg,North,37717,2012-11-23,31,Non Smartphone,9,11,25,3,9,1,2,0,0,0,0
+4198,1965,Youth Seg,Lagos,29672,2013-03-12,6,Non Smartphone,10,7,25,3,6,0,3,0,0,0,0
+10451,1965,Youth Seg,Lagos,29672,2013-03-12,6,Non Smartphone,10,7,25,3,6,0,3,0,0,0,0
+933,1978,HV seg,North,37717,2012-11-23,31,Non Smartphone,9,11,25,3,9,1,2,0,0,0,0
+2686,1969,Youth Seg,Lagos,22390,2013-10-21,49,Smartphone,1,20,26,3,7,1,2,0,0,0,0
+10913,1984,Mass Mkt Seg,West,31385,2012-12-05,56,Non Smartphone,5,13,27,3,8,1,2,0,1,0,1
+10525,1986,Youth Seg,West,26576,2012-10-13,40,Non Smartphone,10,8,27,3,9,1,2,0,1,0,1
+2281,1970,Youth Seg,West,33697,2013-09-15,34,Non Smartphone,7,10,28,3,7,1,2,0,1,0,0
+1968,1971,Youth Seg,East,45684,2013-12-02,37,Non Smartphone,6,15,28,3,7,1,2,0,0,0,0
+8369,1987,Youth Seg,Lagos,18227,2012-11-08,21,Non Smartphone,3,14,28,3,8,0,2,1,0,0,0
+10250,1947,Youth Seg,Lagos,28389,2012-11-20,49,Smartphone,6,14,28,3,7,1,2,0,0,0,0
+6147,1971,Youth Seg,East,25818,2012-10-18,51,Non Smartphone,7,12,28,3,7,0,2,1,0,0,0
+2296,1975,Mass Mkt Seg,North,37368,2013-12-16,4,Non Smartphone,5,15,30,3,6,1,2,0,1,0,0
+8372,1974,Youth Seg,North,34421,2013-07-01,81,Non Smartphone,6,15,30,3,7,1,2,0,0,0,0
+520,1974,Youth Seg,North,34421,2013-07-01,81,Non Smartphone,6,15,30,3,7,1,2,0,0,0,0
+2518,1986,Youth Seg,Lagos,20491,2013-01-25,16,Smartphone,9,11,30,3,7,0,2,1,0,0,0
+10398,1981,Youth Seg,West,24336,2012-08-27,82,Non Smartphone,7,12,31,3,7,1,2,0,0,0,0
+624,1984,Mass Mkt Seg,West,18890,2012-11-10,5,Smartphone,10,10,35,3,6,0,2,1,1,0,1
+4329,1984,HV seg,North,18988,2014-05-23,43,Non Smartphone,6,9,16,4,7,1,3,0,0,0,0
+7411,1964,HV seg,North,31686,2014-06-05,31,Non Smartphone,11,5,17,4,6,1,3,0,0,0,0
+10914,1970,Youth Seg,West,24163,2013-10-12,3,Non Smartphone,5,10,17,4,4,1,3,0,0,0,0
+9617,1951,Youth Seg,West,15033,2014-04-16,37,Smartphone,4,11,19,4,3,1,3,0,0,0,0
+10560,1980,HV seg,West,36802,2014-06-16,23,Non Smartphone,17,2,20,4,5,1,3,0,0,0,0
+8514,1976,Youth Seg,Lagos,29478,2014-01-17,59,Non Smartphone,8,11,20,4,6,1,3,0,0,0,0
+3436,1969,Youth Seg,North,14045,2014-01-26,24,Non Smartphone,11,8,20,4,7,1,3,0,0,0,0
+9467,1984,Youth Seg,West,34738,2014-05-11,51,Non Smartphone,5,13,20,4,6,1,3,0,0,0,0
+11086,1984,Youth Seg,West,25707,2014-01-18,18,Non Smartphone,7,11,21,4,7,1,3,0,0,0,0
+255,1951,Youth Seg,East,22263,2014-03-30,31,Non Smartphone,17,2,21,4,6,1,3,0,0,1,0
+2256,1973,Mass Mkt Seg,North,27159,2014-03-29,33,Non Smartphone,17,3,21,4,6,1,3,0,0,0,0
+11091,1953,Youth Seg,Lagos,34587,2014-05-16,68,Non Smartphone,9,11,22,4,4,1,3,0,0,0,0
+451,1989,Youth Seg,West,9255,2013-12-20,91,Non Smartphone,9,9,22,4,8,1,2,1,0,0,0
+6646,1984,Youth Seg,Lagos,16529,2014-03-01,23,Non Smartphone,3,18,22,4,6,1,3,0,0,0,0
+577,1976,Youth Seg,Lagos,26907,2013-08-20,10,Non Smartphone,10,10,22,4,7,1,3,0,0,0,0
+8702,1976,Youth Seg,Lagos,26907,2013-08-20,10,Non Smartphone,10,10,22,4,7,1,3,0,0,0,0
+10432,1974,Youth Seg,East,19346,2014-01-30,26,Non Smartphone,2,18,22,4,8,1,3,0,0,0,0
+10175,1958,HV seg,East,32173,2013-08-01,0,Smartphone,18,2,22,4,4,1,3,0,0,0,0
+2936,1982,Mass Mkt Seg,Lagos,23661,2013-12-04,46,Non Smartphone,18,4,23,4,7,1,3,0,0,0,0
+2694,1967,Youth Seg,North,42664,2014-03-18,44,Smartphone,21,3,24,4,6,1,3,0,0,0,0
+3112,1977,Mass Mkt Seg,North,22701,2013-09-05,2,Non Smartphone,6,13,24,4,5,1,3,0,0,0,0
+2292,1985,Youth Seg,West,22327,2013-08-02,94,Non Smartphone,9,10,24,4,5,1,3,0,0,0,0
+7791,1967,Mass Mkt Seg,North,37054,2013-09-15,89,Non Smartphone,13,7,25,4,7,1,3,0,0,0,0
+49,1970,Youth Seg,West,20587,2014-05-11,39,Non Smartphone,5,11,25,4,7,1,2,1,0,0,0
+4547,1960,Youth Seg,Lagos,13672,2013-04-17,86,Non Smartphone,8,12,25,4,8,1,3,0,0,0,0
+4973,1970,Youth Seg,West,20587,2014-05-11,39,Non Smartphone,5,11,25,4,7,1,2,1,0,0,0
+4860,1970,Youth Seg,West,24206,2013-03-08,66,Non Smartphone,9,13,25,4,6,1,3,0,0,0,0
+9081,1988,Youth Seg,West,20518,2014-05-18,58,Non Smartphone,5,11,25,4,5,1,2,1,0,0,0
+10735,1971,Youth Seg,West,22804,2013-07-31,75,Non Smartphone,15,10,26,4,9,2,2,0,0,0,0
+8162,1956,Mass Mkt Seg,Lagos,14661,2013-01-01,88,Smartphone,5,19,26,4,6,1,3,0,0,0,0
+6958,1977,Mass Mkt Seg,North,27889,2013-07-05,42,Non Smartphone,14,4,26,4,6,1,2,1,0,0,0
+5068,1971,Youth Seg,West,22804,2013-07-31,75,Non Smartphone,15,10,26,4,9,2,2,0,0,0,0
+6340,1985,Youth Seg,West,29938,2013-10-27,52,Non Smartphone,6,9,26,4,6,1,3,0,0,0,0
+798,1987,Youth Seg,West,23442,2012-12-24,71,Non Smartphone,2,20,27,4,7,1,3,0,0,0,0
+2174,1954,Youth Seg,West,46344,2014-03-08,38,Non Smartphone,12,9,27,4,5,1,2,1,0,0,0
+2549,1983,HV seg,Lagos,21840,2013-07-21,80,Non Smartphone,17,9,27,4,9,1,3,0,0,0,0
+8477,1956,Youth Seg,East,26150,2013-03-11,61,Non Smartphone,6,21,28,4,7,1,3,0,0,0,0
+113,1951,Youth Seg,North,30833,2013-07-16,33,Non Smartphone,11,11,28,4,5,1,3,0,0,0,0
+1515,1975,Mass Mkt Seg,Lagos,34176,2014-01-22,9,Smartphone,13,13,28,4,3,1,3,0,0,0,0
+9316,1952,Youth Seg,Lagos,13084,2013-11-02,29,Smartphone,2,17,29,4,6,1,3,0,0,0,0
+5342,1976,Youth Seg,East,9548,2012-08-08,31,Non Smartphone,1,19,29,4,8,1,3,0,0,0,0
+2557,1970,Mass Mkt Seg,West,29548,2013-08-29,52,Non Smartphone,8,10,29,4,4,1,2,1,1,0,0
+3829,1979,Youth Seg,Lagos,24594,2013-12-10,94,Non Smartphone,4,16,29,4,5,1,3,0,0,0,0
+8373,1979,Youth Seg,Lagos,24594,2013-12-10,94,Non Smartphone,4,16,29,4,5,1,3,0,0,0,0
+7600,1992,Youth Seg,West,15253,2013-10-28,13,Non Smartphone,4,12,29,4,7,1,3,0,0,0,0
+10839,1976,Youth Seg,Lagos,36283,2014-04-14,42,Non Smartphone,11,13,29,4,4,1,3,0,0,0,0
+10390,1959,Youth Seg,North,26887,2013-02-10,27,Smartphone,13,11,30,4,6,1,3,0,0,0,0
+8442,1985,Mass Mkt Seg,North,19510,2013-09-04,63,Non Smartphone,9,14,30,4,7,1,3,0,0,0,0
+7444,1969,Mass Mkt Seg,North,42169,2013-10-19,20,Non Smartphone,19,9,30,4,8,1,3,0,0,0,0
+5680,1984,Youth Seg,North,35684,2014-04-22,66,Non Smartphone,14,13,30,4,6,1,3,0,0,0,0
+3231,1973,Youth Seg,North,37971,2013-11-25,97,Non Smartphone,9,14,30,4,8,1,3,0,0,0,0
+916,1972,HV seg,West,41644,2014-05-09,67,Non Smartphone,23,6,31,4,3,1,3,0,0,0,0
+2814,1976,Mass Mkt Seg,Lagos,30560,2013-06-27,6,Non Smartphone,10,14,31,4,7,1,3,0,0,0,0
+2711,1976,Mass Mkt Seg,Lagos,30560,2013-06-27,6,Non Smartphone,10,14,31,4,7,1,3,0,0,0,0
+6215,1977,Youth Seg,North,31353,2013-12-29,24,Non Smartphone,10,14,31,4,8,1,2,1,0,0,1
+10264,1979,Youth Seg,East,15287,2012-10-10,60,Non Smartphone,3,15,31,4,7,1,2,1,1,0,1
+7224,1977,Youth Seg,North,31353,2013-12-29,24,Non Smartphone,10,14,31,4,8,1,2,1,0,0,0
+234,1979,Youth Seg,East,15287,2012-10-10,60,Non Smartphone,3,15,31,4,7,1,2,1,1,0,1
+2173,1952,Youth Seg,East,40049,2013-10-16,23,Smartphone,19,10,32,4,6,1,3,0,0,0,0
+10356,1957,HV seg,East,41437,2012-09-22,5,Non Smartphone,29,2,32,4,7,1,3,0,0,0,0
+800,1960,Youth Seg,Lagos,44512,2013-08-30,57,Non Smartphone,24,6,32,4,4,1,3,0,0,0,0
+3102,1981,Youth Seg,Lagos,19414,2013-10-16,32,Non Smartphone,5,20,32,4,8,1,3,0,0,0,0
+10623,1961,Mass Mkt Seg,Lagos,48330,2013-11-15,2,Smartphone,28,4,32,4,5,1,3,0,0,0,0
+5692,1989,Youth Seg,North,25443,2012-12-22,82,Non Smartphone,5,20,32,4,8,1,3,0,0,0,0
+13,1947,HV seg,East,25358,2013-07-22,57,Smartphone,19,5,32,4,6,1,3,0,0,0,0
+2874,1988,Youth Seg,East,35388,2013-03-07,20,Non Smartphone,10,14,32,4,7,1,3,0,0,0,0
+11178,1972,Mass Mkt Seg,West,42394,2014-03-23,69,Non Smartphone,17,11,32,4,7,1,3,0,0,0,0
+10708,1978,Youth Seg,West,36975,2013-12-28,50,Non Smartphone,16,15,33,4,7,1,3,0,0,0,0
+5304,1974,HV seg,West,30899,2012-10-13,35,Non Smartphone,24,8,33,4,6,1,3,0,0,0,0
+8341,1969,HV seg,North,30396,2014-04-30,22,Non Smartphone,15,7,34,4,7,1,2,1,1,0,1
+6866,1969,Mass Mkt Seg,Lagos,35924,2014-03-23,56,Non Smartphone,8,19,34,4,5,1,3,0,0,0,0
+3363,1974,Youth Seg,North,20130,2014-03-17,99,Smartphone,6,16,34,4,8,1,3,0,0,0,0
+11007,1968,HV seg,North,29187,2013-05-09,43,Non Smartphone,26,6,34,4,8,1,3,0,0,0,0
+5012,1989,Youth Seg,North,28691,2013-07-04,56,Non Smartphone,9,21,34,4,8,1,3,0,0,0,0
+8082,1971,Youth Seg,North,25721,2013-05-21,75,Non Smartphone,4,15,34,4,7,1,2,1,0,0,1
+2106,1974,Youth Seg,North,20130,2014-03-17,99,Smartphone,6,16,34,4,8,1,3,0,0,0,0
+8397,1951,Youth Seg,North,44689,2014-01-10,82,Non Smartphone,18,5,34,4,7,1,2,1,1,0,0
+5010,1988,Youth Seg,West,25008,2014-02-02,72,Non Smartphone,10,15,34,4,8,1,3,0,0,0,0
+6918,1989,Youth Seg,North,28691,2013-07-04,56,Non Smartphone,9,21,34,4,8,1,3,0,0,0,0
+8953,1965,Mass Mkt Seg,West,35791,2013-05-06,94,Non Smartphone,27,5,35,4,8,1,3,0,0,0,0
+7186,1966,HV seg,Lagos,30843,2014-05-26,43,Non Smartphone,24,2,35,4,5,1,2,1,1,0,0
+10258,1965,Mass Mkt Seg,West,35791,2013-05-06,94,Non Smartphone,27,5,35,4,8,1,3,0,0,0,0
+6768,1962,Youth Seg,East,37859,2013-01-12,75,Non Smartphone,23,11,36,4,8,1,3,0,0,0,0
+6347,1979,Youth Seg,West,15862,2013-06-27,26,Non Smartphone,2,24,36,4,8,1,3,0,0,0,0
+5610,1965,Youth Seg,Lagos,33456,2014-04-21,58,Non Smartphone,10,19,36,4,7,1,3,0,0,0,0
+6287,1986,Youth Seg,Lagos,34728,2013-07-30,2,Non Smartphone,14,16,36,4,6,1,2,1,0,0,1
+10642,1989,Youth Seg,West,30279,2012-12-30,13,Non Smartphone,14,22,37,4,8,1,3,0,0,0,0
+78,1969,Youth Seg,North,25293,2013-09-15,51,Non Smartphone,15,13,37,4,8,1,2,1,0,0,0
+3896,1984,Youth Seg,North,27255,2013-11-07,3,Non Smartphone,23,12,37,4,7,1,3,0,0,0,0
+5731,1983,Mass Mkt Seg,North,27100,2013-04-05,64,Non Smartphone,12,15,37,4,7,1,3,0,0,0,0
+7152,1983,Mass Mkt Seg,North,27100,2013-04-05,64,Non Smartphone,12,15,37,4,7,1,3,0,0,0,0
+5517,1969,Youth Seg,North,25293,2013-09-15,51,Non Smartphone,15,13,37,4,8,1,2,1,0,0,0
+6682,1973,Youth Seg,North,18978,2012-12-11,41,Non Smartphone,10,12,37,4,8,1,3,0,0,0,0
+7947,1969,Youth Seg,North,42231,2014-03-25,99,Non Smartphone,24,9,37,4,5,1,3,0,0,0,0
+4459,1989,Youth Seg,West,30279,2012-12-30,13,Non Smartphone,14,22,37,4,8,1,3,0,0,0,0
+5751,1973,Youth Seg,East,31163,2014-02-13,54,Non Smartphone,5,23,38,4,6,1,3,0,0,0,0
+10033,1973,Youth Seg,East,31163,2014-02-13,54,Non Smartphone,5,23,38,4,6,1,3,0,0,0,0
+3526,1968,HV seg,North,38443,2014-01-27,58,Non Smartphone,32,5,38,4,7,1,3,0,0,0,0
+1818,1971,HV seg,Lagos,29732,2014-03-25,23,Non Smartphone,25,9,38,4,9,2,2,0,0,0,0
+1030,1965,HV seg,West,40637,2013-07-17,72,Non Smartphone,22,13,38,4,7,1,3,0,0,0,0
+10350,1950,HV seg,North,54432,2013-05-09,37,Non Smartphone,33,5,38,4,4,1,3,0,0,0,0
+1403,1975,Youth Seg,Lagos,34984,2012-09-06,40,Non Smartphone,12,23,38,4,7,1,3,0,0,0,0
+679,1957,HV seg,North,37633,2012-09-20,49,Non Smartphone,17,20,38,4,9,1,3,0,0,0,0
+10219,1972,Youth Seg,Lagos,31590,2013-06-18,40,Non Smartphone,8,27,38,4,8,1,3,0,0,0,0
+3158,1973,Youth Seg,North,32300,2013-01-03,1,Non Smartphone,16,17,39,4,8,1,3,0,0,0,0
+6211,1976,HV seg,Lagos,37395,2014-05-02,47,Non Smartphone,18,10,39,4,6,1,3,0,0,0,0
+5062,1963,HV seg,North,54072,2013-07-27,71,Non Smartphone,35,4,39,4,8,2,2,0,0,0,0
+4796,1952,Youth Seg,East,49638,2014-04-19,71,Smartphone,28,11,39,4,2,1,3,0,0,0,0
+10402,1967,Youth Seg,North,35441,2013-02-14,94,Non Smartphone,26,12,39,4,8,1,3,0,0,0,0
+11031,1950,HV seg,North,48699,2013-05-21,90,Non Smartphone,27,12,40,4,5,1,3,0,0,0,0
+5513,1966,Youth Seg,Lagos,37758,2012-10-04,49,Non Smartphone,29,10,40,4,8,1,3,0,0,0,0
+8207,1957,Youth Seg,North,53233,2014-03-18,18,Smartphone,28,12,40,4,4,1,3,0,0,0,0
+7325,1986,HV seg,Lagos,38197,2013-06-29,86,Non Smartphone,23,14,40,4,5,1,3,0,0,0,0
+3007,1966,Youth Seg,Lagos,37758,2012-10-04,49,Non Smartphone,29,10,40,4,8,1,3,0,0,0,0
+4706,1966,Youth Seg,West,34704,2013-04-27,65,Smartphone,29,6,40,4,5,1,3,0,0,0,0
+4877,1973,Mass Mkt Seg,North,38576,2014-03-04,2,Smartphone,34,7,41,4,7,1,3,0,0,0,0
+4791,1980,Youth Seg,Lagos,44964,2012-12-16,35,Non Smartphone,20,19,41,4,8,1,3,0,0,0,0
+8629,1956,Youth Seg,East,46984,2013-03-26,71,Non Smartphone,20,13,41,4,5,1,3,0,0,0,0
+194,1965,Youth Seg,North,48006,2014-06-09,55,Non Smartphone,23,16,41,4,6,1,3,0,0,0,0
+10203,1990,Youth Seg,West,26095,2013-06-30,77,Non Smartphone,18,13,42,4,7,1,3,0,0,0,0
+10277,1961,Youth Seg,West,30081,2013-02-21,27,Smartphone,36,2,42,4,7,1,3,0,0,0,0
+10146,1972,HV seg,Lagos,38887,2014-03-02,17,Non Smartphone,26,13,42,4,7,1,3,0,0,0,0
+1064,1971,HV seg,North,42403,2013-12-11,18,Non Smartphone,23,16,42,4,8,1,3,0,0,0,0
+5393,1977,Youth Seg,West,23763,2012-08-07,64,Non Smartphone,22,14,42,4,7,1,3,0,0,0,0
+5229,1969,HV seg,Lagos,54132,2014-02-16,81,Smartphone,31,8,42,4,7,1,3,0,0,0,0
+2258,1986,Youth Seg,North,32880,2012-12-04,76,Non Smartphone,12,28,42,4,8,1,3,0,0,0,0
+8650,1978,Youth Seg,East,54162,2013-03-18,31,Non Smartphone,11,21,42,4,4,1,3,0,0,0,0
+8553,1965,Youth Seg,North,44300,2013-06-23,65,Non Smartphone,30,9,42,4,6,1,3,0,0,0,0
+3769,1972,HV seg,Lagos,,2014-03-02,17,Non Smartphone,26,13,42,4,7,1,3,0,0,0,0
+5138,1950,Youth Seg,Lagos,28320,2013-01-14,68,Smartphone,20,19,43,4,8,1,3,0,0,0,0
+7386,1976,Youth Seg,East,30992,2013-04-22,83,Non Smartphone,17,24,43,4,7,1,3,0,0,0,0
+626,1951,Youth Seg,North,32871,2013-03-09,28,Non Smartphone,24,14,43,4,4,1,3,0,0,0,0
+10691,1960,Mass Mkt Seg,North,28520,2013-06-14,55,Non Smartphone,11,12,43,4,6,1,2,1,0,0,0
+9612,1987,Youth Seg,West,23830,2014-02-07,3,Smartphone,9,18,43,4,7,1,3,0,0,0,0
+2461,1955,Mass Mkt Seg,West,51124,2013-12-18,79,Non Smartphone,27,12,43,4,3,1,3,0,0,0,0
+3006,1976,Youth Seg,East,30992,2013-04-22,83,Non Smartphone,17,24,43,4,7,1,3,0,0,0,0
+3850,1963,Youth Seg,Lagos,14918,2012-12-07,52,Smartphone,6,22,43,4,6,1,3,0,0,0,0
+4937,1973,Youth Seg,North,46094,2014-06-10,62,Non Smartphone,14,25,44,4,7,1,3,0,0,0,0
+5267,1970,Youth Seg,East,33986,2013-03-14,43,Non Smartphone,18,21,44,4,7,1,3,0,0,0,0
+4338,1983,Youth Seg,West,39062,2014-03-25,28,Non Smartphone,23,9,44,4,4,1,3,0,1,0,0
+6619,1978,Youth Seg,North,38415,2013-01-02,91,Non Smartphone,23,17,44,4,7,1,3,0,0,0,0
+2902,1958,Youth Seg,Lagos,,2012-09-03,87,Non Smartphone,23,16,45,4,5,1,3,0,0,0,0
+1055,1976,Mass Mkt Seg,North,53204,2014-03-20,40,Non Smartphone,29,10,45,4,4,1,3,0,0,0,0
+2457,1975,Youth Seg,North,30801,2012-10-26,23,Smartphone,12,22,45,4,7,1,3,0,0,0,0
+9972,1955,HV seg,Lagos,46015,2014-04-13,25,Non Smartphone,38,2,46,4,7,1,3,0,2,0,0
+153,1953,Youth Seg,East,23272,2013-10-17,29,Smartphone,22,12,46,4,4,1,3,0,0,0,0
+5868,1980,Youth Seg,North,19107,2013-08-22,49,Non Smartphone,6,24,46,4,7,1,3,0,0,0,0
+10856,1980,Youth Seg,West,45889,2013-07-02,42,Smartphone,31,7,46,4,6,1,3,0,0,0,0
+2569,1987,Youth Seg,North,17323,2012-10-10,38,Smartphone,17,24,46,4,8,1,3,0,0,0,0
+2945,1955,HV seg,Lagos,46015,2014-04-13,25,Non Smartphone,38,2,46,4,7,1,3,0,2,0,0
+9347,1956,Mass Mkt Seg,Lagos,50943,2013-06-21,49,Smartphone,31,9,46,4,5,1,3,0,0,0,0
+7505,1957,HV seg,North,44155,2014-01-19,24,Non Smartphone,23,9,46,4,4,1,2,1,0,0,0
+10160,1956,Mass Mkt Seg,Lagos,50943,2013-06-21,49,Smartphone,31,9,46,4,5,1,3,0,0,0,0
+3265,1959,Youth Seg,North,35701,2013-03-19,36,Smartphone,22,19,46,4,6,1,3,0,0,0,0
+5074,1986,Mass Mkt Seg,North,28072,2013-07-08,10,Non Smartphone,30,12,47,4,7,1,3,0,0,0,0
+6354,1984,Youth Seg,Lagos,15345,2012-08-31,51,Non Smartphone,7,21,47,4,8,1,2,1,0,0,1
+5081,1967,Youth Seg,Lagos,47821,2013-10-20,54,Non Smartphone,9,28,47,4,8,1,3,0,0,0,0
+3878,1980,Youth Seg,West,31859,2014-02-27,3,Non Smartphone,7,30,48,4,7,1,3,0,0,0,0
+1655,1979,Youth Seg,Lagos,34350,2013-10-19,81,Non Smartphone,19,18,48,4,7,1,3,0,0,0,0
+922,1979,Youth Seg,North,31086,2013-05-04,79,Non Smartphone,18,14,48,4,8,1,2,1,1,0,0
+6728,1985,Youth Seg,Lagos,29103,2012-08-27,38,Non Smartphone,16,26,48,4,9,1,3,0,0,0,0
+7660,1973,HV seg,East,35860,2014-05-19,37,Non Smartphone,15,14,49,4,5,1,2,1,1,0,1
+2055,1973,HV seg,East,35860,2014-05-19,37,Non Smartphone,15,14,49,4,5,1,2,1,1,0,0
+1626,1973,HV seg,East,35860,2014-05-19,37,Non Smartphone,15,14,49,4,5,1,2,1,1,0,1
+1663,1978,HV seg,Lagos,34043,2013-10-25,97,Non Smartphone,22,17,49,4,9,2,2,0,0,0,0
+10779,1983,Youth Seg,West,22148,2014-04-13,16,Smartphone,20,18,49,4,7,1,3,0,0,0,0
+5107,1973,HV seg,East,35860,2014-05-19,37,Non Smartphone,15,14,49,4,5,1,2,1,1,0,0
+6424,1977,Youth Seg,Lagos,33178,2014-01-30,9,Non Smartphone,18,15,49,4,4,1,3,0,0,0,0
+8955,1957,HV seg,Lagos,40451,2014-02-16,54,Smartphone,35,4,49,4,5,1,2,1,1,0,0
+3518,1983,Youth Seg,North,25271,2012-12-05,45,Non Smartphone,11,32,50,4,9,1,2,1,0,0,0
+1517,1969,Youth Seg,West,30822,2013-06-14,92,Non Smartphone,12,27,51,4,7,1,3,0,0,0,0
+5231,1974,Youth Seg,North,45894,2014-02-27,15,Smartphone,29,9,51,4,5,1,3,0,0,0,0
+5623,1980,Mass Mkt Seg,North,31535,2013-09-26,95,Non Smartphone,19,13,51,4,7,1,2,1,1,0,0
+1241,1984,Youth Seg,North,14796,2012-09-17,1,Non Smartphone,16,19,51,4,9,1,3,0,0,0,1
+8135,1986,Mass Mkt Seg,North,27161,2013-10-28,41,Non Smartphone,11,30,52,4,7,1,3,0,0,0,0
+9262,1984,Youth Seg,Lagos,32414,2013-07-04,11,Smartphone,26,14,52,4,7,1,3,0,1,0,0
+6168,1963,Youth Seg,East,45146,2013-07-15,28,Non Smartphone,33,5,53,4,4,1,2,1,0,0,0
+5176,1988,Youth Seg,Lagos,29604,2013-12-08,88,Non Smartphone,13,26,53,4,9,1,3,0,1,0,0
+8146,1976,Mass Mkt Seg,Lagos,46106,2014-05-11,84,Non Smartphone,30,10,54,4,6,1,2,1,0,0,0
+6382,1953,Youth Seg,Lagos,48794,2014-06-26,97,Non Smartphone,25,14,54,4,4,1,3,0,0,0,0
+4548,1981,Youth Seg,West,41967,2013-11-23,66,Non Smartphone,27,12,54,4,4,1,3,0,0,0,0
+1744,1965,Youth Seg,West,23529,2013-01-07,67,Smartphone,16,18,54,4,6,1,2,1,0,0,0
+5263,1977,Youth Seg,North,31056,2013-01-22,99,Non Smartphone,15,24,55,4,8,1,3,0,0,0,0
+4351,1955,Youth Seg,East,37244,2013-04-27,90,Non Smartphone,20,10,55,4,7,1,2,1,1,0,0
+7286,1968,Youth Seg,Lagos,41728,2013-05-24,92,Non Smartphone,19,23,55,4,10,2,2,0,0,0,0
+5961,1978,Youth Seg,North,42693,2014-06-07,29,Non Smartphone,12,29,57,4,5,1,3,0,0,0,0
+10069,1988,Youth Seg,Lagos,13724,2012-08-31,43,Non Smartphone,9,22,58,4,9,2,2,0,1,0,0
+4301,1971,Mass Mkt Seg,North,35178,2013-01-10,10,Non Smartphone,24,17,59,4,7,1,2,1,1,0,1
+2656,1971,Youth Seg,East,40851,2013-02-21,63,Non Smartphone,24,11,59,4,7,1,2,1,0,0,0
+2521,1971,Mass Mkt Seg,North,35178,2013-01-10,10,Non Smartphone,24,17,59,4,7,1,2,1,1,0,1
+10826,1959,Youth Seg,North,18690,2012-12-28,77,Smartphone,7,34,60,4,8,1,2,1,0,0,0
+10304,1959,Youth Seg,North,18690,2012-12-28,77,Smartphone,7,34,60,4,8,1,2,1,0,0,0
+4086,1959,Youth Seg,North,18690,2012-12-28,77,Smartphone,7,34,60,4,8,1,2,1,0,0,0
+8749,1984,Youth Seg,Lagos,37235,2014-02-01,68,Non Smartphone,22,19,61,4,4,1,2,1,0,0,0
+4099,1972,Youth Seg,North,30675,2012-11-12,14,Non Smartphone,12,29,62,4,8,1,3,0,0,0,0
+3885,1983,HV seg,North,33569,2013-10-16,10,Non Smartphone,18,21,63,4,8,1,2,1,1,0,1
+9135,1950,Youth Seg,Lagos,27203,2012-08-06,92,Non Smartphone,15,25,64,4,8,1,2,1,0,0,0
+5289,1975,Youth Seg,West,41658,2012-11-09,30,Non Smartphone,12,31,72,4,4,1,2,1,0,0,0
+2964,1981,Youth Seg,North,26872,2013-10-16,0,Smartphone,13,27,72,4,6,1,2,1,0,0,0
+8462,1978,Youth Seg,Lagos,24882,2012-09-09,52,Non Smartphone,5,39,80,4,6,1,2,1,1,0,0
+9733,1978,Youth Seg,Lagos,24882,2012-09-09,52,Non Smartphone,5,39,80,4,6,1,2,1,1,0,0
+1726,1970,Youth Seg,West,22585,2013-03-18,23,Smartphone,12,30,81,4,9,1,2,1,1,0,1
+2587,1972,HV seg,North,29791,2014-05-15,21,Non Smartphone,14,6,20,5,5,2,3,0,0,0,0
+7679,1985,HV seg,West,30298,2014-05-19,48,Smartphone,9,19,28,5,3,1,3,1,0,0,0
+7437,1988,Youth Seg,West,27938,2014-04-28,31,Non Smartphone,13,11,29,5,3,1,4,0,0,0,0
+7629,1977,Youth Seg,North,22108,2014-05-08,46,Non Smartphone,8,17,31,5,7,2,3,0,0,0,0
+2139,1975,Mass Mkt Seg,North,7500,2013-10-02,19,Non Smartphone,4,15,31,5,5,2,3,0,0,0,0
+231,1956,Mass Mkt Seg,Lagos,28839,2014-03-11,86,Non Smartphone,24,7,32,5,5,2,3,0,0,0,0
+9592,1983,Youth Seg,Lagos,22010,2013-06-30,51,Non Smartphone,13,12,33,5,8,2,3,0,0,0,0
+9862,1969,Youth Seg,Lagos,21918,2013-11-14,37,Non Smartphone,7,23,33,5,6,2,3,0,0,0,0
+274,1973,Youth Seg,West,34853,2013-12-23,75,Non Smartphone,12,20,34,5,6,2,3,0,0,0,0
+7419,1968,Mass Mkt Seg,East,27071,2014-04-23,90,Non Smartphone,11,21,35,5,6,2,3,0,0,0,0
+7943,1975,HV seg,North,36663,2014-04-25,40,Non Smartphone,18,12,35,5,2,1,3,1,0,0,0
+456,1986,Youth Seg,North,7500,2013-02-07,96,Non Smartphone,12,15,36,5,8,2,3,0,0,0,0
+3641,1976,Youth Seg,North,13624,2013-01-20,93,Non Smartphone,12,18,36,5,6,2,3,0,0,0,0
+8962,1975,Mass Mkt Seg,North,44319,2014-04-17,18,Non Smartphone,26,8,37,5,5,2,3,0,0,0,0
+10598,1967,Youth Seg,Lagos,27943,2013-04-15,89,Non Smartphone,13,21,37,5,8,2,3,0,0,0,0
+2826,1967,Youth Seg,North,22574,2013-10-28,28,Non Smartphone,25,10,37,5,7,2,3,0,0,0,0
+1878,1985,Youth Seg,North,23148,2014-02-18,83,Smartphone,10,17,37,5,7,2,3,0,0,0,0
+6222,1967,Youth Seg,North,22574,2013-10-28,28,Non Smartphone,25,10,37,5,7,2,3,0,0,0,0
+2478,1973,Youth Seg,North,25410,2013-08-31,48,Non Smartphone,4,30,38,5,4,1,4,0,0,0,0
+1461,1965,HV seg,East,36921,2013-07-28,74,Non Smartphone,18,16,38,5,7,2,3,0,0,0,0
+4415,1961,Youth Seg,North,16860,2012-09-12,19,Non Smartphone,14,10,38,5,7,1,3,1,0,0,0
+5823,1970,HV seg,West,32303,2014-03-08,63,Smartphone,35,2,39,5,5,1,4,0,0,0,0
+4297,1969,Youth Seg,Lagos,23228,2014-01-26,71,Non Smartphone,15,25,40,5,8,2,3,0,0,0,0
+948,1971,Youth Seg,West,10245,2013-05-15,32,Non Smartphone,11,17,41,5,5,1,2,2,0,0,0
+322,1978,Youth Seg,Lagos,42554,2013-01-12,93,Non Smartphone,30,11,41,5,4,2,3,0,0,0,0
+11092,1961,Youth Seg,North,27116,2014-03-02,78,Non Smartphone,13,25,41,5,7,2,3,0,0,0,0
+7574,1979,HV seg,Lagos,27922,2014-05-10,80,Non Smartphone,11,19,41,5,4,2,3,0,0,0,0
+10785,1969,Youth Seg,North,44078,2014-06-19,17,Non Smartphone,25,12,41,5,5,2,3,0,0,0,0
+3286,1967,HV seg,East,26642,2014-03-01,71,Non Smartphone,15,19,42,5,6,2,3,0,0,0,0
+3068,1990,Youth Seg,North,18351,2013-10-29,1,Smartphone,13,23,43,5,7,2,3,0,0,0,0
+8737,1978,Youth Seg,East,55563,2014-04-05,22,Smartphone,30,11,43,5,3,2,3,0,0,0,0
+2563,1961,Youth Seg,North,28249,2014-06-15,80,Smartphone,10,23,43,5,6,2,3,0,0,0,0
+8312,1961,Youth Seg,North,28249,2014-06-15,80,Smartphone,10,23,43,5,6,2,3,0,0,0,0
+5987,1989,Youth Seg,Lagos,10404,2014-05-04,52,Non Smartphone,4,27,43,5,5,1,4,0,0,0,0
+2154,1971,Youth Seg,East,30372,2012-12-25,33,Non Smartphone,15,22,44,5,7,2,3,0,0,0,0
+9216,1971,Youth Seg,North,35788,2014-01-23,34,Non Smartphone,25,15,44,5,6,2,3,0,0,0,0
+8842,1971,Youth Seg,East,30372,2012-12-25,33,Non Smartphone,15,22,44,5,7,2,3,0,0,0,0
+8416,1981,Youth Seg,North,29009,2013-11-29,19,Non Smartphone,12,30,44,5,6,2,3,0,0,0,0
+5247,1955,HV seg,North,38725,2014-05-10,52,Non Smartphone,31,9,45,5,4,1,4,0,0,0,0
+793,1973,Youth Seg,North,20895,2012-10-06,24,Non Smartphone,21,20,45,5,9,2,3,0,0,0,0
+7516,1983,Youth Seg,North,30096,2014-05-22,30,Non Smartphone,8,28,45,5,6,2,3,0,0,0,0
+453,1956,HV seg,East,35340,2014-06-29,1,Non Smartphone,27,13,45,5,5,2,3,0,0,0,0
+3129,1983,Youth Seg,North,30096,2014-05-22,30,Non Smartphone,8,28,45,5,6,2,3,0,0,0,0
+10854,1970,HV seg,North,38853,2014-05-23,90,Non Smartphone,29,14,45,5,7,2,3,0,0,0,0
+6983,1950,Mass Mkt Seg,East,38054,2014-05-01,24,Non Smartphone,25,20,45,5,7,2,3,0,0,0,0
+8724,1982,Youth Seg,West,28567,2013-06-17,57,Non Smartphone,14,26,46,5,6,2,3,0,0,0,0
+4066,1978,Youth Seg,East,21282,2014-05-11,76,Non Smartphone,6,20,46,5,6,2,2,1,0,0,0
+4855,1974,HV seg,Lagos,30351,2013-06-06,19,Non Smartphone,14,30,46,5,9,3,2,0,0,0,1
+1646,1972,Youth Seg,North,25224,2014-03-16,36,Non Smartphone,13,25,46,5,3,1,3,1,0,0,0
+8557,1982,Youth Seg,West,,2013-06-17,57,Non Smartphone,14,26,46,5,6,2,3,0,0,0,0
+5049,1974,HV seg,Lagos,30351,2013-06-06,19,Non Smartphone,14,30,46,5,9,3,2,0,0,0,0
+9197,1953,Youth Seg,North,39722,2014-02-24,92,Smartphone,32,7,47,5,5,2,3,0,0,0,0
+5150,1979,Youth Seg,West,20194,2012-12-17,64,Non Smartphone,4,28,47,5,6,2,3,0,0,0,0
+2541,1976,Youth Seg,North,24027,2013-06-09,7,Non Smartphone,21,22,48,5,8,2,3,0,0,0,0
+8147,1960,Youth Seg,North,31454,2013-07-06,40,Non Smartphone,28,11,48,5,8,2,3,0,0,0,0
+3722,1972,Youth Seg,West,44503,2014-04-16,83,Non Smartphone,32,8,48,5,6,2,3,0,0,0,0
+5585,1972,Youth Seg,West,21359,2013-04-20,1,Non Smartphone,14,24,48,5,8,2,3,0,0,0,1
+8812,1979,Youth Seg,East,13533,2013-03-10,45,Non Smartphone,15,16,48,5,7,2,3,0,0,0,0
+10795,1973,HV seg,North,37401,2014-05-06,14,Non Smartphone,22,23,48,5,7,2,3,0,0,0,0
+5929,1973,HV seg,North,37401,2014-05-06,14,Non Smartphone,22,23,48,5,7,2,3,0,0,0,0
+1715,1978,Youth Seg,Lagos,25851,2013-02-11,45,Non Smartphone,13,30,48,5,7,2,3,0,0,0,0
+6201,1978,Youth Seg,West,38643,2013-11-29,45,Non Smartphone,24,15,49,5,7,2,3,0,0,1,0
+3479,1950,Youth Seg,West,16813,2013-07-19,49,Smartphone,12,25,50,5,7,2,3,0,1,0,0
+10084,1972,Youth Seg,North,24434,2014-05-18,9,Non Smartphone,5,28,50,5,7,2,2,1,0,0,0
+5454,1979,Mass Mkt Seg,North,45057,2013-12-01,80,Non Smartphone,37,10,50,5,5,2,3,0,0,0,0
+11003,1980,Youth Seg,Lagos,25130,2013-10-02,10,Non Smartphone,7,25,50,5,7,2,3,0,0,0,0
+6515,1977,Youth Seg,Lagos,39771,2013-12-06,92,Non Smartphone,8,28,50,5,4,2,3,0,0,0,0
+4432,1976,Youth Seg,East,31615,2013-03-16,82,Non Smartphone,5,37,51,5,7,2,3,0,0,0,0
+3696,1965,Youth Seg,East,30630,2014-01-27,67,Non Smartphone,28,14,52,5,7,2,3,0,0,0,0
+736,1983,Youth Seg,Lagos,28427,2013-03-21,67,Non Smartphone,21,25,52,5,8,2,3,0,0,0,0
+7181,1977,Youth Seg,North,30368,2013-11-07,97,Smartphone,35,15,52,5,8,2,3,0,0,0,0
+1502,1983,Youth Seg,Lagos,28427,2013-03-21,67,Non Smartphone,21,25,52,5,8,2,3,0,0,0,0
+503,1985,Mass Mkt Seg,North,20559,2013-03-12,88,Non Smartphone,14,32,53,5,8,2,3,0,0,0,0
+9916,1954,Youth Seg,North,38998,2012-11-03,92,Non Smartphone,35,14,54,5,8,2,3,0,0,1,0
+4279,1963,Youth Seg,West,39548,2014-03-31,87,Non Smartphone,19,17,54,5,3,1,3,1,0,0,0
+5154,1972,Mass Mkt Seg,East,37760,2013-08-11,54,Non Smartphone,29,25,54,5,6,2,3,0,0,0,0
+6950,1958,Mass Mkt Seg,North,49572,2013-12-15,25,Non Smartphone,36,17,54,5,7,2,3,0,0,0,0
+6730,1954,Youth Seg,North,38998,2012-11-03,92,Non Smartphone,35,14,54,5,8,2,3,0,0,1,0
+6634,1979,Mass Mkt Seg,East,33462,2013-08-07,78,Non Smartphone,25,18,54,5,7,2,3,0,0,0,0
+6885,1977,Youth Seg,East,32952,2013-12-01,36,Non Smartphone,38,16,55,5,7,2,3,0,0,0,0
+4179,1959,Youth Seg,Lagos,24221,2013-08-20,94,Smartphone,17,16,55,5,4,1,3,1,0,0,0
+3536,1960,Youth Seg,Lagos,19740,2013-03-24,65,Smartphone,18,17,55,5,5,1,3,1,0,0,0
+5756,1983,Youth Seg,Lagos,39453,2014-04-03,64,Non Smartphone,46,7,55,5,6,2,3,0,0,0,0
+1016,1959,HV seg,West,34554,2014-03-30,43,Smartphone,42,8,55,5,6,2,3,0,0,0,0
+8017,1981,Youth Seg,North,51111,2014-06-19,83,Non Smartphone,22,30,55,5,6,2,3,0,0,0,0
+7034,1978,Youth Seg,North,25804,2013-09-01,34,Non Smartphone,15,28,55,5,8,2,3,0,0,0,0
+8086,1959,Youth Seg,North,42243,2013-12-11,34,Non Smartphone,48,2,55,5,7,2,3,0,0,0,0
+1143,1972,Youth Seg,North,22063,2013-08-08,43,Non Smartphone,17,27,55,5,7,2,3,0,0,0,0
+5268,1960,Youth Seg,North,29440,2013-08-11,95,Non Smartphone,25,28,56,5,7,1,4,0,0,0,0
+5740,1970,Youth Seg,East,25959,2013-02-14,1,Non Smartphone,6,24,56,5,6,1,2,2,0,0,1
+1773,1978,Youth Seg,North,12393,2012-12-04,38,Smartphone,11,33,57,5,9,2,3,0,0,0,0
+4211,1986,Youth Seg,North,20425,2012-10-29,5,Non Smartphone,16,24,57,5,7,2,3,0,0,0,0
+1407,1986,Youth Seg,North,20425,2012-10-29,5,Non Smartphone,16,24,57,5,7,2,3,0,0,0,0
+4472,1970,HV seg,East,35682,2014-06-27,34,Non Smartphone,23,16,57,5,2,1,3,1,0,0,0
+498,1970,Youth Seg,West,30015,2014-02-02,28,Non Smartphone,25,27,57,5,5,1,4,0,0,0,0
+2868,1949,HV seg,West,26518,2013-04-08,33,Non Smartphone,21,34,57,5,8,2,3,0,0,0,1
+5975,1967,HV seg,West,40304,2013-09-30,82,Non Smartphone,37,17,57,5,7,2,3,0,0,0,0
+87,1981,Youth Seg,North,27733,2013-08-26,16,Non Smartphone,7,33,57,5,7,2,3,0,0,0,0
+6460,1982,Youth Seg,North,28718,2013-07-13,78,Non Smartphone,16,25,57,5,8,2,3,0,0,0,0
+5527,1987,Youth Seg,Lagos,22434,2013-02-13,25,Non Smartphone,16,27,58,5,8,2,3,0,0,0,0
+4240,1978,Youth Seg,North,17345,2012-11-03,79,Non Smartphone,13,33,58,5,8,2,2,1,0,0,0
+1987,1987,Youth Seg,West,21063,2013-09-25,34,Non Smartphone,11,33,59,5,6,2,3,0,0,0,0
+10466,1965,Youth Seg,North,44393,2013-08-22,86,Non Smartphone,26,24,60,5,4,1,4,0,0,0,0
+387,1976,Youth Seg,North,7500,2012-11-13,59,Smartphone,22,23,61,5,8,2,3,0,0,0,0
+4444,1972,Youth Seg,North,30023,2014-03-24,28,Non Smartphone,11,29,61,5,8,2,3,0,0,0,0
+8418,1958,Youth Seg,West,38741,2014-03-30,60,Non Smartphone,17,31,61,5,7,2,3,0,0,0,0
+5654,1972,Youth Seg,North,36026,2014-03-16,34,Non Smartphone,24,20,61,5,6,2,3,0,0,0,0
+7736,1986,Youth Seg,North,22518,2012-10-22,36,Non Smartphone,18,16,61,5,5,2,2,1,1,0,1
+7369,1981,Mass Mkt Seg,North,36959,2013-10-02,56,Non Smartphone,31,31,62,5,8,2,3,0,0,0,0
+9150,1963,HV seg,West,48918,2014-04-12,21,Non Smartphone,52,9,62,5,4,1,4,0,0,0,0
+1384,1992,Youth Seg,North,17256,2013-11-23,10,Non Smartphone,10,30,62,5,8,2,2,1,1,0,0
+2811,1963,HV seg,West,48918,2014-04-12,21,Non Smartphone,52,9,62,5,4,1,4,0,0,0,0
+7326,1971,Mass Mkt Seg,North,56850,2014-03-23,83,Smartphone,35,28,63,5,2,1,3,1,0,0,0
+4887,1976,HV seg,East,55412,2013-11-22,65,Non Smartphone,15,40,63,5,5,2,3,0,0,0,0
+9289,1979,Youth Seg,North,36781,2014-04-10,16,Non Smartphone,30,20,63,5,8,2,2,1,0,0,1
+2445,1974,HV seg,Lagos,28440,2013-07-07,87,Non Smartphone,39,24,63,5,8,2,3,0,0,0,0
+11100,1972,Youth Seg,East,51813,2013-04-11,37,Non Smartphone,53,8,63,5,7,2,3,0,0,0,0
+6271,1952,HV seg,North,50870,2014-06-19,13,Smartphone,53,8,63,5,5,2,3,0,0,0,0
+10236,1975,Mass Mkt Seg,West,31160,2013-09-16,59,Non Smartphone,19,32,64,5,8,2,3,0,0,0,0
+3547,1969,Mass Mkt Seg,Lagos,41021,2012-12-30,12,Non Smartphone,21,31,64,5,6,2,3,0,0,0,1
+7212,1966,Youth Seg,North,44794,2014-06-08,99,Smartphone,54,7,65,5,6,2,3,0,0,0,0
+9672,1970,Youth Seg,North,23162,2013-12-21,82,Non Smartphone,11,32,65,5,6,1,3,1,0,0,0
+7829,1900,Youth Seg,East,36640,2013-09-26,99,Non Smartphone,21,19,65,5,5,2,2,1,0,1,0
+868,1966,Youth Seg,North,44794,2014-06-08,99,Smartphone,54,7,65,5,6,2,3,0,0,0,0
+10738,1951,Mass Mkt Seg,West,49389,2013-08-29,55,Non Smartphone,40,22,65,5,7,2,3,0,0,0,0
+10796,1984,Mass Mkt Seg,North,30477,2014-01-22,16,Non Smartphone,48,6,66,5,6,1,3,1,0,0,0
+2115,1957,Youth Seg,Lagos,50116,2014-06-20,68,Non Smartphone,54,10,66,5,5,1,4,0,1,0,0
+7042,1983,Youth Seg,North,36790,2013-03-01,14,Smartphone,6,50,66,5,9,2,2,1,0,0,1
+7232,1973,Youth Seg,East,42429,2014-02-11,99,Smartphone,55,8,67,5,5,1,3,1,0,0,0
+6534,1974,Youth Seg,Lagos,47889,2014-01-04,94,Non Smartphone,29,34,67,5,5,2,3,0,0,0,0
+1834,1978,Mass Mkt Seg,West,35544,2014-03-08,77,Non Smartphone,35,28,67,5,7,2,3,0,0,0,0
+2431,1990,Youth Seg,North,18222,2012-12-31,70,Smartphone,16,37,67,5,8,2,3,0,0,0,0
+5252,1969,Youth Seg,East,23910,2012-10-26,80,Non Smartphone,28,26,67,5,7,2,3,0,0,0,0
+8595,1973,Youth Seg,East,42429,2014-02-11,99,Smartphone,55,8,67,5,5,1,3,1,0,0,0
+8605,1964,HV seg,Lagos,46910,2014-03-23,36,Non Smartphone,48,14,68,5,6,2,3,0,0,0,0
+6431,1964,HV seg,North,45759,2013-02-23,13,Non Smartphone,43,21,68,5,7,2,3,0,0,0,0
+10789,1964,HV seg,North,45759,2013-02-23,13,Non Smartphone,43,21,68,5,7,2,3,0,0,0,0
+6770,1985,Youth Seg,North,21355,2013-08-20,5,Non Smartphone,18,19,68,5,6,2,2,1,1,0,1
+9653,1975,Youth Seg,North,35797,2012-10-16,16,Smartphone,28,19,68,5,8,2,3,0,0,0,0
+5684,1971,Mass Mkt Seg,East,44635,2013-10-11,25,Non Smartphone,56,9,68,5,7,2,3,0,0,0,0
+10837,1975,Youth Seg,North,23957,2012-10-28,47,Non Smartphone,3,49,68,5,6,2,3,0,0,0,1
+2447,1979,Youth Seg,Lagos,30545,2012-10-17,71,Non Smartphone,16,41,69,5,7,2,3,0,0,0,0
+10595,1990,Youth Seg,North,30093,2013-07-08,19,Smartphone,8,45,69,5,7,2,3,0,0,0,0
+2202,1978,Youth Seg,Lagos,41154,2013-04-09,98,Smartphone,46,16,69,5,5,1,4,0,0,0,0
+2546,1977,Youth Seg,West,31878,2014-06-22,7,Smartphone,27,20,70,5,3,1,4,0,0,0,0
+5300,1973,Mass Mkt Seg,North,38961,2013-12-30,60,Non Smartphone,26,20,70,5,7,2,2,1,0,0,0
+663,1989,HV seg,West,33996,2013-09-11,46,Smartphone,42,23,71,5,4,1,3,1,0,0,0
+4550,1966,Mass Mkt Seg,Lagos,33564,2014-06-24,51,Smartphone,61,3,71,5,5,1,3,1,0,0,0
+1921,1967,HV seg,North,59062,2013-10-03,74,Non Smartphone,47,15,71,5,4,2,3,0,0,0,0
+8299,1989,HV seg,West,33996,2013-09-11,46,Smartphone,42,23,71,5,4,1,3,1,0,0,0
+8230,1980,Youth Seg,North,33228,2014-01-23,28,Non Smartphone,24,42,71,5,7,2,3,0,0,0,0
+6019,1971,HV seg,North,37126,2014-03-30,9,Non Smartphone,48,17,72,5,6,1,2,2,1,0,1
+1473,1960,Youth Seg,West,47823,2013-07-23,0,Smartphone,54,8,72,5,8,2,3,0,0,0,0
+1331,1977,Youth Seg,West,35790,2013-01-02,54,Non Smartphone,18,51,72,5,7,2,3,0,0,0,0
+5790,1985,Youth Seg,North,31158,2013-01-27,62,Non Smartphone,31,36,72,5,8,2,3,0,0,0,0
+1777,1980,Youth Seg,North,25965,2012-09-07,29,Smartphone,4,59,74,5,8,2,3,0,0,0,0
+6116,1968,Youth Seg,North,48985,2013-07-05,13,Smartphone,32,35,75,5,3,1,3,1,0,0,0
+8686,1979,Youth Seg,Lagos,23724,2013-01-08,65,Non Smartphone,28,33,75,5,8,2,3,0,0,0,0
+6437,1985,Youth Seg,West,41473,2013-06-19,80,Non Smartphone,29,38,76,5,7,2,3,0,0,0,0
+2516,1969,Youth Seg,North,46831,2013-06-08,84,Non Smartphone,24,20,78,5,4,1,2,2,0,0,0
+1010,1977,Youth Seg,Lagos,46931,2014-04-24,94,Non Smartphone,41,21,78,5,3,1,3,1,0,0,0
+6568,1984,Youth Seg,North,38680,2013-03-28,97,Non Smartphone,11,56,79,5,7,2,3,0,0,0,0
+6214,1982,Mass Mkt Seg,North,43815,2013-04-05,53,Non Smartphone,24,40,79,5,6,2,3,0,0,0,0
+3628,1987,Youth Seg,West,15038,2013-01-29,93,Non Smartphone,12,42,80,5,9,2,2,1,0,0,0
+6365,1987,Youth Seg,North,30390,2013-09-02,5,Smartphone,22,38,80,5,6,2,3,0,0,0,0
+5234,1967,Youth Seg,Lagos,30753,2013-07-11,85,Non Smartphone,17,34,81,5,5,1,3,1,0,0,0
+3710,1984,HV seg,West,39684,2012-10-12,41,Non Smartphone,19,45,81,5,7,2,2,1,0,1,1
+1928,1973,Youth Seg,North,31814,2013-02-09,73,Non Smartphone,38,25,83,5,9,2,3,0,1,0,0
+1857,1952,Youth Seg,West,47139,2014-03-06,2,Non Smartphone,46,14,83,5,7,2,2,1,0,0,1
+2253,1990,Youth Seg,North,18929,2013-02-16,15,Smartphone,32,35,85,5,6,1,4,0,0,0,0
+1876,1990,Youth Seg,North,18929,2013-02-16,15,Smartphone,32,35,85,5,6,1,4,0,0,0,0
+2326,1990,Youth Seg,North,18929,2013-02-16,15,Smartphone,32,35,85,5,6,1,4,0,0,0,0
+7573,1978,HV seg,West,31626,2013-05-10,12,Non Smartphone,40,12,86,5,7,2,2,1,1,0,1
+938,1981,Youth Seg,North,40211,2013-07-30,30,Non Smartphone,52,10,87,5,8,2,2,1,1,0,0
+6941,1971,Youth Seg,West,31632,2013-07-14,92,Smartphone,25,38,95,5,7,2,2,1,0,0,0
+2315,1960,Youth Seg,East,58401,2014-04-20,55,Smartphone,10,57,96,5,4,1,2,2,0,0,0
+880,1966,Youth Seg,Lagos,22634,2013-01-16,47,Smartphone,25,25,96,5,8,2,2,1,0,0,0
+524,1966,Youth Seg,Lagos,22634,2013-01-16,47,Smartphone,25,25,96,5,8,2,2,1,0,0,0
+642,1980,Youth Seg,North,16005,2012-08-14,69,Non Smartphone,4,52,103,5,8,2,2,1,0,0,0
+3887,1970,Youth Seg,West,27242,2012-11-11,2,Non Smartphone,20,47,106,5,9,2,3,0,0,0,1
+10617,1989,Mass Mkt Seg,East,10979,2014-05-22,34,Smartphone,12,14,30,6,5,3,3,0,0,0,0
+6864,1989,Mass Mkt Seg,East,10979,2014-05-22,34,Smartphone,12,14,30,6,5,3,3,0,0,0,0
+2980,1952,Mass Mkt Seg,West,8820,2013-03-22,52,Non Smartphone,12,19,35,6,8,3,3,0,0,0,0
+5394,1979,Youth Seg,West,16014,2013-03-17,42,Non Smartphone,12,19,38,6,3,1,4,1,0,0,0
+7235,1975,Youth Seg,North,17003,2013-12-09,37,Non Smartphone,7,24,38,6,5,2,4,0,0,0,0
+2337,1971,Youth Seg,East,29819,2013-10-24,77,Non Smartphone,10,27,39,6,6,3,3,0,0,0,0
+8541,1990,Youth Seg,North,24683,2014-03-08,98,Non Smartphone,12,23,41,6,5,2,4,0,0,0,0
+2156,1955,HV seg,North,22554,2012-11-03,38,Non Smartphone,27,10,41,6,5,2,4,0,0,0,0
+1458,1982,Mass Mkt Seg,North,21059,2014-01-07,40,Non Smartphone,11,25,44,6,6,3,3,0,0,0,0
+10403,1978,Youth Seg,Lagos,16531,2014-06-18,43,Non Smartphone,15,18,44,6,7,3,3,0,0,0,0
+2661,1964,Youth Seg,West,18701,2013-06-04,95,Non Smartphone,16,18,44,6,5,2,4,0,0,0,0
+11010,1984,HV seg,West,16269,2013-08-30,75,Non Smartphone,22,22,44,6,8,3,3,0,0,0,0
+5313,1971,Mass Mkt Seg,North,38196,2014-04-18,20,Non Smartphone,30,11,44,6,5,2,4,0,0,0,0
+4098,1973,Youth Seg,North,24639,2014-01-28,3,Non Smartphone,23,20,44,6,6,2,4,0,0,0,0
+3130,1964,Youth Seg,West,18701,2013-06-04,95,Non Smartphone,16,18,44,6,5,2,4,0,0,0,0
+8625,1976,Youth Seg,North,17649,2013-11-12,70,Non Smartphone,16,28,45,6,8,3,3,0,0,0,0
+6355,1978,Youth Seg,North,44359,2014-06-17,19,Non Smartphone,20,24,45,6,3,2,4,0,0,0,0
+10536,1971,HV seg,Lagos,32892,2014-05-25,78,Non Smartphone,26,18,46,6,8,3,3,0,0,0,0
+9423,1979,Mass Mkt Seg,North,32765,2014-02-23,49,Non Smartphone,16,27,46,6,5,2,4,0,0,0,0
+6383,1971,HV seg,Lagos,32892,2014-05-25,78,Non Smartphone,26,18,46,6,8,3,3,0,0,0,0
+4385,1981,HV seg,West,36038,2013-05-31,82,Non Smartphone,23,17,47,6,6,3,3,0,0,0,0
+1612,1981,HV seg,West,,2013-05-31,82,Non Smartphone,23,17,47,6,6,3,3,0,0,0,0
+7327,1959,HV seg,North,36732,2013-12-29,71,Non Smartphone,26,14,47,6,2,1,4,1,0,0,0
+213,1963,HV seg,West,23091,2014-05-28,98,Non Smartphone,35,11,48,6,7,2,3,1,0,0,0
+6336,1960,Youth Seg,North,29315,2014-04-06,55,Non Smartphone,15,29,48,6,6,2,4,0,0,0,0
+1160,1970,Youth Seg,North,13260,2013-08-23,48,Non Smartphone,13,29,49,6,8,3,3,0,0,0,0
+6398,1974,Youth Seg,North,18393,2014-03-29,2,Non Smartphone,17,29,50,6,8,3,3,0,0,0,0
+1448,1963,Mass Mkt Seg,North,33562,2014-06-25,33,Non Smartphone,33,15,51,6,4,2,4,0,0,0,0
+6182,1984,Youth Seg,Lagos,26646,2014-02-10,26,Non Smartphone,15,33,53,6,6,2,4,0,0,0,0
+4333,1954,Youth Seg,Lagos,32144,2014-03-23,76,Non Smartphone,41,10,54,6,7,2,3,1,1,0,0
+3665,1977,Youth Seg,Lagos,25315,2013-11-07,46,Non Smartphone,10,22,54,6,8,3,3,0,0,0,0
+8079,1982,Youth Seg,North,22448,2014-02-26,86,Non Smartphone,4,33,55,6,3,2,3,1,0,0,0
+4328,1986,Youth Seg,North,21955,2013-09-07,81,Non Smartphone,6,38,55,6,6,2,3,1,0,0,0
+4227,1968,Mass Mkt Seg,Lagos,32889,2013-09-06,78,Non Smartphone,28,19,55,6,5,2,3,1,0,0,0
+1321,1974,Youth Seg,North,26067,2013-11-04,49,Non Smartphone,24,20,56,6,8,3,3,0,0,0,0
+6507,1980,Youth Seg,West,30828,2013-10-04,16,Non Smartphone,27,17,56,6,3,1,4,1,0,0,0
+6197,1962,HV seg,West,27238,2013-04-20,39,Non Smartphone,37,17,57,6,9,3,3,0,0,0,0
+3559,1988,Youth Seg,North,16248,2014-05-10,77,Non Smartphone,23,25,57,6,6,2,3,1,0,0,0
+10641,1978,Youth Seg,West,7500,2012-12-27,5,Non Smartphone,11,21,57,6,6,2,3,1,0,0,0
+7937,1982,Youth Seg,North,24711,2014-04-18,86,Smartphone,17,34,58,6,7,3,3,0,0,0,0
+6471,1971,Mass Mkt Seg,West,36230,2013-10-17,17,Non Smartphone,16,40,59,6,5,2,4,0,0,0,0
+2589,1972,Youth Seg,East,26759,2014-02-07,65,Non Smartphone,28,29,59,6,6,2,3,1,0,0,0
+9014,1975,Youth Seg,North,37085,2014-06-26,65,Non Smartphone,40,18,61,6,8,3,3,0,0,0,0
+4988,1948,HV seg,North,34469,2014-05-04,58,Non Smartphone,25,25,62,6,4,1,4,1,0,0,0
+5237,1950,HV seg,West,48767,2014-01-01,79,Non Smartphone,29,24,63,6,5,2,3,1,0,0,0
+7007,1968,Mass Mkt Seg,North,29543,2014-04-01,47,Non Smartphone,20,25,63,6,7,3,2,1,0,0,0
+6919,1978,Youth Seg,North,26224,2013-06-04,39,Non Smartphone,11,37,63,6,6,2,3,1,0,0,0
+2488,1956,Youth Seg,East,31395,2013-03-23,80,Non Smartphone,24,33,64,6,6,2,3,1,0,0,0
+8420,1970,Youth Seg,North,15315,2013-08-03,27,Smartphone,11,36,64,6,5,2,4,0,0,0,0
+4055,1992,Youth Seg,West,18746,2014-05-29,41,Non Smartphone,12,32,64,6,6,3,3,0,0,0,0
+10065,1970,Youth Seg,North,15315,2013-08-03,27,Smartphone,11,36,64,6,5,2,4,0,0,0,0
+5835,1976,HV seg,East,14849,2013-07-02,39,Non Smartphone,23,33,65,6,8,2,4,0,0,0,0
+6856,1979,Youth Seg,Lagos,21645,2012-09-03,75,Non Smartphone,14,32,65,6,9,3,3,0,0,0,1
+8700,1986,Youth Seg,West,14906,2012-12-22,86,Smartphone,14,37,66,6,7,2,3,1,0,0,0
+8933,1983,Youth Seg,North,32146,2014-05-12,16,Non Smartphone,29,34,66,6,6,2,4,0,0,0,0
+10270,1981,Youth Seg,North,35523,2013-10-03,8,Non Smartphone,16,39,66,6,7,3,3,0,0,0,0
+5223,1966,Mass Mkt Seg,Lagos,45903,2014-04-23,80,Smartphone,41,22,66,6,4,2,3,1,0,0,0
+4725,1950,HV seg,Lagos,50616,2014-04-13,71,Smartphone,32,26,67,6,2,1,4,1,0,0,0
+4557,1970,Youth Seg,Lagos,22070,2013-10-04,11,Non Smartphone,17,29,67,6,6,2,2,2,0,0,0
+2639,1966,Youth Seg,West,43602,2014-01-10,45,Non Smartphone,24,25,68,6,6,3,2,1,0,0,0
+4927,1971,Youth Seg,Lagos,16626,2014-01-15,76,Non Smartphone,11,44,68,6,9,3,3,0,0,0,0
+11187,1978,Youth Seg,West,26487,2013-05-20,23,Non Smartphone,10,36,69,6,5,2,3,1,0,0,0
+2634,1979,Mass Mkt Seg,West,16653,2014-04-18,10,Non Smartphone,12,50,69,6,6,2,3,1,0,0,1
+4992,1975,Mass Mkt Seg,Lagos,17459,2013-09-19,12,Non Smartphone,10,29,69,6,7,3,2,1,0,0,1
+8975,1968,Youth Seg,North,19514,2014-01-26,47,Non Smartphone,17,24,69,6,8,3,2,1,1,0,0
+89,1975,Youth Seg,North,22212,2013-12-09,49,Non Smartphone,14,34,69,6,6,2,4,0,0,0,0
+9671,1968,Youth Seg,North,19514,2014-01-26,47,Non Smartphone,17,24,69,6,8,3,2,1,1,0,1
+10680,1986,Youth Seg,Lagos,33235,2014-02-05,71,Non Smartphone,45,19,70,6,7,3,3,0,0,0,0
+9974,1974,Youth Seg,North,30631,2013-07-12,75,Non Smartphone,21,29,70,6,7,3,2,1,0,0,0
+3645,1972,HV seg,West,27213,2012-08-30,19,Non Smartphone,22,45,70,6,8,2,4,0,0,0,1
+5967,1952,Youth Seg,Lagos,33402,2013-07-18,60,Non Smartphone,28,34,70,6,8,2,3,1,0,0,0
+10509,1955,Mass Mkt Seg,West,36927,2014-06-02,46,Non Smartphone,51,16,71,6,8,3,3,0,0,0,0
+833,1955,Mass Mkt Seg,North,38452,2014-03-30,62,Non Smartphone,56,14,72,6,7,3,3,0,0,0,0
+3565,1955,Mass Mkt Seg,North,38452,2014-03-30,62,Non Smartphone,56,14,72,6,7,3,3,0,0,0,0
+9080,1972,HV seg,West,38578,2013-06-22,2,Non Smartphone,42,28,73,6,8,3,3,0,0,0,0
+3865,1977,Youth Seg,Lagos,20981,2013-04-30,14,Smartphone,14,29,73,6,8,3,2,1,0,0,1
+1519,1972,HV seg,West,38578,2013-06-22,2,Non Smartphone,42,28,73,6,8,3,3,0,0,0,1
+523,1989,Youth Seg,North,37155,2013-01-31,51,Non Smartphone,23,48,74,6,5,2,4,0,0,0,0
+7842,1968,Youth Seg,West,36065,2013-03-31,54,Non Smartphone,25,46,74,6,8,3,3,0,0,0,0
+10242,1966,HV seg,Lagos,47472,2013-09-16,39,Non Smartphone,56,11,75,6,5,2,4,0,0,0,0
+2005,1990,Youth Seg,North,35765,2013-12-11,86,Non Smartphone,25,35,75,6,6,2,4,0,0,0,0
+5802,1972,Youth Seg,North,14188,2013-02-28,40,Smartphone,9,39,75,6,6,2,4,0,0,0,0
+7892,1969,Youth Seg,West,18589,2013-01-02,89,Smartphone,10,52,75,6,7,2,3,1,0,0,0
+4186,1950,Youth Seg,Lagos,34026,2013-08-05,11,Non Smartphone,24,35,76,6,5,2,3,1,0,0,0
+7527,1968,Mass Mkt Seg,East,23748,2012-11-21,97,Non Smartphone,12,56,76,6,8,2,3,1,0,0,0
+2952,1977,Mass Mkt Seg,West,36273,2014-04-16,80,Non Smartphone,32,35,76,6,6,3,3,0,0,0,0
+7628,1973,Youth Seg,North,43050,2014-03-18,10,Non Smartphone,35,33,76,6,5,2,4,0,0,0,0
+1419,1950,Youth Seg,Lagos,34026,2013-08-05,11,Non Smartphone,24,35,76,6,5,2,3,1,0,0,0
+304,1981,Mass Mkt Seg,West,22944,2013-12-23,67,Non Smartphone,22,28,76,6,7,3,3,0,0,0,0
+6387,1976,HV seg,Lagos,52190,2014-05-08,39,Non Smartphone,42,17,77,6,5,2,3,1,1,0,0
+10542,1968,HV seg,North,36778,2012-08-05,63,Non Smartphone,33,40,77,6,9,3,3,0,0,0,0
+2157,1972,Youth Seg,Lagos,26290,2013-01-12,49,Non Smartphone,23,32,77,6,6,2,4,0,0,0,0
+9668,1971,Youth Seg,North,18793,2013-01-12,14,Non Smartphone,20,37,77,6,8,2,4,0,0,0,0
+7685,1978,Youth Seg,North,33039,2013-09-09,4,Non Smartphone,38,28,78,6,5,2,4,0,0,0,0
+3276,1976,Youth Seg,Lagos,36301,2013-10-25,53,Non Smartphone,23,43,78,6,7,3,3,0,0,0,0
+9829,1978,Youth Seg,Lagos,28587,2014-02-12,42,Non Smartphone,26,39,78,6,6,2,4,0,0,0,0
+2428,1970,Youth Seg,North,28164,2013-05-04,23,Non Smartphone,21,45,78,6,7,2,4,0,0,0,0
+6310,1978,Youth Seg,North,33039,2013-09-09,4,Non Smartphone,38,28,78,6,5,2,4,0,0,0,0
+6504,1975,Youth Seg,Lagos,19789,2013-11-20,24,Non Smartphone,7,43,78,6,5,2,3,1,1,0,0
+5346,1973,Youth Seg,North,23559,2013-07-03,87,Non Smartphone,30,26,79,6,7,3,3,0,0,0,0
+7301,1982,Youth Seg,West,23616,2012-11-17,76,Non Smartphone,26,21,79,6,8,3,3,0,0,0,1
+6205,1967,Mass Mkt Seg,West,32557,2014-02-24,13,Non Smartphone,37,33,80,6,5,2,3,1,0,0,1
+10755,1976,Youth Seg,North,23718,2013-09-02,76,Non Smartphone,9,36,81,6,7,3,2,1,0,0,0
+2371,1972,Youth Seg,North,33622,2013-04-13,22,Non Smartphone,40,29,81,6,7,2,4,0,0,0,0
+9727,1957,Youth Seg,North,23539,2014-02-28,13,Smartphone,28,28,81,6,6,2,4,0,0,0,0
+3798,1968,Youth Seg,North,41120,2013-11-06,80,Non Smartphone,26,31,81,6,6,2,3,1,0,0,0
+4712,1991,Youth Seg,Lagos,20193,2012-11-28,18,Smartphone,16,57,82,6,4,1,4,1,0,0,0
+1250,1976,Youth Seg,West,37697,2014-02-07,82,Non Smartphone,40,36,84,6,6,2,3,1,0,0,0
+1998,1976,Youth Seg,West,37697,2014-02-07,82,Non Smartphone,40,36,84,6,6,2,3,1,0,0,0
+5316,1976,Mass Mkt Seg,Lagos,21024,2013-07-04,89,Smartphone,40,26,84,6,7,2,4,0,0,0,0
+11114,1970,Youth Seg,Lagos,19656,2013-02-08,94,Non Smartphone,29,23,84,6,7,2,3,1,0,0,0
+7004,1984,Youth Seg,West,11012,2013-03-16,82,Non Smartphone,27,34,84,6,9,3,2,1,1,0,0
+8414,1962,HV seg,West,33419,2013-08-17,76,Smartphone,56,12,86,6,7,2,4,0,0,0,0
+8443,1972,Youth Seg,West,24762,2014-02-10,16,Non Smartphone,16,30,86,6,8,3,2,1,1,0,1
+4220,1970,HV seg,North,59892,2013-11-02,26,Smartphone,73,14,87,6,3,2,3,1,0,0,0
+4370,1966,Youth Seg,Lagos,43482,2013-11-13,83,Non Smartphone,19,41,88,6,6,2,4,0,0,0,0
+10609,1962,HV seg,North,42769,2013-10-12,15,Smartphone,71,17,88,6,4,1,4,1,0,0,0
+11188,1957,Youth Seg,Lagos,26091,2014-02-25,84,Non Smartphone,25,44,89,6,5,2,3,1,0,0,0
+3152,1957,Youth Seg,Lagos,26091,2014-02-25,84,Non Smartphone,25,44,89,6,5,2,3,1,0,0,0
+10812,1978,HV seg,North,46377,2014-03-01,89,Non Smartphone,37,53,90,6,4,2,3,1,0,0,0
+3381,1953,Mass Mkt Seg,North,54348,2014-06-08,51,Non Smartphone,70,16,90,6,6,2,4,0,0,0,0
+2918,1981,Youth Seg,East,28510,2013-04-13,72,Non Smartphone,49,23,91,6,5,2,4,0,0,0,0
+9140,1960,Youth Seg,Lagos,50523,2013-12-25,89,Non Smartphone,55,35,91,6,6,2,4,0,0,0,0
+5371,1989,Youth Seg,West,21474,2014-04-08,0,Non Smartphone,22,35,91,6,7,3,2,1,1,0,1
+1324,1988,Youth Seg,North,38872,2013-05-30,93,Non Smartphone,26,43,91,6,8,3,3,0,0,0,0
+5734,1974,HV seg,North,61917,2013-11-20,83,Non Smartphone,50,40,91,6,5,2,4,0,0,0,0
+10470,1979,Mass Mkt Seg,North,40662,2013-03-15,0,Non Smartphone,42,27,92,6,4,2,3,1,0,0,0
+2544,1951,Mass Mkt Seg,East,57530,2013-10-12,68,Smartphone,51,40,92,6,1,1,4,1,0,0,0
+7393,1978,Youth Seg,Lagos,41580,2012-12-10,15,Non Smartphone,61,28,92,6,5,2,3,1,0,0,0
+9923,1972,Mass Mkt Seg,West,46423,2013-09-18,6,Non Smartphone,68,16,92,6,7,2,4,0,0,0,0
+67,1972,Mass Mkt Seg,West,46423,2013-09-18,6,Non Smartphone,68,16,92,6,7,2,4,0,0,0,0
+10699,1985,Youth Seg,North,44322,2014-06-16,30,Non Smartphone,46,43,92,6,8,3,3,0,0,0,0
+1880,1959,HV seg,Lagos,53537,2014-01-30,17,Non Smartphone,81,6,93,6,5,2,3,1,0,0,0
+1072,1965,HV seg,West,40760,2013-08-30,64,Smartphone,70,17,93,6,6,2,3,1,0,0,0
+4376,1960,Youth Seg,West,32218,2014-02-15,27,Smartphone,34,29,93,6,7,2,3,1,1,0,1
+3706,1978,Youth Seg,West,28647,2013-08-21,54,Non Smartphone,27,41,94,6,7,2,2,2,1,0,1
+9706,1974,HV seg,West,31560,2013-06-24,98,Non Smartphone,63,24,94,6,8,2,3,1,0,0,0
+3308,1952,Youth Seg,North,35704,2014-01-03,54,Non Smartphone,39,25,94,6,4,2,4,0,0,0,0
+4487,1969,Mass Mkt Seg,West,39858,2013-01-24,67,Non Smartphone,35,34,95,6,6,2,4,0,0,0,1
+1131,1967,HV seg,West,52569,2014-04-05,54,Smartphone,85,3,95,6,3,2,4,0,0,0,0
+1991,1967,Youth Seg,Lagos,44931,2014-01-18,0,Smartphone,78,11,96,6,5,2,3,1,0,0,0
+9736,1980,Youth Seg,North,41850,2012-12-24,51,Non Smartphone,58,34,96,6,8,3,3,0,0,0,0
+1523,1973,Youth Seg,North,59041,2014-05-07,25,Non Smartphone,71,19,96,6,5,2,4,0,0,0,0
+5079,1971,Youth Seg,North,,2013-03-03,82,Non Smartphone,72,16,97,6,8,2,3,1,0,0,0
+7458,1956,Mass Mkt Seg,Lagos,34941,2013-03-06,26,Non Smartphone,41,32,97,6,8,3,3,0,0,0,0
+2061,1955,Youth Seg,North,50737,2013-05-11,61,Smartphone,78,11,99,6,6,2,4,0,1,0,0
+10637,1964,Youth Seg,North,40800,2013-01-01,77,Non Smartphone,24,65,99,6,7,3,3,0,0,1,0
+10967,1963,Youth Seg,East,33378,2013-02-06,38,Non Smartphone,39,50,99,6,7,2,4,0,0,0,0
+10212,1986,Mass Mkt Seg,Lagos,42386,2013-01-13,43,Non Smartphone,69,20,100,6,8,3,3,0,0,0,0
+10001,1985,Youth Seg,Lagos,7500,2012-08-01,98,Non Smartphone,22,44,100,6,9,2,3,1,0,0,0
+9738,1986,Mass Mkt Seg,Lagos,42386,2013-01-13,43,Non Smartphone,69,20,100,6,8,3,3,0,0,0,0
+6103,1948,Youth Seg,North,42192,2013-09-06,40,Smartphone,55,38,100,6,4,2,3,1,0,0,0
+5093,1974,HV seg,East,25509,2012-09-18,15,Non Smartphone,43,47,101,6,9,3,3,0,0,0,1
+4832,1979,Youth Seg,North,27244,2014-03-07,84,Non Smartphone,11,44,101,6,7,2,2,2,0,0,0
+8524,1974,HV seg,East,25509,2012-09-18,15,Non Smartphone,43,47,101,6,9,3,3,0,0,0,1
+10477,1973,HV seg,Lagos,39435,2013-08-06,16,Non Smartphone,71,18,102,6,7,3,2,1,0,0,0
+954,1960,Youth Seg,East,22123,2014-03-27,77,Smartphone,6,65,102,6,5,2,3,1,0,0,0
+1920,1972,Youth Seg,North,40321,2013-07-29,59,Non Smartphone,48,27,102,6,7,3,3,0,0,0,0
+2392,1972,Youth Seg,North,40321,2013-07-29,59,Non Smartphone,48,27,102,6,7,3,3,0,0,0,0
+1970,1968,Mass Mkt Seg,Lagos,34053,2012-09-10,14,Smartphone,63,28,103,6,8,3,3,0,0,0,0
+3469,1977,HV seg,East,34487,2012-09-06,94,Non Smartphone,37,58,103,6,9,3,3,0,0,0,0
+7912,1978,Youth Seg,North,38136,2013-04-22,69,Non Smartphone,23,47,103,6,8,3,2,1,1,0,0
+6710,1951,Mass Mkt Seg,West,58217,2012-11-17,84,Non Smartphone,69,21,103,6,6,2,4,0,0,0,0
+3745,1988,Youth Seg,North,23331,2012-09-04,92,Non Smartphone,41,17,103,6,8,3,3,0,0,0,0
+7620,1990,Youth Seg,West,16185,2013-08-05,71,Non Smartphone,16,45,106,6,8,2,2,2,0,0,0
+9579,1959,HV seg,North,33762,2013-07-07,61,Non Smartphone,54,36,106,6,8,2,2,2,0,0,0
+10380,1972,Mass Mkt Seg,North,37787,2013-09-20,50,Non Smartphone,41,47,106,6,8,3,3,0,0,0,0
+6263,1968,Youth Seg,Lagos,35322,2012-08-22,34,Non Smartphone,37,56,106,6,8,2,4,0,0,0,0
+6609,1966,Youth Seg,East,27038,2012-09-18,64,Smartphone,27,65,107,6,9,3,3,0,0,0,1
+1640,1954,Youth Seg,East,64587,2014-06-22,49,Non Smartphone,66,22,108,6,3,1,4,1,0,0,0
+10629,1973,Youth Seg,North,,2012-09-14,25,Non Smartphone,28,64,109,6,8,3,3,0,0,0,0
+7998,1958,Youth Seg,Lagos,28087,2012-12-11,77,Non Smartphone,61,30,112,6,7,2,2,2,0,0,0
+979,1975,Youth Seg,West,33249,2013-02-20,11,Non Smartphone,16,54,112,6,6,2,3,1,0,0,0
+1388,1975,Youth Seg,West,33249,2013-02-20,11,Non Smartphone,16,54,112,6,6,2,3,1,0,0,0
+9739,1963,Youth Seg,West,34377,2013-01-19,55,Smartphone,62,26,114,6,7,2,2,2,0,0,0
+1755,1988,Youth Seg,Lagos,45204,2014-04-11,93,Non Smartphone,41,55,114,6,3,1,4,1,0,0,0
+2286,1962,Youth Seg,West,50785,2013-09-10,27,Non Smartphone,65,22,114,6,6,2,3,1,0,0,0
+2066,1949,Youth Seg,Lagos,38823,2012-08-30,56,Smartphone,70,21,114,6,6,2,3,1,0,0,0
+10352,1963,Youth Seg,East,34213,2012-09-07,2,Non Smartphone,54,37,117,6,9,3,2,1,0,0,1
+641,1967,Youth Seg,West,52074,2014-04-04,77,Smartphone,59,12,119,6,4,2,2,2,1,0,0
+8008,1983,Youth Seg,Lagos,36075,2013-12-09,54,Non Smartphone,46,43,119,6,6,2,4,0,0,0,0
+6379,1949,Mass Mkt Seg,East,47570,2013-05-29,3,Non Smartphone,68,22,121,6,7,2,2,2,0,0,1
+4754,1966,Mass Mkt Seg,North,33585,2013-09-25,91,Smartphone,41,52,122,6,4,2,4,0,0,0,0
+574,1964,Youth Seg,North,42523,2014-04-23,96,Smartphone,50,40,125,6,2,1,4,1,0,0,0
+3266,1964,Youth Seg,North,42523,2014-04-23,96,Smartphone,50,40,125,6,2,1,4,1,0,0,0
+538,1989,Youth Seg,West,46107,2014-02-10,78,Non Smartphone,40,52,125,6,3,1,4,1,0,0,0
+6673,1965,Youth Seg,West,23478,2013-03-19,51,Smartphone,34,56,129,6,8,3,3,0,0,0,0
+5048,1971,HV seg,West,42767,2013-05-11,53,Non Smartphone,26,67,131,6,8,3,2,1,0,0,0
+2278,1985,Youth Seg,West,33812,2012-11-03,86,Non Smartphone,21,73,133,6,6,2,3,1,0,0,0
+3969,1974,Mass Mkt Seg,Lagos,43018,2013-11-01,46,Smartphone,39,30,133,6,5,2,2,2,0,0,0
+5123,1951,Mass Mkt Seg,North,27450,2013-04-15,57,Smartphone,49,42,143,6,7,2,3,1,0,0,0
+2230,1970,HV seg,North,23626,2014-05-24,84,Non Smartphone,29,14,43,7,5,3,3,1,0,0,0
+3623,1976,Youth Seg,Lagos,21675,2014-06-11,55,Non Smartphone,4,37,45,7,7,4,3,0,0,0,0
+1135,1960,Mass Mkt Seg,Lagos,17144,2014-02-15,96,Non Smartphone,20,21,47,7,7,3,4,0,0,0,0
+24,1960,Mass Mkt Seg,Lagos,17144,2014-02-15,96,Non Smartphone,20,21,47,7,7,3,4,0,0,0,0
+10032,1976,Youth Seg,East,12571,2014-01-18,86,Non Smartphone,8,28,53,7,6,3,3,1,0,0,0
+10031,1976,HV seg,North,16927,2013-02-10,50,Non Smartphone,22,27,53,7,8,3,4,0,0,0,0
+10659,1979,Youth Seg,Lagos,7500,2013-05-07,7,Non Smartphone,10,22,53,7,7,3,2,2,0,0,0
+10262,1980,Youth Seg,North,15072,2013-05-10,96,Non Smartphone,10,25,53,7,5,3,3,1,0,0,0
+9986,1982,Youth Seg,Lagos,19444,2014-02-22,8,Non Smartphone,16,28,54,7,7,4,2,1,0,0,1
+7297,1973,Youth Seg,West,7500,2013-12-26,54,Non Smartphone,8,29,57,7,7,3,3,1,0,0,0
+5294,1989,Youth Seg,West,18358,2013-11-20,49,Non Smartphone,14,39,57,7,7,3,4,0,0,0,0
+2958,1978,Youth Seg,North,28442,2014-02-24,53,Non Smartphone,22,29,57,7,4,2,4,1,0,0,0
+5726,1983,Mass Mkt Seg,West,31788,2014-03-20,15,Non Smartphone,23,31,60,7,5,3,4,0,0,1,0
+8523,1968,Youth Seg,North,19329,2013-12-14,39,Non Smartphone,25,30,60,7,8,4,3,0,0,0,0
+4961,1974,Mass Mkt Seg,Lagos,21255,2014-01-21,56,Non Smartphone,29,29,61,7,4,2,4,1,0,0,0
+1100,1960,Mass Mkt Seg,Lagos,41275,2014-03-24,33,Non Smartphone,28,24,61,7,5,3,3,1,0,0,0
+10613,1958,HV seg,Lagos,37334,2014-02-26,44,Non Smartphone,27,20,62,7,4,3,4,0,0,0,0
+9432,1977,Youth Seg,Lagos,666666,2013-06-02,23,Non Smartphone,23,27,62,7,6,3,3,1,0,0,0
+5827,1958,Youth Seg,East,35246,2014-04-16,53,Non Smartphone,36,16,62,7,5,3,3,1,0,0,0
+8036,1971,Youth Seg,Lagos,26850,2014-04-18,10,Non Smartphone,32,22,63,7,4,2,4,1,0,0,0
+1307,1978,Youth Seg,East,41986,2014-02-09,15,Smartphone,32,19,63,7,4,3,4,0,0,0,0
+1050,1952,Youth Seg,North,28332,2014-04-30,58,Smartphone,24,32,65,7,2,2,4,1,0,0,0
+9491,1984,Youth Seg,Lagos,23976,2013-12-27,68,Non Smartphone,15,26,66,7,7,3,3,1,0,0,0
+9481,1976,Youth Seg,North,17148,2014-01-28,80,Non Smartphone,18,34,68,7,8,3,3,1,0,0,0
+11121,1981,Youth Seg,North,19419,2012-11-10,76,Non Smartphone,16,47,70,7,9,4,3,0,0,0,0
+4692,1976,Youth Seg,North,7500,2012-08-01,19,Non Smartphone,7,32,71,7,9,4,2,1,1,0,1
+6678,1989,Youth Seg,Lagos,31928,2014-03-28,5,Non Smartphone,37,30,72,7,7,3,4,0,0,0,0
+5287,1973,Youth Seg,North,34961,2014-06-19,77,Non Smartphone,47,31,79,7,7,3,3,1,0,0,0
+3537,1981,Youth Seg,Lagos,31089,2012-08-17,57,Non Smartphone,34,41,79,7,8,3,4,0,0,0,0
+1734,1968,HV seg,Lagos,40706,2013-01-17,37,Non Smartphone,59,17,81,7,7,3,4,0,0,0,0
+905,1986,Youth Seg,East,21846,2013-10-22,38,Non Smartphone,24,34,84,7,8,4,3,0,0,0,0
+3839,1958,Youth Seg,West,15056,2013-05-03,76,Non Smartphone,18,30,88,7,5,2,3,2,0,0,0
+4867,1968,HV seg,West,38236,2013-09-20,2,Non Smartphone,58,20,88,7,7,3,4,0,0,0,0
+92,1988,Youth Seg,East,34176,2014-05-12,12,Non Smartphone,12,57,89,7,6,3,4,0,0,0,0
+3312,1988,Youth Seg,West,34176,2014-05-12,12,Non Smartphone,12,57,89,7,6,3,4,0,0,0,0
+2740,1958,HV seg,East,33438,2013-09-22,81,Non Smartphone,63,21,90,7,5,2,4,1,0,0,0
+6690,1966,Mass Mkt Seg,North,38179,2013-03-14,30,Non Smartphone,42,28,90,7,7,3,3,1,0,0,0
+10995,1988,Youth Seg,North,15716,2012-11-12,8,Non Smartphone,21,45,92,7,8,3,4,0,0,1,0
+7011,1973,Youth Seg,North,33471,2012-10-12,47,Non Smartphone,45,36,93,7,7,3,4,0,0,0,0
+7124,1968,Youth Seg,East,36997,2013-02-01,72,Non Smartphone,47,20,94,7,5,2,4,1,0,0,0
+8140,1973,Youth Seg,Lagos,22682,2013-10-03,51,Non Smartphone,24,35,95,7,4,2,4,1,0,0,0
+8213,1980,Youth Seg,Lagos,14515,2012-11-09,71,Non Smartphone,10,51,96,7,7,2,3,2,0,0,1
+10500,1984,Youth Seg,North,31761,2014-04-05,96,Non Smartphone,20,50,98,7,5,3,4,0,0,0,0
+6488,1959,HV seg,North,38829,2014-04-06,86,Smartphone,76,7,99,7,5,3,2,2,0,0,0
+6859,1987,Youth Seg,West,29236,2013-10-08,30,Non Smartphone,41,49,99,7,9,4,3,0,0,0,0
+10395,1986,Youth Seg,West,8940,2012-08-22,25,Non Smartphone,46,13,101,7,8,3,3,1,0,0,0
+6642,1961,Youth Seg,East,27215,2013-01-23,50,Non Smartphone,35,39,102,7,6,2,4,1,0,0,0
+4669,1981,Youth Seg,North,24480,2013-02-11,46,Non Smartphone,23,62,102,7,7,3,4,0,0,0,0
+7349,1973,Youth Seg,Lagos,9722,2012-10-02,7,Non Smartphone,23,38,103,7,8,3,3,1,0,0,1
+7761,1978,Youth Seg,Lagos,38702,2013-08-01,71,Non Smartphone,24,45,109,7,6,3,4,0,0,0,0
+4023,1970,Youth Seg,North,22979,2012-09-06,29,Non Smartphone,33,60,115,7,8,3,2,2,0,0,1
+5723,1976,HV seg,Lagos,49187,2014-01-11,63,Smartphone,82,34,116,7,2,1,5,1,0,0,0
+3783,1959,HV seg,North,52854,2014-03-24,43,Non Smartphone,105,11,116,7,5,2,4,1,0,0,0
+4136,1992,Youth Seg,West,7500,2012-12-03,63,Non Smartphone,27,52,119,7,9,3,2,2,0,0,0
+5710,1970,Youth Seg,Lagos,40548,2012-10-10,31,Smartphone,110,7,120,7,5,2,4,1,1,0,0
+2804,1975,Mass Mkt Seg,West,46098,2012-08-18,86,Non Smartphone,57,27,120,7,8,3,2,2,0,0,1
+10703,1975,Mass Mkt Seg,West,46098,2012-08-18,86,Non Smartphone,57,27,120,7,8,3,2,2,0,0,0
+9,1975,Mass Mkt Seg,West,46098,2012-08-18,86,Non Smartphone,57,27,120,7,8,3,2,2,0,0,0
+2815,1975,Youth Seg,North,33183,2014-02-24,46,Non Smartphone,12,71,120,7,7,4,3,0,0,0,0
+6466,1965,HV seg,North,57236,2014-03-12,22,Non Smartphone,105,12,121,7,3,2,4,1,0,0,0
+8182,1984,Youth Seg,North,23228,2014-01-05,91,Non Smartphone,56,60,121,7,8,3,4,0,0,0,0
+8286,1965,HV seg,Lagos,51717,2013-08-20,55,Smartphone,99,18,122,7,7,3,4,0,1,0,0
+5985,1965,Mass Mkt Seg,West,33168,2012-10-13,0,Smartphone,81,38,122,7,7,2,4,1,0,0,0
+5939,1971,Youth Seg,Lagos,38232,2014-01-17,84,Non Smartphone,48,41,122,7,5,3,3,1,0,0,0
+5455,1971,HV seg,North,32011,2013-08-22,89,Non Smartphone,99,18,122,7,7,2,4,1,0,0,0
+9909,1996,Youth Seg,North,7500,2012-11-09,24,Smartphone,21,51,122,7,9,3,3,1,0,0,1
+8832,1976,Mass Mkt Seg,Lagos,37509,2012-09-12,24,Non Smartphone,42,76,123,7,7,3,4,0,0,0,0
+7244,1951,Youth Seg,West,,2014-01-01,96,Non Smartphone,53,64,124,7,6,2,4,1,0,0,0
+4713,1979,HV seg,North,31605,2012-11-22,15,Non Smartphone,74,45,125,7,7,2,4,1,0,0,0
+9239,1961,Mass Mkt Seg,North,61923,2013-07-26,94,Smartphone,96,24,126,7,3,2,4,1,0,0,0
+4050,1966,Mass Mkt Seg,North,49605,2014-06-21,65,Smartphone,58,61,127,7,3,2,4,1,0,0,0
+3270,1978,Youth Seg,Lagos,17117,2013-01-17,96,Non Smartphone,35,86,128,7,9,3,3,1,0,0,0
+9635,1983,Mass Mkt Seg,North,35876,2014-04-20,13,Smartphone,68,47,129,7,6,3,3,1,0,0,0
+1177,1966,Mass Mkt Seg,Lagos,49618,2013-01-26,77,Non Smartphone,83,32,129,7,7,3,3,1,0,0,0
+4174,1956,Mass Mkt Seg,Lagos,55249,2014-04-17,81,Smartphone,98,21,130,7,3,2,4,1,0,0,0
+7275,1971,Mass Mkt Seg,West,33316,2013-10-04,34,Non Smartphone,80,39,131,7,6,2,4,1,0,0,0
+9422,1989,Youth Seg,North,38360,2013-05-31,26,Non Smartphone,38,83,131,7,3,2,4,1,0,0,0
+8334,1971,Mass Mkt Seg,West,33316,2013-10-04,34,Non Smartphone,80,39,131,7,6,2,4,1,0,0,0
+7532,1980,Youth Seg,North,43586,2012-08-30,26,Smartphone,101,15,132,7,8,3,4,0,0,0,0
+1833,1974,HV seg,West,39190,2014-04-26,91,Non Smartphone,76,45,133,7,5,2,4,1,0,0,0
+945,1965,Youth Seg,Lagos,36317,2013-05-22,53,Smartphone,90,30,133,7,7,3,4,0,0,0,0
+3697,1954,Youth Seg,Lagos,39898,2013-02-12,20,Smartphone,77,45,134,7,7,3,4,0,0,0,0
+4368,1980,Youth Seg,North,47850,2013-12-03,72,Non Smartphone,49,75,134,7,6,3,4,0,0,0,0
+9955,1954,Youth Seg,Lagos,39898,2013-02-12,20,Smartphone,77,45,134,7,7,3,4,0,0,0,0
+8594,1958,HV seg,East,50520,2014-01-28,25,Smartphone,112,9,135,7,6,3,3,1,0,0,0
+5025,1979,Youth Seg,West,48526,2013-12-24,32,Non Smartphone,40,86,135,7,3,2,4,1,0,0,0
+2929,1976,Youth Seg,West,20180,2013-02-20,27,Smartphone,60,59,137,7,7,2,4,1,0,0,0
+4436,1976,Youth Seg,West,20180,2013-02-20,27,Smartphone,60,59,137,7,7,2,4,1,0,0,0
+3386,1992,Youth Seg,North,34935,2013-06-21,71,Smartphone,38,79,137,7,7,2,4,1,0,0,0
+8775,1969,Youth Seg,Lagos,38361,2013-12-27,74,Non Smartphone,39,84,137,7,7,3,3,1,0,0,0
+8175,1992,Youth Seg,North,34935,2013-06-21,71,Smartphone,38,79,137,7,7,2,4,1,0,0,0
+7254,1969,Youth Seg,Lagos,38361,2013-12-27,74,Non Smartphone,39,84,137,7,7,3,3,1,0,0,0
+11025,1961,Youth Seg,North,36443,2013-02-03,9,Non Smartphone,65,53,138,7,8,3,3,1,0,0,0
+7530,1950,HV seg,East,56551,2014-05-07,48,Non Smartphone,71,51,138,7,4,2,4,1,0,0,0
+7485,1950,HV seg,East,56551,2014-05-07,48,Non Smartphone,71,51,138,7,4,2,4,1,0,0,0
+11191,1986,Youth Seg,East,41411,2013-12-07,11,Smartphone,69,52,139,7,6,2,4,1,0,0,0
+2245,1969,Mass Mkt Seg,North,43641,2013-04-22,50,Non Smartphone,59,57,139,7,6,2,4,1,0,0,0
+6183,1962,Mass Mkt Seg,North,58646,2013-06-10,3,Smartphone,63,55,140,7,4,2,4,1,0,0,0
+1506,1975,Youth Seg,West,42160,2013-06-28,26,Non Smartphone,57,63,140,7,6,2,4,1,0,0,1
+4470,1962,Mass Mkt Seg,North,58646,2013-06-10,3,Smartphone,63,55,140,7,4,2,4,1,0,0,0
+1839,1974,Youth Seg,West,43322,2014-04-21,25,Smartphone,63,60,141,7,7,3,4,0,0,0,0
+5283,1976,HV seg,West,42473,2014-02-17,72,Non Smartphone,94,25,144,7,5,2,4,1,0,0,0
+1158,1966,Youth Seg,East,48877,2014-01-05,27,Smartphone,103,17,144,7,7,3,4,0,0,0,0
+3629,1978,Youth Seg,West,38557,2012-12-19,17,Non Smartphone,79,39,145,7,7,3,3,1,0,0,0
+749,1981,Youth Seg,Lagos,42162,2013-11-19,31,Non Smartphone,53,65,145,7,6,3,3,1,1,0,1
+263,1945,HV seg,West,45576,2014-05-28,9,Smartphone,75,45,145,7,8,3,3,1,0,0,1
+10827,1967,HV seg,North,36947,2012-08-07,49,Non Smartphone,91,26,146,7,9,3,4,0,0,0,0
+898,1986,Youth Seg,North,23477,2013-10-21,39,Non Smartphone,53,65,147,7,8,3,4,0,0,0,0
+2130,1982,Youth Seg,Lagos,45203,2014-03-23,4,Non Smartphone,38,85,147,7,6,3,3,1,0,0,1
+1349,1970,Youth Seg,North,50447,2014-04-21,4,Non Smartphone,92,29,148,7,6,3,3,1,0,0,0
+10010,1953,HV seg,East,36957,2012-09-06,43,Non Smartphone,102,19,152,7,9,3,2,2,0,0,1
+3220,1983,Youth Seg,North,39922,2013-02-14,30,Non Smartphone,41,79,156,7,8,3,4,0,0,0,0
+10602,1983,Youth Seg,North,39922,2013-02-14,30,Non Smartphone,41,79,156,7,8,3,4,0,0,0,0
+5424,1983,Youth Seg,North,39922,2013-02-14,30,Non Smartphone,41,79,156,7,8,3,4,0,0,0,0
+3517,1952,Youth Seg,West,40887,2013-05-06,32,Non Smartphone,54,64,161,7,9,3,3,1,0,0,1
+5015,1976,Mass Mkt Seg,North,34529,2012-09-14,94,Non Smartphone,74,47,162,7,7,2,3,2,0,0,0
+9460,1963,Youth Seg,North,22419,2013-04-18,74,Smartphone,33,87,162,7,8,3,2,2,0,0,0
+3855,1963,Youth Seg,North,22419,2013-04-18,74,Smartphone,33,87,162,7,8,3,2,2,0,0,0
+5636,1963,Youth Seg,West,30983,2012-11-09,50,Smartphone,55,63,167,7,8,4,3,0,0,0,1
+236,1951,Youth Seg,North,34838,2013-01-19,62,Non Smartphone,51,72,170,7,6,2,4,1,0,0,0
+1087,1975,Mass Mkt Seg,Lagos,22669,2013-05-22,30,Non Smartphone,30,95,173,7,9,4,2,1,0,0,1
+4643,1973,Youth Seg,North,27803,2012-08-26,40,Non Smartphone,34,93,176,7,8,3,4,0,0,0,0
+4442,1961,Youth Seg,West,46524,2013-04-05,70,Smartphone,50,75,177,7,3,1,5,1,0,0,0
+2715,1966,Mass Mkt Seg,East,29435,2012-08-06,11,Non Smartphone,73,43,180,7,9,3,2,2,0,0,1
+2246,1965,Youth Seg,North,46891,2013-09-01,91,Smartphone,55,67,183,7,4,2,4,1,0,0,0
+20,1965,Youth Seg,North,46891,2013-09-01,91,Smartphone,55,67,183,7,4,2,4,1,0,0,0
+9703,1970,HV seg,North,38097,2012-10-15,70,Non Smartphone,79,36,184,7,7,3,2,2,1,0,1
+35,1987,Youth Seg,North,25545,2012-09-08,35,Non Smartphone,33,92,210,7,6,2,3,2,0,0,1
+8151,1990,Youth Seg,North,24279,2012-12-29,6,Smartphone,52,103,263,8,8,4,3,1,0,0,0
+2456,1975,HV seg,North,40233,2013-10-14,84,Smartphone,84,63,149,8,6,2,5,1,0,0,0
+5180,1968,HV seg,East,50616,2014-04-18,56,Smartphone,128,17,149,8,7,4,4,0,0,0,0
+273,1970,Mass Mkt Seg,North,36138,2013-07-16,48,Non Smartphone,130,16,151,8,7,3,4,1,1,0,0
+8876,1963,HV seg,Lagos,33629,2012-08-08,49,Non Smartphone,132,16,152,8,9,3,4,1,0,0,0
+286,1952,Youth Seg,West,44213,2013-11-29,48,Non Smartphone,106,39,152,8,6,2,5,1,0,0,0
+8799,1984,HV seg,North,38175,2013-09-23,6,Non Smartphone,76,74,153,8,7,3,4,1,0,0,0
+4971,1962,HV seg,Lagos,31497,2012-12-06,22,Smartphone,109,42,155,8,8,3,4,1,0,0,0
+4088,1962,HV seg,Lagos,31497,2012-12-06,22,Smartphone,109,42,155,8,8,3,4,1,0,0,0
+7495,1948,HV seg,North,56223,2013-12-20,72,Smartphone,105,47,156,8,4,2,5,1,0,0,0
+6663,1940,HV seg,West,51141,2013-07-08,96,Smartphone,144,7,157,8,5,3,4,1,0,0,0
+4268,1959,Youth Seg,North,53154,2014-06-09,50,Smartphone,129,22,158,8,4,3,4,1,0,0,0
+9576,1982,HV seg,Lagos,32313,2013-02-11,60,Non Smartphone,90,62,159,8,9,4,4,0,0,0,0
+7786,1986,HV seg,West,29999,2013-02-13,22,Non Smartphone,75,74,160,8,8,3,4,1,0,0,0
+3515,1952,Youth Seg,West,62307,2014-02-17,94,Smartphone,100,50,160,8,5,4,4,0,0,0,0
+9970,1977,Youth Seg,Lagos,55375,2013-10-17,3,Smartphone,53,95,162,8,2,1,6,1,0,0,0
+7617,1974,Youth Seg,West,42373,2013-08-15,83,Non Smartphone,72,72,163,8,5,2,5,1,0,0,0
+2564,1953,Youth Seg,Lagos,61278,2014-01-04,87,Smartphone,114,36,165,8,6,3,4,1,0,0,0
+7433,1985,Youth Seg,West,29760,2012-08-29,87,Non Smartphone,68,80,165,8,8,3,4,1,0,0,0
+3332,1985,Youth Seg,West,29760,2012-08-29,87,Non Smartphone,68,80,165,8,8,3,4,1,0,0,0
+3657,1986,Youth Seg,West,39146,2013-02-14,1,Non Smartphone,95,58,165,8,8,4,4,0,0,0,0
+3524,1971,Mass Mkt Seg,West,39763,2013-08-04,9,Non Smartphone,81,70,167,8,9,5,2,1,0,0,1
+4764,1952,Mass Mkt Seg,Lagos,40442,2012-08-19,52,Non Smartphone,57,99,169,8,7,3,4,1,0,0,1
+6177,1985,HV seg,North,33454,2013-05-08,32,Non Smartphone,86,60,169,8,8,4,4,0,0,0,0
+839,1975,HV seg,North,45503,2013-09-25,54,Non Smartphone,101,51,170,8,5,3,4,1,0,0,0
+5320,1973,Mass Mkt Seg,East,44051,2013-01-29,20,Non Smartphone,86,67,171,8,6,3,4,1,0,0,1
+9405,1954,HV seg,North,52869,2012-10-15,40,Non Smartphone,87,64,172,8,7,3,4,1,0,0,1
+8779,1985,Youth Seg,North,36145,2013-06-16,13,Non Smartphone,60,94,172,8,9,4,3,1,1,0,1
+10521,1977,Youth Seg,North,54809,2013-09-11,0,Non Smartphone,69,83,174,8,4,2,5,1,0,0,1
+8212,1971,Mass Mkt Seg,North,39791,2013-03-28,89,Smartphone,100,53,174,8,7,3,4,1,0,0,0
+837,1977,Youth Seg,North,54809,2013-09-11,0,Non Smartphone,69,83,174,8,4,2,5,1,0,0,0
+8726,1964,Youth Seg,East,41713,2014-04-29,57,Non Smartphone,85,64,174,8,6,3,4,1,0,0,0
+4864,1977,Youth Seg,North,34380,2013-05-02,68,Non Smartphone,79,72,175,8,8,4,3,1,0,0,0
+8181,1978,Youth Seg,West,38593,2013-09-13,42,Non Smartphone,63,90,177,8,8,4,3,1,0,0,0
+7514,1956,Youth Seg,Lagos,54342,2013-07-03,74,Non Smartphone,94,55,177,8,6,3,4,1,0,0,0
+1048,1972,Mass Mkt Seg,North,35641,2013-07-14,11,Non Smartphone,66,84,178,8,7,3,4,1,0,0,1
+4042,1971,Youth Seg,East,43300,2012-10-13,87,Smartphone,94,55,180,8,8,4,4,0,0,0,1
+8159,1968,Youth Seg,North,51287,2014-04-01,10,Non Smartphone,117,35,182,8,7,4,3,1,0,0,0
+738,1981,Youth Seg,West,42395,2014-04-04,35,Non Smartphone,61,96,182,8,7,3,4,1,0,0,0
+48,1964,Youth Seg,Lagos,55761,2014-04-24,97,Smartphone,137,15,184,8,6,4,3,1,1,0,0
+6289,1951,Mass Mkt Seg,Lagos,59385,2013-04-28,85,Non Smartphone,135,14,185,8,5,3,4,1,0,0,0
+7414,1971,Youth Seg,North,43824,2012-09-15,18,Non Smartphone,97,57,186,8,8,3,4,1,0,0,0
+7281,1959,HV seg,West,,2013-11-05,80,Smartphone,92,55,186,8,2,1,4,3,0,0,0
+2534,1953,Youth Seg,North,37716,2014-04-21,4,Smartphone,98,49,188,8,7,4,3,1,0,0,0
+4653,1978,Youth Seg,Lagos,42011,2013-03-26,46,Non Smartphone,131,19,189,8,8,3,4,1,0,0,0
+3032,1984,Youth Seg,North,24570,2013-02-27,97,Non Smartphone,62,87,193,8,9,4,4,0,0,0,0
+3551,1954,Mass Mkt Seg,Lagos,60033,2014-03-29,28,Smartphone,63,87,198,8,2,2,5,1,0,0,0
+2678,1990,Youth Seg,West,34412,2013-02-13,62,Non Smartphone,64,90,209,8,9,5,3,0,0,0,0
+7141,1986,Mass Mkt Seg,West,21888,2012-12-29,15,Non Smartphone,98,51,213,8,10,5,2,1,0,0,1
+6940,1966,HV seg,West,46734,2013-10-21,86,Non Smartphone,101,46,223,8,6,3,3,2,1,0,0
+5534,1975,Mass Mkt Seg,North,47808,2013-10-20,30,Smartphone,124,28,224,8,7,3,3,2,1,0,0
+3182,1973,HV seg,West,46854,2014-03-31,81,Non Smartphone,97,87,263,9,8,5,3,1,1,0,1
+450,1958,Mass Mkt Seg,Lagos,42315,2013-07-12,90,Smartphone,82,108,270,9,3,1,4,4,0,0,0
+9701,1988,Youth Seg,Lagos,41883,2013-03-19,13,Non Smartphone,66,130,312,9,7,4,3,2,0,0,0
+3422,1975,Youth Seg,North,76068,2012-11-29,67,Smartphone,1127,173,1376,9,6,2,4,3,2,0,0
+5429,1948,HV seg,North,45579,2013-08-20,10,Smartphone,146,36,183,9,6,4,4,1,0,0,0
+2948,1954,Mass Mkt Seg,East,62637,2014-03-01,76,Smartphone,116,64,185,9,2,2,5,2,0,0,0
+9076,1980,HV seg,North,30732,2013-01-05,44,Non Smartphone,156,26,185,9,8,4,4,1,0,0,0
+4096,1968,Mass Mkt Seg,East,41335,2013-12-26,24,Non Smartphone,131,51,187,9,7,4,4,1,0,0,0
+968,1968,Mass Mkt Seg,East,41335,2013-12-26,24,Non Smartphone,131,51,187,9,7,4,4,1,0,0,0
+7533,1964,Youth Seg,North,49096,2013-09-24,15,Non Smartphone,145,35,187,9,7,4,4,1,0,0,0
+6230,1971,Youth Seg,East,44421,2013-02-15,53,Non Smartphone,115,67,189,9,8,5,4,0,0,0,0
+7698,1976,HV seg,North,51650,2014-05-11,81,Smartphone,155,29,191,9,5,4,4,1,0,0,0
+5063,1977,Youth Seg,West,28769,2012-12-18,76,Non Smartphone,46,142,191,9,9,4,4,1,0,0,0
+5954,1972,Mass Mkt Seg,East,42618,2013-10-09,92,Non Smartphone,90,92,192,9,8,5,4,0,0,0,0
+771,1967,Youth Seg,Lagos,54178,2014-01-21,79,Smartphone,144,43,194,9,2,2,5,2,0,0,0
+3602,1958,Mass Mkt Seg,North,51412,2013-12-31,42,Smartphone,143,38,195,9,4,3,4,2,0,0,0
+2895,1963,Youth Seg,West,49980,2013-10-23,79,Smartphone,105,76,195,9,5,3,5,1,0,0,0
+7426,1971,Youth Seg,North,54690,2013-11-07,76,Non Smartphone,127,53,198,9,3,3,5,1,0,0,0
+8360,1971,Youth Seg,North,54690,2013-11-07,76,Non Smartphone,127,53,198,9,3,3,5,1,0,0,0
+9485,1986,HV seg,North,45921,2014-03-10,23,Smartphone,111,76,199,9,4,2,6,1,0,0,0
+5959,1968,Youth Seg,West,35893,2012-10-15,80,Non Smartphone,158,23,199,9,8,3,5,1,0,0,0
+7718,1947,Mass Mkt Seg,Lagos,66000,2014-04-20,36,Smartphone,295,371,711,9,1,1,5,3,0,0,0
+10591,1969,Youth Seg,East,43638,2012-08-06,37,Smartphone,73,109,201,9,7,4,4,1,0,0,0
+8945,1970,Youth Seg,East,54137,2013-08-16,46,Smartphone,171,12,203,9,6,4,4,1,0,0,0
+3921,1952,Youth Seg,East,28457,2012-10-28,96,Smartphone,25,166,205,9,8,4,4,1,0,0,0
+10339,1954,Mass Mkt Seg,Lagos,,2013-06-23,83,Smartphone,161,22,207,9,6,4,4,1,0,0,0
+455,1946,HV seg,North,51012,2013-04-18,86,Smartphone,111,74,209,9,6,4,4,1,0,0,0
+7592,1946,HV seg,North,51012,2013-04-18,86,Smartphone,111,74,209,9,6,4,4,1,0,0,0
+5788,1972,Youth Seg,Lagos,46053,2013-02-17,46,Non Smartphone,66,118,209,9,5,3,4,2,0,0,0
+2227,1958,Youth Seg,Lagos,26490,2012-09-22,92,Smartphone,92,93,210,9,6,3,5,1,0,0,0
+946,1958,Youth Seg,Lagos,26490,2012-09-22,92,Smartphone,92,93,210,9,6,3,5,1,0,0,0
+10640,1974,Youth Seg,Lagos,44392,2013-09-05,71,Non Smartphone,92,90,211,9,7,4,4,1,0,0,0
+3310,1973,Youth Seg,North,35688,2012-08-22,94,Non Smartphone,76,103,211,9,8,4,4,1,0,0,0
+7019,1963,Youth Seg,Lagos,54414,2013-01-23,49,Non Smartphone,127,66,211,9,4,3,5,1,0,0,0
+5885,1973,Youth Seg,North,35688,2012-08-22,94,Non Smartphone,76,103,211,9,8,4,4,1,0,0,0
+9860,1959,Youth Seg,Lagos,44911,2013-03-15,11,Smartphone,159,25,215,9,7,4,4,1,0,0,0
+9925,1981,HV seg,Lagos,39665,2013-05-25,97,Non Smartphone,128,57,216,9,7,4,3,2,1,0,0
+5286,1987,Mass Mkt Seg,West,41020,2013-10-28,68,Smartphone,113,68,217,9,3,3,4,2,0,0,0
+5866,1974,Youth Seg,Lagos,48186,2014-03-20,39,Non Smartphone,100,85,219,9,7,4,4,1,0,0,0
+10341,1948,Youth Seg,Lagos,51315,2014-02-23,45,Smartphone,96,85,222,9,2,2,5,2,0,0,0
+10420,1955,Mass Mkt Seg,East,46390,2014-05-05,56,Smartphone,109,75,222,9,7,4,3,2,0,0,0
+5474,1970,Youth Seg,West,43020,2013-11-30,79,Non Smartphone,52,128,223,9,6,4,4,1,0,0,0
+1404,1968,Youth Seg,Lagos,34916,2013-05-15,89,Non Smartphone,74,115,231,9,9,5,3,1,0,0,0
+221,1955,Youth Seg,North,48726,2013-04-27,90,Smartphone,141,42,242,9,6,3,4,2,0,0,0
+9905,1952,Youth Seg,Lagos,34074,2013-07-13,69,Non Smartphone,136,52,255,9,6,3,3,3,1,0,0
+10120,1955,Youth Seg,Lagos,38946,2013-10-24,84,Smartphone,122,94,257,10,5,3,6,1,0,0,0
+4541,1955,Youth Seg,Lagos,38946,2013-10-24,84,Smartphone,122,94,257,10,5,3,6,1,0,0,0
+2404,1976,Youth Seg,North,53359,2013-05-27,4,Non Smartphone,177,39,257,10,7,5,4,1,0,0,0
+271,1969,Youth Seg,East,40590,2013-10-02,30,Non Smartphone,154,67,258,10,6,3,3,4,1,0,0
+7699,1969,Youth Seg,East,40590,2013-10-02,30,Non Smartphone,154,67,258,10,6,3,3,4,1,0,0
+4437,1962,Youth Seg,North,65316,2013-04-24,65,Non Smartphone,118,104,260,10,4,3,5,2,0,0,0
+10821,1978,Youth Seg,North,57113,2013-02-06,45,Non Smartphone,186,35,263,10,7,4,5,1,0,0,0
+975,1956,Youth Seg,West,54252,2013-05-28,25,Non Smartphone,182,38,264,10,6,4,5,1,0,0,0
+3225,1984,Mass Mkt Seg,North,42207,2013-04-01,71,Non Smartphone,127,92,265,10,6,4,5,1,1,0,1
+4184,1950,HV seg,Lagos,52157,2014-06-07,48,Smartphone,191,34,265,10,4,3,5,2,0,0,0
+5991,1949,Mass Mkt Seg,North,48150,2013-06-08,24,Smartphone,175,44,266,10,7,5,4,1,0,0,0
+7930,1969,Mass Mkt Seg,West,26877,2013-08-19,74,Smartphone,114,114,268,10,6,3,6,1,0,0,0
+1717,1988,Youth Seg,West,39747,2014-04-13,43,Non Smartphone,95,126,273,10,8,5,4,1,0,0,0
+2853,1980,Youth Seg,West,51766,2014-03-11,74,Non Smartphone,111,113,275,10,5,4,4,2,0,0,0
+1377,1954,Mass Mkt Seg,East,44551,2013-08-31,24,Smartphone,186,33,285,10,7,4,5,1,0,0,0
+1743,1974,Youth Seg,West,69719,2014-05-26,99,Smartphone,359,399,801,10,1,2,5,3,0,0,0
+3439,1972,Youth Seg,North,56721,2012-10-31,64,Non Smartphone,163,58,296,10,6,4,5,1,0,0,0
+8346,1974,Youth Seg,West,32233,2012-08-19,26,Non Smartphone,153,71,296,10,9,6,2,2,1,0,1
+4119,1963,Mass Mkt Seg,Lagos,38620,2013-05-11,56,Smartphone,129,100,318,10,3,2,3,5,0,0,0
+3033,1963,Mass Mkt Seg,Lagos,38620,2013-05-11,56,Smartphone,129,100,318,10,3,2,3,5,0,0,0
+615,1960,Youth Seg,Lagos,30507,2013-03-11,29,Smartphone,101,132,343,10,7,5,4,1,0,0,0
+7959,1961,Youth Seg,North,79410,2014-05-29,19,Smartphone,738,619,1370,10,1,3,5,2,0,0,0
+5966,1974,HV seg,North,45207,2012-11-10,64,Non Smartphone,203,10,215,10,6,3,6,1,1,0,0
+5922,1974,HV seg,North,40344,2013-10-13,48,Smartphone,210,6,218,10,7,4,5,1,0,0,0
+5892,1980,Youth Seg,North,34968,2013-04-10,11,Non Smartphone,164,55,221,10,7,3,5,2,0,0,0
+5642,1979,Mass Mkt Seg,Lagos,62499,2013-12-09,0,Non Smartphone,144,74,222,10,4,3,6,1,0,0,0
+1604,1960,Mass Mkt Seg,North,47353,2013-11-13,93,Smartphone,186,35,225,10,5,2,6,2,0,0,0
+5253,1956,Mass Mkt Seg,Lagos,54603,2013-07-09,85,Non Smartphone,158,65,227,10,7,4,4,2,0,0,0
+5232,1965,Youth Seg,North,69139,2014-01-27,23,Smartphone,98,123,227,10,4,4,5,1,0,0,0
+3011,1965,Youth Seg,North,69139,2014-01-27,23,Smartphone,98,123,227,10,4,4,5,1,0,0,0
+5633,1980,Youth Seg,North,50183,2014-06-25,47,Non Smartphone,109,107,231,10,5,3,6,1,0,0,0
+3066,1975,HV seg,Lagos,61905,2014-02-04,2,Smartphone,167,51,231,10,5,4,4,2,0,0,0
+10479,1975,HV seg,North,76618,2012-12-07,64,Smartphone,789,575,1511,10,1,3,5,2,0,0,0
+11096,1952,Youth Seg,Lagos,57247,2013-08-08,50,Smartphone,103,123,232,10,2,2,7,1,0,0,0
+6969,1982,Youth Seg,Lagos,50272,2013-08-07,75,Non Smartphone,112,117,233,10,7,4,5,1,0,0,0
+7408,1952,HV seg,North,54549,2014-03-03,8,Smartphone,218,6,233,10,7,5,4,1,0,0,0
+3050,1966,Youth Seg,North,54198,2013-12-17,13,Non Smartphone,185,33,235,10,4,3,6,1,0,0,0
+8387,1957,Youth Seg,North,43140,2013-01-05,68,Smartphone,142,82,235,10,6,4,5,1,0,0,0
+4381,1971,HV seg,North,46463,2013-08-18,56,Non Smartphone,165,59,235,10,6,3,6,1,0,0,0
+3376,1970,Mass Mkt Seg,East,55282,2013-12-13,9,Non Smartphone,131,85,235,10,4,3,6,1,0,0,0
+3578,1949,Youth Seg,East,49160,2013-10-20,29,Smartphone,143,78,236,10,6,3,6,1,0,0,0
+8562,1969,Youth Seg,Lagos,54165,2013-05-28,72,Smartphone,131,94,236,10,2,2,7,1,0,0,0
+2613,1960,Mass Mkt Seg,North,54197,2014-04-03,16,Smartphone,168,56,237,10,1,1,6,3,0,0,0
+5948,1975,Youth Seg,West,57338,2014-04-29,96,Smartphone,149,71,237,10,5,4,5,1,0,0,0
+8692,1952,Youth Seg,Lagos,43462,2012-09-12,50,Non Smartphone,107,118,240,10,8,4,5,1,0,0,0
+955,1962,Mass Mkt Seg,Lagos,47175,2012-10-28,81,Non Smartphone,169,52,240,10,8,4,4,2,1,0,1
+1379,1992,Mass Mkt Seg,Lagos,42670,2013-04-27,12,Smartphone,156,70,241,10,4,4,4,2,0,0,0
+2677,1956,Youth Seg,Lagos,46097,2013-03-31,11,Smartphone,96,137,241,10,4,3,6,1,0,0,0
+1170,1975,Youth Seg,North,27573,2013-03-25,45,Non Smartphone,65,164,244,10,8,5,4,1,0,0,0
+3570,1969,HV seg,Lagos,42731,2013-10-21,64,Non Smartphone,161,59,244,10,5,4,5,1,0,0,0
+195,1972,Youth Seg,West,38808,2012-08-26,21,Non Smartphone,142,74,246,10,8,5,4,1,1,0,1
+10476,1958,Youth Seg,North,67267,2014-05-13,0,Smartphone,145,76,251,10,2,3,5,2,0,0,0
+9648,1967,Youth Seg,West,46904,2012-11-03,20,Non Smartphone,157,65,253,10,8,5,4,1,0,0,0
+10313,1975,Youth Seg,North,48178,2012-10-28,69,Non Smartphone,163,53,254,10,8,5,4,1,0,0,0
+3712,1959,Youth Seg,East,52332,2013-08-28,63,Smartphone,217,40,259,11,4,3,6,2,1,0,0
+7023,1953,HV seg,West,46231,2012-11-26,87,Non Smartphone,191,60,263,11,9,6,4,1,0,0,0
+8070,1973,HV seg,North,54222,2014-03-01,98,Smartphone,211,46,264,11,3,3,5,3,0,0,0
+6927,1968,HV seg,North,44377,2012-10-05,70,Non Smartphone,224,30,264,11,8,5,5,1,0,0,0
+4954,1956,Youth Seg,North,48195,2014-01-21,53,Non Smartphone,133,127,265,11,6,4,5,2,0,0,0
+8143,1985,HV seg,West,37929,2013-07-30,49,Smartphone,204,51,265,11,7,4,5,2,2,0,1
+4587,1944,Mass Mkt Seg,East,45006,2013-07-18,90,Smartphone,187,69,266,11,3,3,7,1,0,0,0
+1676,1975,Youth Seg,North,43057,2013-10-30,30,Smartphone,215,46,266,11,5,4,5,2,0,0,0
+7409,1970,Youth Seg,Lagos,53187,2013-10-26,66,Non Smartphone,213,44,267,11,5,4,6,1,0,0,0
+4967,1960,HV seg,Lagos,38201,2013-03-29,19,Smartphone,233,23,268,11,8,5,5,1,0,0,0
+9771,1988,Youth Seg,West,23331,2012-10-05,97,Non Smartphone,124,140,269,11,9,5,5,1,0,0,0
+7494,1950,HV seg,East,42873,2013-01-21,11,Non Smartphone,209,45,269,11,8,6,4,1,0,0,0
+164,1977,HV seg,North,28973,2012-10-13,59,Smartphone,206,51,269,11,8,5,5,1,0,0,0
+7540,1952,Youth Seg,North,50300,2014-05-25,52,Smartphone,158,107,270,11,2,2,8,1,0,0,0
+1764,1975,Youth Seg,West,33955,2013-08-09,92,Non Smartphone,102,158,270,11,8,5,5,1,0,0,0
+11075,1978,Youth Seg,North,51267,2013-10-29,37,Non Smartphone,185,73,270,11,4,3,5,3,0,0,0
+3846,1974,Youth Seg,North,42557,2012-08-29,98,Smartphone,197,58,270,11,8,6,4,1,0,0,0
+125,1958,Youth Seg,Lagos,53083,2013-05-15,65,Non Smartphone,222,36,271,11,7,5,5,1,1,0,0
+8890,1971,HV seg,East,65808,2014-05-30,1,Non Smartphone,162,100,272,11,6,5,5,1,0,0,0
+10157,1965,Youth Seg,West,59686,2014-01-25,78,Smartphone,104,165,274,11,4,4,6,1,0,0,0
+8789,1989,Youth Seg,North,59060,2014-01-11,77,Non Smartphone,75,187,274,11,4,3,7,1,0,0,0
+332,1957,Youth Seg,North,47743,2013-03-22,56,Smartphone,200,55,275,11,6,4,6,1,1,0,0
+2387,1952,Mass Mkt Seg,Lagos,43776,2013-02-03,9,Non Smartphone,179,76,275,11,8,5,4,2,0,0,1
+4200,1970,Mass Mkt Seg,North,44159,2014-06-17,85,Non Smartphone,169,99,275,11,5,4,6,1,0,0,0
+8104,1951,HV seg,North,53312,2013-08-09,32,Smartphone,241,12,278,11,7,5,5,1,0,0,0
+1710,1978,Youth Seg,West,30168,2013-03-07,51,Non Smartphone,174,78,279,11,9,6,4,1,0,0,0
+1029,1970,HV seg,Lagos,64413,2013-08-01,27,Smartphone,205,54,279,11,5,5,5,1,0,0,0
+1045,1965,Youth Seg,Lagos,52117,2012-08-16,55,Smartphone,122,137,279,11,7,5,4,2,0,0,0
+5290,1964,HV seg,North,41551,2013-08-14,51,Non Smartphone,220,36,279,11,8,5,5,1,0,0,0
+6404,1969,Youth Seg,Lagos,58917,2013-03-24,10,Non Smartphone,158,96,282,11,5,4,6,1,0,0,0
+6870,1959,HV seg,East,68805,2013-09-17,73,Smartphone,184,79,283,11,2,3,7,1,0,0,0
+5956,1948,HV seg,East,45072,2013-10-16,74,Non Smartphone,146,108,284,11,8,6,4,1,0,0,0
+10507,1977,Youth Seg,East,59601,2013-07-25,14,Smartphone,698,76,797,11,8,2,7,2,1,0,0
+8588,1961,Youth Seg,North,60544,2012-08-25,92,Non Smartphone,203,51,289,11,6,5,5,1,0,0,0
+4094,1961,Youth Seg,North,60544,2012-08-25,92,Non Smartphone,203,51,289,11,6,5,5,1,0,0,0
+368,1974,Youth Seg,North,40049,2012-11-29,61,Smartphone,156,106,290,11,5,3,6,2,0,0,0
+807,1969,Mass Mkt Seg,Lagos,44602,2014-02-15,35,Non Smartphone,169,89,292,11,8,6,4,1,0,0,0
+5552,1963,Mass Mkt Seg,East,48721,2013-05-13,50,Non Smartphone,99,173,293,11,6,4,5,2,0,0,0
+4356,1971,Youth Seg,Lagos,71819,2013-08-28,70,Smartphone,1252,154,1574,11,6,3,5,3,2,0,0
+6374,1954,HV seg,North,36930,2013-05-17,50,Smartphone,225,33,297,11,8,5,4,2,0,0,0
+2471,1965,Youth Seg,North,61482,2014-06-27,39,Smartphone,106,150,299,11,2,3,6,2,0,0,0
+942,1982,Youth Seg,West,39660,2012-08-08,36,Non Smartphone,152,111,299,11,9,7,3,1,0,0,1
+4252,1965,Youth Seg,North,44375,2014-03-23,73,Smartphone,218,42,301,11,5,4,6,1,0,0,0
+7373,1952,HV seg,East,46610,2012-10-29,8,Smartphone,108,151,302,11,6,4,6,1,0,0,1
+10323,1952,Youth Seg,North,49413,2013-10-25,88,Smartphone,212,46,304,11,5,4,5,2,0,0,0
+8405,1979,Youth Seg,East,68274,2013-09-30,83,Non Smartphone,160,99,305,11,3,4,5,2,0,0,0
+7828,1981,Mass Mkt Seg,Lagos,77882,2014-04-30,29,Smartphone,197,606,818,11,1,3,5,3,0,0,0
+3099,1970,Youth Seg,East,44267,2013-02-25,48,Non Smartphone,188,73,310,11,9,5,4,2,0,0,0
+11039,1975,Youth Seg,North,51948,2013-09-17,51,Smartphone,115,155,311,11,5,5,4,2,0,0,0
+9503,1980,Youth Seg,West,28071,2012-08-29,65,Smartphone,72,197,313,11,8,5,5,1,0,0,0
+7119,1982,Youth Seg,West,68627,2013-01-12,45,Smartphone,410,377,825,11,1,2,6,3,0,0,0
+9360,1982,Youth Seg,North,37040,2012-08-08,41,Smartphone,88,180,316,11,8,4,5,2,0,0,0
+4939,1946,Youth Seg,Lagos,37760,2012-08-31,20,Smartphone,89,200,317,11,7,4,6,1,0,0,0
+8652,1946,Youth Seg,Lagos,37760,2012-08-31,20,Smartphone,89,200,317,11,7,4,6,1,0,0,0
+6878,1954,Youth Seg,East,27421,2012-12-12,14,Smartphone,55,214,324,11,7,4,6,1,0,0,0
+8216,1972,Mass Mkt Seg,North,53761,2013-10-11,7,Non Smartphone,158,96,325,11,5,4,3,4,0,0,0
+176,1980,Youth Seg,West,67506,2014-01-02,73,Smartphone,128,136,331,11,3,4,6,1,0,0,0
+675,1973,Mass Mkt Seg,East,52034,2013-05-17,67,Non Smartphone,146,113,332,11,7,4,5,2,0,0,0
+4271,1989,Youth Seg,Lagos,38683,2012-10-04,80,Non Smartphone,81,194,341,11,7,4,6,1,0,0,0
+4188,1957,Youth Seg,West,36864,2012-08-13,53,Smartphone,209,56,354,11,8,5,4,2,0,0,1
+7962,1987,HV seg,West,95169,2013-10-09,1,Smartphone,1306,575,1901,11,1,4,4,3,2,0,1
+7848,1974,Youth Seg,West,49166,2013-06-13,17,Smartphone,226,32,368,11,6,5,3,3,0,0,0
+7807,1974,Youth Seg,North,44989,2012-09-12,26,Smartphone,98,165,369,11,6,5,5,1,0,0,0
+6818,1974,Youth Seg,North,44989,2012-09-12,26,Smartphone,98,165,369,11,6,5,5,1,0,0,0
+4120,1975,Youth Seg,West,49514,2013-12-17,61,Non Smartphone,127,149,369,11,7,6,4,1,0,0,0
+9426,1964,Mass Mkt Seg,West,58308,2013-01-12,77,Smartphone,691,79,900,11,8,2,3,6,0,0,0
+4552,1991,Youth Seg,North,51373,2013-06-22,37,Smartphone,85,191,393,11,4,3,3,5,0,0,0
+983,1984,Youth Seg,North,40059,2013-09-28,82,Non Smartphone,139,130,414,11,8,6,3,2,1,0,0
+6810,1983,Youth Seg,East,82025,2013-05-28,76,Smartphone,365,724,1187,11,1,3,6,2,1,0,1
+1175,1983,Mass Mkt Seg,North,36262,2013-09-20,24,Smartphone,127,146,426,11,6,3,3,5,1,0,1
+5043,1951,Youth Seg,North,26997,2012-11-05,89,Smartphone,30,260,434,11,7,4,5,2,0,0,0
+3336,1948,HV seg,Lagos,66375,2013-11-21,96,Smartphone,712,45,948,11,7,2,5,4,1,0,0
+10430,1973,Youth Seg,East,89694,2013-10-09,22,Non Smartphone,1154,276,1472,11,5,4,4,3,3,0,0
+10513,1992,Youth Seg,Lagos,63207,2013-01-20,68,Smartphone,607,825,1502,11,7,2,6,3,1,0,0
+10742,1983,HV seg,North,86580,2013-02-27,72,Smartphone,553,173,746,11,1,4,5,2,1,0,0
+8910,1955,Youth Seg,Lagos,42586,2012-10-29,7,Non Smartphone,196,56,252,11,8,4,6,1,0,0,1
+10905,1955,Youth Seg,Lagos,42586,2012-10-29,7,Non Smartphone,196,56,252,11,8,4,6,1,0,0,1
+9606,1965,HV seg,North,69969,2013-08-27,64,Smartphone,911,581,1536,12,3,4,6,2,2,0,1
+1357,1970,Youth Seg,Lagos,74854,2013-04-08,90,Non Smartphone,915,574,1562,12,5,2,5,5,0,0,0
+3388,1967,Youth Seg,East,70844,2013-10-30,16,Non Smartphone,155,137,294,12,7,6,5,1,0,0,0
+3507,1970,Youth Seg,West,76467,2012-08-17,44,Non Smartphone,837,680,1575,12,6,2,5,5,0,0,1
+7873,1973,HV seg,Lagos,63516,2013-07-06,30,Non Smartphone,152,143,300,12,5,4,7,1,0,0,0
+3025,1958,Youth Seg,West,49967,2013-07-08,4,Smartphone,218,85,306,12,7,6,5,1,0,0,0
+10951,1968,Youth Seg,North,45688,2014-01-25,20,Smartphone,279,18,306,12,4,3,8,1,1,0,0
+22,1976,Youth Seg,East,46310,2012-12-03,99,Non Smartphone,187,108,309,12,8,6,5,1,0,0,0
+4682,1958,Youth Seg,North,51876,2013-10-15,88,Smartphone,126,178,310,12,1,2,8,2,0,0,0
+8180,1952,Mass Mkt Seg,East,59354,2013-11-15,53,Non Smartphone,235,61,310,12,6,6,5,1,0,0,0
+10260,1965,Mass Mkt Seg,Lagos,45143,2013-08-26,74,Smartphone,207,90,311,12,7,6,5,1,0,0,0
+2262,1965,Mass Mkt Seg,Lagos,45143,2013-08-26,74,Smartphone,207,90,311,12,7,6,5,1,0,0,0
+940,1987,Youth Seg,West,57100,2014-05-18,9,Non Smartphone,169,125,311,12,3,3,7,2,0,0,0
+902,1980,Youth Seg,Lagos,62994,2014-03-04,74,Non Smartphone,236,64,312,12,6,6,4,2,0,0,0
+246,1965,Youth Seg,North,66480,2014-05-31,71,Non Smartphone,208,98,312,12,4,4,7,1,0,0,0
+11166,1961,Youth Seg,North,49678,2013-02-02,81,Smartphone,234,61,315,12,7,6,4,2,0,0,0
+199,1962,Mass Mkt Seg,West,45183,2013-01-20,33,Smartphone,222,81,315,12,7,4,7,1,1,0,0
+326,1973,Youth Seg,North,51148,2013-02-18,38,Non Smartphone,241,62,315,12,6,5,6,1,0,0,0
+5621,1969,Youth Seg,North,48752,2012-12-12,8,Non Smartphone,130,186,316,12,9,6,5,1,0,0,1
+10475,1970,Mass Mkt Seg,Lagos,,2013-04-01,39,Smartphone,192,111,317,12,5,4,6,2,0,0,0
+2452,1971,Youth Seg,Lagos,34600,2013-01-01,8,Non Smartphone,232,71,318,12,8,5,5,2,0,0,1
+7261,1971,Youth Seg,Lagos,34600,2013-01-01,8,Non Smartphone,232,71,318,12,8,5,5,2,0,0,1
+5491,1951,Mass Mkt Seg,Lagos,47352,2013-04-11,70,Smartphone,184,120,319,12,7,6,5,1,0,0,0
+10741,1951,Mass Mkt Seg,Lagos,47352,2013-04-11,70,Smartphone,184,120,319,12,7,6,5,1,0,0,0
+9386,1962,Youth Seg,Lagos,50127,2014-05-29,88,Smartphone,274,31,320,12,6,5,6,1,1,0,0
+3406,1964,Youth Seg,West,45989,2012-10-22,97,Smartphone,171,139,322,12,3,3,7,2,0,0,0
+8773,1971,Mass Mkt Seg,Lagos,57420,2013-06-25,22,Smartphone,280,18,322,12,7,5,6,1,1,0,0
+1381,1982,HV seg,West,38513,2014-01-28,20,Non Smartphone,175,131,324,12,8,6,5,1,0,0,1
+7613,1974,Youth Seg,Lagos,49669,2014-05-24,97,Non Smartphone,171,126,326,12,6,5,6,1,0,0,0
+10862,1960,Mass Mkt Seg,North,30522,2012-08-17,6,Smartphone,187,113,326,12,2,1,9,2,0,0,0
+2308,1954,Youth Seg,North,46734,2012-11-18,40,Smartphone,115,186,330,12,7,6,5,1,0,0,0
+10232,1963,HV seg,East,48799,2013-11-05,9,Smartphone,192,115,331,12,3,3,7,2,0,0,0
+6255,1952,Mass Mkt Seg,Lagos,70545,2014-06-03,29,Smartphone,177,136,334,12,2,4,7,1,0,0,0
+2285,1954,Mass Mkt Seg,Lagos,36634,2013-05-28,0,Smartphone,222,83,335,12,7,5,5,2,0,0,0
+3409,1984,Youth Seg,West,36108,2013-10-15,68,Non Smartphone,149,143,339,12,9,7,4,1,1,0,0
+9097,1956,Youth Seg,East,46086,2013-11-03,34,Smartphone,252,41,343,12,4,3,8,1,0,0,0
+4148,1972,Youth Seg,North,38988,2012-08-20,90,Non Smartphone,188,118,348,12,8,5,6,1,0,0,0
+2625,1954,Youth Seg,West,42607,2013-11-17,30,Smartphone,185,118,350,12,3,3,7,2,0,0,0
+3107,1976,Youth Seg,Lagos,71322,2014-05-02,31,Smartphone,145,163,350,12,2,4,7,1,0,0,0
+1291,1978,HV seg,Lagos,27683,2012-08-04,90,Non Smartphone,161,145,351,12,8,6,4,2,0,0,0
+7108,1965,Mass Mkt Seg,East,51390,2012-09-08,54,Non Smartphone,225,72,353,12,5,5,5,2,0,0,0
+2379,1953,Youth Seg,West,69267,2012-09-22,31,Smartphone,822,667,1635,12,7,3,5,4,0,0,1
+4790,1958,Youth Seg,East,79803,2014-06-02,54,Smartphone,582,253,868,12,1,4,5,3,0,0,0
+9214,1991,Youth Seg,North,42691,2013-08-16,48,Smartphone,181,119,358,12,5,5,6,1,0,0,0
+9665,1957,HV seg,East,54237,2013-04-27,48,Smartphone,270,34,361,12,6,5,5,2,0,0,0
+9949,1976,Youth Seg,North,59809,2012-10-18,36,Smartphone,614,214,877,12,8,3,6,3,0,0,0
+10552,1979,Youth Seg,North,54210,2013-05-20,18,Smartphone,124,198,367,12,5,4,7,1,0,0,0
+2532,1987,Mass Mkt Seg,West,73454,2014-03-01,95,Smartphone,1055,421,1651,12,5,2,6,4,1,0,0
+5185,1955,Youth Seg,North,74268,2013-02-14,83,Smartphone,265,586,892,12,2,4,5,3,0,0,0
+1992,1964,Youth Seg,North,60597,2014-01-01,2,Smartphone,522,305,893,12,7,2,8,2,1,0,1
+6141,1972,Mass Mkt Seg,West,49494,2013-04-25,46,Non Smartphone,200,103,385,12,7,6,5,1,0,0,0
+10377,1958,Mass Mkt Seg,Lagos,46692,2013-06-06,37,Smartphone,176,133,397,12,6,6,5,1,0,0,0
+5036,1984,HV seg,West,42710,2012-11-28,38,Non Smartphone,255,49,406,12,6,4,3,5,0,0,0
+2727,1973,Youth Seg,Lagos,57100,2013-12-04,19,Smartphone,202,111,409,12,3,3,6,3,0,0,0
+10490,1969,HV seg,North,51039,2012-12-10,11,Non Smartphone,164,144,417,12,7,6,4,2,0,0,0
+4093,1975,Mass Mkt Seg,Lagos,53253,2013-02-11,61,Non Smartphone,225,86,436,12,5,4,5,3,0,0,0
+143,1970,Youth Seg,West,61209,2013-08-25,73,Smartphone,466,392,957,12,2,5,4,3,0,0,0
+3117,1955,Youth Seg,West,,2013-10-18,95,Smartphone,264,39,450,12,7,6,5,1,0,0,0
+3535,1965,Youth Seg,West,66294,2014-03-17,68,Smartphone,359,491,967,12,2,4,5,3,0,0,0
+1173,1947,Mass Mkt Seg,Lagos,77632,2013-03-10,73,Smartphone,1305,800,2252,12,2,4,6,2,2,0,1
+291,1970,Youth Seg,North,72940,2013-06-19,13,Smartphone,256,609,981,12,1,3,6,3,0,0,0
+10971,1977,Youth Seg,West,37774,2012-09-03,28,Non Smartphone,181,116,473,12,9,7,3,2,1,1,1
+10340,1984,Youth Seg,Lagos,35196,2012-11-13,68,Non Smartphone,87,223,497,12,8,6,5,1,0,0,0
+8870,1984,Youth Seg,Lagos,35196,2012-11-13,68,Non Smartphone,87,223,497,12,8,6,5,1,0,0,1
+2181,1970,Youth Seg,North,70617,2013-06-23,45,Smartphone,414,839,1280,13,2,3,7,3,0,0,0
+2350,1972,Youth Seg,North,59666,2013-03-22,87,Non Smartphone,676,218,1027,13,8,3,8,2,1,0,0
+9204,1970,Youth Seg,East,66731,2012-09-12,33,Smartphone,530,358,1029,13,3,4,6,3,0,0,0
+7321,1962,Youth Seg,Lagos,76081,2014-05-23,85,Smartphone,322,511,1033,13,2,4,4,5,1,0,0
+4998,1962,Youth Seg,Lagos,76081,2014-05-23,85,Smartphone,322,511,1033,13,2,4,4,5,1,0,0
+9595,1961,Youth Seg,Lagos,64260,2013-01-11,1,Smartphone,708,836,1574,13,3,4,4,5,0,0,1
+5341,1962,Youth Seg,East,81975,2013-01-05,2,Smartphone,1059,502,1588,13,7,6,4,3,1,0,0
+4377,1971,Youth Seg,North,52914,2013-01-07,32,Smartphone,264,84,575,13,7,7,3,3,1,0,0
+10955,1964,Youth Seg,East,85620,2014-01-07,68,Smartphone,462,1092,1600,13,1,3,4,6,0,0,1
+6543,1945,Mass Mkt Seg,Lagos,62847,2013-01-15,45,Smartphone,689,862,1612,13,2,3,4,6,0,0,0
+10991,1960,Mass Mkt Seg,North,89058,2012-12-07,18,Smartphone,648,159,850,13,2,5,4,4,0,0,0
+5389,1964,Youth Seg,North,48920,2013-10-20,93,Smartphone,255,86,347,13,7,6,5,2,1,0,0
+247,1971,Youth Seg,North,36715,2012-11-17,16,Non Smartphone,182,159,357,13,9,7,4,2,0,0,1
+10556,1959,Youth Seg,North,54984,2014-05-24,51,Smartphone,186,166,358,13,7,6,6,1,1,0,0
+907,1975,Youth Seg,North,46149,2013-11-29,36,Smartphone,260,75,362,13,5,5,7,1,0,0,0
+5644,1957,Youth Seg,Lagos,42213,2013-10-12,96,Smartphone,312,31,363,13,7,5,7,1,1,0,0
+3277,1955,Youth Seg,East,49431,2012-08-03,9,Smartphone,222,126,365,13,8,7,5,1,0,0,0
+8486,1971,Mass Mkt Seg,Lagos,30538,2012-10-01,27,Non Smartphone,284,63,367,13,10,9,4,0,0,0,0
+7422,1987,Youth Seg,West,46923,2012-08-22,90,Non Smartphone,129,234,369,13,7,5,7,1,0,0,0
+8805,1960,Youth Seg,West,48904,2012-12-02,1,Smartphone,293,51,371,13,8,7,4,2,0,0,0
+4452,1957,Youth Seg,West,50388,2014-05-28,3,Smartphone,298,40,372,13,7,6,6,1,2,0,1
+3083,1974,Youth Seg,North,45837,2013-07-26,88,Non Smartphone,228,121,373,13,7,6,5,2,0,0,0
+347,1976,Youth Seg,East,40780,2012-09-08,30,Smartphone,256,87,377,13,9,7,5,1,0,0,0
+10448,1956,Youth Seg,West,46998,2012-10-22,55,Smartphone,213,137,377,13,7,5,5,3,1,0,0
+5763,1972,Mass Mkt Seg,Lagos,49854,2013-11-10,63,Non Smartphone,140,210,380,13,6,6,5,2,0,0,0
+2961,1982,Youth Seg,North,42081,2013-02-26,86,Non Smartphone,185,170,382,13,6,6,4,3,1,0,0
+5995,1962,Youth Seg,East,39552,2012-12-18,54,Non Smartphone,168,175,384,13,8,6,5,2,0,0,1
+5441,1965,HV seg,East,54111,2013-08-25,97,Smartphone,273,65,388,13,5,5,6,2,0,0,0
+6142,1943,Mass Mkt Seg,North,65073,2013-08-20,65,Smartphone,646,246,900,13,2,5,5,3,0,1,0
+4697,1949,Mass Mkt Seg,East,35416,2013-06-13,62,Smartphone,251,88,390,13,8,7,5,1,0,0,0
+8439,1964,Youth Seg,Lagos,63404,2014-06-06,97,Smartphone,760,125,902,13,4,6,4,3,1,0,0
+9119,1950,Youth Seg,Lagos,60905,2013-12-05,27,Smartphone,225,129,392,13,2,3,7,3,0,0,0
+944,1962,Youth Seg,North,56181,2013-01-08,6,Smartphone,224,121,393,13,4,4,7,2,0,0,0
+10855,1968,Mass Mkt Seg,West,50014,2014-01-22,9,Non Smartphone,248,106,396,13,5,4,8,1,0,0,0
+182,1946,HV seg,Lagos,44124,2013-05-11,62,Smartphone,284,61,397,13,8,6,5,2,0,0,0
+7002,1955,Youth Seg,West,62535,2013-10-03,13,Smartphone,211,135,398,13,3,3,8,2,0,0,0
+3972,1976,Youth Seg,Lagos,50200,2013-04-03,70,Non Smartphone,272,65,401,13,8,7,5,1,0,0,0
+9478,1985,Youth Seg,West,66503,2012-08-14,30,Non Smartphone,155,196,401,13,3,4,6,3,0,0,0
+8093,1969,Mass Mkt Seg,North,79734,2014-06-28,72,Smartphone,580,317,914,13,1,4,6,3,1,0,0
+10882,1976,Youth Seg,North,53858,2012-11-09,50,Smartphone,460,429,915,13,4,4,6,3,0,0,0
+8210,1975,Mass Mkt Seg,North,54730,2013-08-15,64,Smartphone,321,28,405,13,4,4,8,1,0,0,0
+7352,1957,Youth Seg,North,55267,2013-10-21,28,Smartphone,189,171,405,13,3,3,6,4,0,0,0
+3281,1960,HV seg,North,49154,2013-11-03,69,Non Smartphone,216,124,411,13,6,4,8,1,0,0,0
+2878,1947,HV seg,North,67472,2013-09-28,93,Smartphone,193,152,414,13,3,4,7,2,0,0,0
+9246,1985,Mass Mkt Seg,Lagos,40101,2012-10-14,73,Non Smartphone,174,179,415,13,7,6,6,1,0,0,0
+1459,1966,HV seg,North,69063,2012-11-07,16,Smartphone,701,201,928,13,3,5,5,3,0,0,0
+3643,1974,Mass Mkt Seg,North,63206,2014-03-20,65,Smartphone,758,144,928,13,2,4,6,3,1,0,0
+2591,1959,Youth Seg,East,76320,2014-06-22,49,Smartphone,561,336,932,13,2,6,4,3,0,0,0
+10972,1949,Youth Seg,East,72298,2014-03-10,52,Smartphone,660,244,939,13,1,4,6,3,2,0,0
+7798,1972,Youth Seg,Lagos,46344,2012-12-14,28,Smartphone,253,85,429,13,7,7,5,1,0,0,0
+6497,1960,Youth Seg,North,51651,2012-11-07,32,Smartphone,299,42,433,13,8,6,5,2,0,0,0
+1927,1973,Youth Seg,Lagos,69401,2014-03-23,41,Smartphone,426,225,690,13,2,4,5,4,0,0,0
+737,1949,HV seg,North,80360,2013-03-03,56,Smartphone,1579,609,2231,13,2,4,5,4,3,0,0
+5510,1977,Mass Mkt Seg,North,43263,2012-11-21,2,Smartphone,268,71,441,13,5,5,6,2,0,0,0
+405,1964,Youth Seg,East,41638,2013-02-13,68,Smartphone,315,35,441,13,8,5,3,5,1,0,0
+2415,1962,Youth Seg,Lagos,62568,2014-04-07,99,Smartphone,379,513,953,13,4,5,5,3,1,0,0
+1409,1951,Youth Seg,Lagos,40689,2013-03-18,69,Smartphone,273,72,444,13,8,7,5,1,0,0,0
+5314,1951,Youth Seg,Lagos,40689,2013-03-18,69,Smartphone,273,72,444,13,8,7,5,1,0,0,0
+3412,1951,Mass Mkt Seg,North,67381,2013-01-15,67,Smartphone,823,64,957,13,7,2,9,2,1,0,0
+4554,1965,Youth Seg,Lagos,47009,2013-10-01,89,Smartphone,216,142,448,13,4,3,8,2,0,0,0
+3254,1971,Youth Seg,North,70886,2013-10-14,65,Non Smartphone,477,430,960,13,2,5,4,4,0,0,0
+1362,1972,Youth Seg,West,31907,2013-03-04,75,Smartphone,120,255,449,13,7,6,6,1,0,0,0
+9624,1958,HV seg,Lagos,65488,2014-06-13,46,Smartphone,648,261,963,13,1,3,6,4,0,0,0
+9308,1954,Youth Seg,North,62820,2013-05-11,51,Smartphone,459,464,976,13,1,3,6,4,0,0,0
+544,1954,Youth Seg,North,62820,2013-05-11,51,Smartphone,459,464,976,13,1,3,6,4,0,0,0
+10832,1958,Youth Seg,Lagos,46610,2013-07-18,4,Smartphone,298,44,467,13,6,6,6,1,0,0,0
+5871,1979,Mass Mkt Seg,Lagos,24401,2012-08-31,98,Smartphone,101,251,467,13,8,6,6,1,0,0,0
+4095,1971,Youth Seg,North,37150,2012-09-11,80,Non Smartphone,204,147,467,13,7,4,6,3,0,0,0
+1665,1964,HV seg,East,64140,2013-09-23,71,Smartphone,1459,76,1750,13,5,2,6,5,3,0,1
+5748,1965,Youth Seg,North,59754,2012-12-01,96,Smartphone,142,194,475,13,5,5,6,2,0,0,1
+5545,1972,HV seg,North,78075,2014-04-05,72,Smartphone,580,328,988,13,1,3,5,5,0,0,0
+123,1951,Youth Seg,East,67046,2013-01-06,92,Smartphone,579,307,993,13,2,4,4,5,0,0,0
+2942,1964,Youth Seg,West,45906,2013-05-07,20,Smartphone,308,34,486,13,5,5,4,4,1,0,0
+8687,1978,Youth Seg,Lagos,53172,2013-05-06,54,Smartphone,183,178,486,13,3,2,8,3,0,0,0
+2632,1954,Youth Seg,North,50501,2013-06-18,10,Non Smartphone,297,51,500,13,6,5,4,4,1,0,1
+3170,1957,Mass Mkt Seg,Lagos,68148,2013-08-31,86,Smartphone,455,502,1042,14,2,4,6,4,0,0,0
+7279,1969,HV seg,Lagos,69476,2013-09-30,3,Smartphone,346,631,1044,14,2,4,4,6,0,0,0
+1491,1965,Youth Seg,Lagos,71488,2013-02-18,87,Smartphone,195,192,559,14,1,3,7,4,0,0,0
+1150,1899,HV seg,Lagos,83532,2013-09-26,36,Smartphone,899,730,1853,14,1,4,4,6,1,0,0
+10144,1976,Youth Seg,Lagos,51369,2012-10-25,84,Smartphone,304,90,576,14,8,8,4,2,0,0,0
+7375,1976,Youth Seg,Lagos,51369,2012-10-25,84,Smartphone,304,90,576,14,8,8,4,2,0,0,0
+3520,1990,Mass Mkt Seg,West,91172,2013-03-27,94,Smartphone,190,846,1092,14,3,4,7,3,4,0,1
+9847,1955,Youth Seg,North,62972,2012-08-03,39,Smartphone,328,67,587,14,6,7,3,4,0,0,0
+9094,1955,Youth Seg,North,62972,2012-08-03,39,Smartphone,328,67,587,14,6,7,3,4,0,0,1
+9499,1954,Youth Seg,North,93404,2013-05-07,97,Non Smartphone,1294,307,1616,14,5,3,7,4,2,0,0
+8029,1988,Mass Mkt Seg,West,90247,2014-04-29,27,Smartphone,1216,389,1621,14,1,3,7,4,3,0,1
+6637,1988,Youth Seg,West,66951,2013-11-02,46,Smartphone,439,554,1117,14,1,3,7,4,0,0,0
+2939,1970,Mass Mkt Seg,Lagos,79419,2014-06-22,96,Smartphone,878,722,1631,14,2,4,4,6,0,0,0
+8957,1952,Youth Seg,West,64831,2013-06-10,51,Non Smartphone,566,410,1120,14,6,6,5,3,0,0,0
+830,1987,HV seg,West,74004,2014-02-24,5,Smartphone,832,778,1658,14,3,4,4,6,2,0,1
+3075,1972,HV seg,North,59973,2013-09-11,47,Smartphone,160,222,382,14,1,3,7,4,0,0,0
+6184,1969,HV seg,North,68462,2012-12-12,6,Smartphone,625,997,1670,14,1,3,8,3,0,0,0
+115,1966,Mass Mkt Seg,West,43456,2013-03-26,0,Smartphone,286,100,393,14,5,5,8,1,0,0,0
+8527,1965,Mass Mkt Seg,Lagos,65735,2013-12-07,37,Non Smartphone,246,138,395,14,7,6,6,2,0,0,0
+10127,1965,Youth Seg,North,58692,2014-04-06,21,Smartphone,312,72,395,14,7,8,4,2,0,0,0
+1542,1975,Youth Seg,West,56243,2013-12-30,26,Non Smartphone,347,42,396,14,5,4,8,2,0,0,0
+5177,1974,Mass Mkt Seg,North,58494,2013-12-12,56,Smartphone,305,72,396,14,6,6,6,2,0,0,0
+5896,1987,Mass Mkt Seg,North,73395,2014-03-18,94,Smartphone,279,107,397,14,2,4,6,4,0,0,0
+4865,1974,Mass Mkt Seg,East,53367,2013-08-31,2,Non Smartphone,236,153,400,14,7,5,8,1,0,0,1
+7037,1974,HV seg,North,37087,2013-08-11,50,Non Smartphone,249,149,401,14,6,4,8,2,0,0,0
+4480,1973,Mass Mkt Seg,North,60432,2014-03-09,61,Smartphone,368,22,401,14,6,7,5,2,0,0,0
+2036,1973,HV seg,Lagos,57906,2013-06-11,29,Smartphone,254,132,401,14,4,4,8,2,0,0,0
+4369,1957,Mass Mkt Seg,East,65487,2014-01-10,48,Smartphone,307,699,1169,14,2,3,6,5,0,0,0
+10652,1957,Mass Mkt Seg,Lagos,65487,2014-01-10,48,Smartphone,307,699,1169,14,2,3,6,5,0,0,0
+2782,1961,HV seg,North,54456,2013-07-11,23,Smartphone,352,37,404,14,6,6,7,1,0,0,0
+8268,1961,HV seg,North,,2013-07-11,23,Smartphone,352,37,404,14,6,6,7,1,0,0,0
+4065,1976,HV seg,North,49544,2013-02-12,0,Non Smartphone,308,73,404,14,7,5,8,1,0,0,0
+6872,1974,HV seg,North,65352,2013-08-21,43,Smartphone,287,95,405,14,4,4,8,2,0,0,0
+5558,1954,HV seg,West,90933,2014-03-31,90,Smartphone,1051,555,1685,14,1,4,4,6,1,0,0
+10634,1951,Mass Mkt Seg,North,59412,2014-04-19,56,Smartphone,157,238,406,14,3,4,8,2,0,0,0
+1497,1952,Youth Seg,West,47958,2013-01-19,8,Smartphone,279,106,407,14,5,6,5,3,0,0,0
+4698,1983,HV seg,North,50150,2013-06-20,32,Smartphone,181,218,410,14,5,5,7,2,0,0,0
+3037,1983,HV seg,North,50150,2013-06-20,32,Smartphone,181,218,410,14,5,5,7,2,0,0,0
+9121,1972,Youth Seg,North,80134,2013-05-20,40,Non Smartphone,1234,376,1690,14,6,5,6,3,3,0,1
+2176,1972,Youth Seg,North,80134,2013-05-20,40,Non Smartphone,1234,376,1690,14,6,5,6,3,3,0,1
+11171,1965,Mass Mkt Seg,North,56962,2013-10-11,60,Non Smartphone,295,90,411,14,7,6,5,3,0,0,0
+1600,1965,Mass Mkt Seg,North,56962,2013-10-11,60,Non Smartphone,295,90,411,14,7,6,5,3,0,0,0
+7755,1954,HV seg,North,57744,2013-11-12,91,Smartphone,353,39,411,14,8,9,4,1,0,0,0
+5370,1973,HV seg,North,32644,2013-01-16,38,Non Smartphone,242,148,413,14,8,7,6,1,1,0,0
+977,1957,Youth Seg,Lagos,47320,2013-08-01,10,Smartphone,219,176,414,14,6,5,8,1,0,0,0
+2698,1976,Youth Seg,West,47025,2013-11-07,52,Smartphone,261,128,415,14,6,6,5,3,0,0,0
+1406,1975,Youth Seg,West,53201,2013-02-12,49,Non Smartphone,287,101,415,14,7,6,5,3,0,0,0
+6653,1970,HV seg,North,55158,2012-07-30,72,Non Smartphone,293,102,418,14,7,7,5,2,0,0,1
+5324,1981,HV seg,North,58293,2014-01-19,94,Non Smartphone,216,191,422,14,5,5,6,3,0,0,0
+1826,1970,Youth Seg,East,84835,2014-06-16,0,Smartphone,293,679,1190,14,1,4,6,4,0,0,1
+1630,1979,Youth Seg,West,61825,2013-08-07,56,Smartphone,212,185,424,14,4,4,8,2,0,0,0
+492,1973,HV seg,East,48432,2012-10-18,3,Smartphone,325,57,424,14,8,7,6,1,0,0,0
+9964,1979,Youth Seg,West,61825,2013-08-07,56,Smartphone,212,185,424,14,4,4,8,2,0,0,0
+11133,1973,HV seg,East,48432,2012-10-18,3,Smartphone,325,57,424,14,8,7,6,1,0,0,1
+1041,1973,HV seg,West,48432,2012-10-18,3,Smartphone,325,57,424,14,8,7,6,1,0,0,1
+10906,1948,HV seg,Lagos,46681,2013-10-08,52,Smartphone,284,103,425,14,5,4,4,6,0,0,0
+4107,1948,HV seg,Lagos,46681,2013-10-08,52,Smartphone,284,103,425,14,5,4,4,6,0,0,0
+1142,1953,HV seg,North,55707,2013-12-22,91,Smartphone,215,178,428,14,3,3,9,2,0,0,0
+6131,1980,Youth Seg,North,70829,2013-12-01,87,Non Smartphone,211,197,431,14,3,4,8,2,0,0,0
+4168,1966,Youth Seg,West,37070,2013-03-20,30,Non Smartphone,238,156,433,14,7,5,8,1,0,0,1
+6798,1966,Youth Seg,West,37070,2013-03-20,30,Non Smartphone,238,156,433,14,7,5,8,1,0,0,1
+9507,1975,Youth Seg,North,40794,2013-04-07,18,Smartphone,284,100,434,14,7,6,5,3,0,0,0
+8685,1977,Youth Seg,North,42014,2012-08-17,56,Non Smartphone,259,127,436,14,8,7,6,1,0,0,1
+3340,1977,Youth Seg,North,42014,2012-08-17,56,Non Smartphone,259,127,436,14,8,7,6,1,0,0,1
+1916,1954,Mass Mkt Seg,North,45736,2013-07-24,92,Smartphone,191,203,437,14,7,7,6,1,0,0,0
+10660,1957,Mass Mkt Seg,North,66726,2014-01-12,61,Non Smartphone,356,35,438,14,7,8,4,2,1,0,0
+713,1977,Mass Mkt Seg,North,50353,2014-06-08,72,Smartphone,156,251,442,14,3,4,6,4,0,0,0
+6749,1966,Youth Seg,West,86358,2012-08-08,78,Non Smartphone,1004,623,1722,14,8,5,6,3,0,0,0
+1545,1986,Youth Seg,North,38508,2013-08-02,95,Non Smartphone,139,250,443,14,8,7,5,2,0,0,0
+9797,1956,Youth Seg,North,58116,2014-04-13,38,Smartphone,247,145,443,14,2,3,8,3,0,0,0
+6721,1951,Youth Seg,North,71965,2013-07-29,21,Smartphone,591,374,1213,14,3,6,5,3,0,0,0
+9967,1974,Youth Seg,East,53034,2013-05-30,30,Non Smartphone,175,222,447,14,8,6,7,1,0,0,0
+8786,1956,Mass Mkt Seg,North,62058,2013-05-26,52,Smartphone,308,84,450,14,6,6,7,1,0,0,0
+5114,1965,Mass Mkt Seg,North,74806,2012-12-19,1,Smartphone,679,277,965,14,4,5,5,4,0,0,0
+1577,1946,Youth Seg,North,78569,2014-02-19,14,Smartphone,637,1004,1736,14,1,4,4,6,1,0,1
+7610,1983,Youth Seg,Lagos,37292,2013-04-18,32,Non Smartphone,275,119,460,14,8,6,5,3,0,0,0
+1993,1949,HV seg,North,58607,2012-12-23,63,Smartphone,867,86,972,14,8,2,9,3,1,0,0
+6616,1975,Youth Seg,Lagos,59481,2013-10-23,47,Smartphone,181,222,461,14,2,3,8,3,0,0,0
+1672,1974,HV seg,Lagos,65640,2014-03-01,74,Smartphone,211,184,461,14,2,5,8,1,0,0,0
+3503,1950,Youth Seg,East,82460,2013-12-02,78,Smartphone,302,657,974,14,1,5,6,3,0,0,0
+8026,1952,Youth Seg,North,62998,2013-09-30,10,Smartphone,178,227,463,14,5,5,5,4,0,0,0
+75,1982,Youth Seg,Lagos,41039,2013-07-25,32,Smartphone,45,377,467,14,8,8,5,1,0,0,0
+4201,1962,Youth Seg,West,57967,2013-03-03,39,Smartphone,236,141,468,14,5,4,8,2,0,0,0
+6281,1966,Youth Seg,East,55686,2013-02-14,27,Smartphone,673,283,982,14,4,6,5,3,1,0,0
+5798,1973,Mass Mkt Seg,Lagos,,2013-11-23,87,Smartphone,482,485,985,14,1,2,8,4,0,0,0
+2928,1975,HV seg,West,52614,2012-12-01,63,Smartphone,789,163,990,14,8,2,8,4,0,0,0
+2920,1975,HV seg,West,52614,2012-12-01,63,Smartphone,789,163,990,14,8,2,8,4,0,0,0
+1584,1977,Youth Seg,North,41443,2014-04-01,79,Non Smartphone,178,215,482,14,8,8,5,1,0,0,0
+2882,1975,Youth Seg,East,67893,2012-10-01,31,Smartphone,739,209,995,14,8,3,9,2,0,0,0
+9353,1959,Youth Seg,West,62450,2014-01-06,61,Smartphone,562,395,995,14,3,5,4,5,1,0,0
+3009,1962,HV seg,East,71670,2013-07-09,8,Smartphone,1478,128,1766,14,6,5,6,3,3,0,1
+1740,1944,Youth Seg,North,55956,2014-04-07,22,Smartphone,798,163,999,14,4,7,4,3,1,0,0
+10505,1960,Mass Mkt Seg,Lagos,73113,2013-12-26,86,Smartphone,760,213,1001,14,2,3,7,4,0,0,0
+6720,1968,Mass Mkt Seg,Lagos,43795,2013-10-16,11,Smartphone,325,60,492,14,7,7,4,3,1,0,1
+9940,1958,Youth Seg,Lagos,64961,2012-12-23,97,Smartphone,496,475,1009,14,3,6,4,4,0,0,0
+10245,1986,Youth Seg,West,80910,2012-10-31,71,Smartphone,240,475,756,14,1,3,8,3,0,0,0
+7233,1972,Youth Seg,North,69209,2012-09-17,4,Smartphone,528,1126,1782,14,4,5,6,3,1,0,0
+10581,1977,Youth Seg,North,41124,2012-10-31,41,Non Smartphone,288,99,506,14,8,7,4,3,0,0,0
+1081,1957,HV seg,North,75283,2013-03-27,26,Non Smartphone,742,211,1019,14,4,6,5,3,0,0,0
+1077,1974,Youth Seg,Lagos,56715,2012-12-05,52,Smartphone,363,648,1020,14,4,7,4,3,0,0,0
+9185,1966,HV seg,West,69759,2013-10-28,38,Smartphone,472,557,1029,15,3,4,5,6,0,0,1
+702,1975,Youth Seg,East,47682,2013-02-15,80,Smartphone,223,237,521,15,5,4,8,3,0,0,0
+4426,1975,Youth Seg,West,55801,2013-09-22,35,Non Smartphone,371,61,527,15,7,7,6,2,1,0,0
+6875,1965,HV seg,Lagos,32727,2012-08-28,38,Smartphone,180,279,529,15,8,7,5,3,0,0,0
+8970,1972,HV seg,North,62010,2012-10-23,93,Smartphone,393,45,530,15,5,6,7,2,0,0,0
+590,1970,Mass Mkt Seg,East,78579,2012-12-22,35,Smartphone,882,831,1812,15,3,5,4,6,0,0,1
+2075,1969,Youth Seg,North,72460,2013-11-14,56,Smartphone,387,650,1047,15,1,3,7,5,0,0,0
+5831,1967,Youth Seg,North,77870,2012-08-22,93,Smartphone,1067,615,1815,15,8,5,5,5,2,0,1
+2863,1970,Youth Seg,West,,2013-08-23,67,Non Smartphone,758,274,1052,15,7,2,10,3,2,0,0
+5172,1976,Mass Mkt Seg,Lagos,65104,2013-11-14,4,Smartphone,738,265,1053,15,7,3,7,5,0,0,0
+11084,1976,Mass Mkt Seg,Lagos,65104,2013-11-14,4,Smartphone,738,265,1053,15,7,3,7,5,0,0,1
+6376,1979,Youth Seg,West,57537,2013-06-10,83,Non Smartphone,247,198,545,15,4,4,8,3,0,0,0
+10722,1973,Youth Seg,Lagos,55593,2013-08-21,63,Smartphone,301,139,546,15,6,6,3,6,1,0,0
+6931,1967,Youth Seg,East,76982,2014-02-15,19,Smartphone,615,417,1062,15,4,8,4,3,1,0,1
+2072,1969,HV seg,Lagos,53374,2012-08-16,34,Smartphone,906,124,1064,15,9,4,9,2,1,0,1
+9120,1962,Youth Seg,West,66565,2012-12-05,80,Smartphone,757,266,1065,15,8,4,9,2,0,0,0
+10091,1956,Youth Seg,West,60230,2013-05-20,78,Smartphone,540,487,1067,15,5,6,6,3,0,0,0
+6097,1959,Youth Seg,West,50664,2013-01-16,64,Non Smartphone,321,114,561,15,9,8,6,1,0,0,0
+4137,1948,Youth Seg,Lagos,70666,2013-12-06,29,Smartphone,438,608,1076,15,4,7,4,4,0,0,0
+367,1978,Youth Seg,North,36550,2013-02-19,74,Non Smartphone,137,320,577,15,9,9,5,1,0,0,0
+4399,1969,Youth Seg,Lagos,68695,2014-06-25,3,Smartphone,539,512,1091,15,2,4,7,4,0,0,0
+9888,1969,Youth Seg,Lagos,68695,2014-06-25,3,Smartphone,539,512,1091,15,2,4,7,4,0,0,0
+8041,1971,HV seg,East,47111,2012-09-08,35,Smartphone,666,385,1092,15,9,3,10,2,0,0,0
+2410,1969,Youth Seg,West,81657,2014-01-22,69,Smartphone,404,643,1097,15,1,3,8,4,0,0,0
+2125,1959,Youth Seg,East,63033,2013-11-15,82,Smartphone,255,817,1102,15,2,3,8,4,0,0,0
+709,1952,Youth Seg,East,51537,2012-12-09,27,Smartphone,807,204,1103,15,8,2,11,2,0,0,0
+1524,1983,Youth Seg,West,81698,2013-03-01,1,Smartphone,754,305,1104,15,5,8,5,2,1,0,1
+10928,1958,Youth Seg,Lagos,66886,2013-09-16,28,Smartphone,319,134,599,15,5,7,7,1,0,0,0
+6445,1967,Youth Seg,Lagos,66825,2013-07-14,73,Smartphone,344,474,858,15,2,4,6,5,0,0,0
+961,1972,Youth Seg,North,74716,2013-09-12,92,Smartphone,160,629,860,15,4,7,5,3,0,0,0
+9370,1945,HV seg,North,65846,2013-05-17,68,Smartphone,643,396,1120,15,4,6,6,3,0,0,0
+2669,1993,Youth Seg,West,74293,2014-05-04,66,Smartphone,527,519,1127,15,2,5,6,4,0,0,0
+10037,1993,Youth Seg,West,74293,2014-05-04,66,Smartphone,527,519,1127,15,2,5,6,4,0,0,0
+2674,1958,Mass Mkt Seg,West,75154,2012-09-04,79,Smartphone,553,508,1143,15,3,6,6,3,0,0,1
+269,1963,HV seg,West,46757,2012-11-16,71,Smartphone,807,214,1143,15,9,4,7,4,0,0,0
+8707,1956,Youth Seg,North,79456,2012-08-22,12,Smartphone,607,695,1401,15,3,5,4,6,0,0,1
+4122,1975,Youth Seg,North,79205,2012-08-29,73,Smartphone,527,324,895,15,4,6,4,5,1,0,1
+7725,1965,Youth Seg,North,76800,2014-03-08,33,Smartphone,199,361,641,15,1,4,7,4,0,0,0
+11071,1984,Youth Seg,West,79607,2013-04-21,37,Smartphone,583,1124,1923,15,1,3,6,6,0,0,1
+375,1954,Youth Seg,East,76773,2013-02-25,79,Smartphone,572,568,1156,15,1,2,11,2,0,0,0
+10530,1959,HV seg,East,67786,2013-12-07,0,Smartphone,513,541,1156,15,1,3,6,6,0,0,1
+5955,1962,Youth Seg,Lagos,72025,2012-11-17,27,Smartphone,866,833,1932,15,3,4,8,3,0,0,0
+7899,1952,HV seg,North,77610,2012-10-29,70,Smartphone,1278,386,1680,15,7,4,4,7,0,0,0
+5909,1964,Youth Seg,North,58512,2013-09-19,25,Smartphone,905,114,1171,15,8,3,8,4,0,0,0
+5302,1986,Youth Seg,Lagos,78394,2013-02-15,13,Smartphone,325,937,1428,15,2,4,5,6,0,0,1
+3725,1961,HV seg,West,84865,2013-05-09,1,Smartphone,1264,408,1688,15,4,2,9,4,4,0,1
+1361,1974,Mass Mkt Seg,North,82584,2013-06-04,26,Smartphone,1144,223,1435,15,1,3,8,4,2,0,1
+10164,1958,Youth Seg,West,94472,2014-04-03,75,Smartphone,1050,625,1691,15,5,5,5,5,2,0,0
+10936,1965,Youth Seg,North,72190,2013-02-13,79,Smartphone,763,935,1947,15,3,5,4,6,0,0,0
+5113,1971,HV seg,East,86979,2013-11-07,67,Smartphone,684,983,1702,15,2,5,5,5,1,0,1
+1411,1952,Youth Seg,East,82623,2013-11-10,58,Smartphone,238,529,940,15,1,2,4,9,0,0,0
+8278,1990,HV seg,North,74214,2012-08-26,3,Smartphone,946,732,1711,15,5,8,5,2,0,0,0
+5529,1946,HV seg,Lagos,64014,2014-06-10,56,Non Smartphone,406,30,444,15,7,8,5,2,1,0,0
+4001,1946,HV seg,Lagos,64014,2014-06-10,56,Non Smartphone,406,30,444,15,7,8,5,2,1,0,0
+1592,1970,Youth Seg,North,90765,2014-01-24,25,Smartphone,646,1045,1724,15,1,4,5,6,2,0,0
+2552,1955,HV seg,West,55521,2013-10-22,11,Non Smartphone,416,26,446,15,7,6,6,3,1,0,1
+5794,1974,HV seg,North,46374,2014-03-17,1,Smartphone,408,21,446,15,8,7,7,1,2,0,1
+4943,1953,Youth Seg,North,70503,2012-09-30,73,Smartphone,1412,249,1727,15,6,2,9,4,2,0,0
+7938,1958,HV seg,Lagos,51518,2013-10-03,92,Smartphone,358,87,449,15,3,3,10,2,0,0,0
+10702,1984,Youth Seg,West,52413,2012-11-03,67,Non Smartphone,193,245,450,15,7,7,7,1,0,0,0
+8783,1950,Youth Seg,North,57045,2012-09-08,40,Smartphone,309,128,454,15,3,4,9,2,0,0,0
+4827,1956,HV seg,West,54998,2013-03-10,3,Smartphone,176,271,455,15,4,4,9,2,0,0,1
+4599,1976,Mass Mkt Seg,North,49681,2013-11-04,66,Smartphone,411,26,458,15,7,7,7,1,0,0,0
+879,1976,Mass Mkt Seg,North,49681,2013-11-04,66,Smartphone,411,26,458,15,7,7,7,1,0,0,0
+3830,1953,Mass Mkt Seg,North,59354,2014-04-24,59,Smartphone,316,130,459,15,3,4,7,4,0,0,0
+7987,1969,Youth Seg,North,65747,2014-03-07,96,Smartphone,363,84,460,15,6,8,6,1,1,0,0
+5626,1964,HV seg,West,61798,2013-11-23,13,Smartphone,342,108,463,15,4,4,9,2,0,0,0
+10664,1949,Mass Mkt Seg,East,51529,2013-09-07,14,Smartphone,404,41,467,15,8,9,5,1,0,0,0
+5092,1949,HV seg,East,51569,2013-02-12,39,Smartphone,380,53,467,15,8,7,7,1,1,0,1
+10669,1981,Youth Seg,North,54386,2013-05-17,8,Smartphone,298,147,470,15,3,3,10,2,0,0,0
+6261,1979,Youth Seg,North,58025,2013-11-26,81,Smartphone,301,147,470,15,4,3,10,2,0,0,0
+9687,1975,Youth Seg,West,73170,2014-05-31,1,Smartphone,358,336,726,15,2,5,6,4,0,0,0
+1371,1976,Youth Seg,West,79941,2014-06-28,72,Smartphone,287,523,984,15,1,2,9,4,0,0,0
+254,1955,Youth Seg,Lagos,53863,2014-05-17,4,Smartphone,403,40,473,15,7,7,7,1,1,0,0
+1891,1980,Mass Mkt Seg,East,78789,2012-08-08,12,Smartphone,717,954,1754,15,2,4,5,6,0,0,1
+610,1953,HV seg,Lagos,53593,2012-08-07,60,Non Smartphone,353,84,480,15,8,7,6,2,0,0,0
+10841,1975,HV seg,Lagos,56559,2012-12-25,46,Smartphone,248,205,484,15,4,4,8,3,0,0,0
+7384,1951,Mass Mkt Seg,Lagos,39767,2013-07-21,18,Smartphone,174,264,485,15,8,7,7,1,0,0,0
+4609,1966,HV seg,North,57705,2014-01-11,14,Smartphone,383,63,486,15,6,8,6,1,0,0,0
+7453,1954,Youth Seg,West,36130,2013-02-02,46,Smartphone,200,251,488,15,4,3,4,8,1,0,1
+6357,1959,Youth Seg,East,59052,2013-11-17,29,Smartphone,265,195,491,15,5,7,7,1,0,0,0
+5837,1967,Youth Seg,North,51479,2012-12-28,67,Non Smartphone,255,174,494,15,7,6,6,3,0,0,0
+1165,1958,HV seg,West,50729,2013-05-02,62,Non Smartphone,252,192,496,15,6,6,7,2,0,0,0
+2870,1973,Youth Seg,North,49094,2012-09-21,6,Smartphone,376,57,502,15,6,6,6,3,0,0,0
+2781,1981,Youth Seg,West,72066,2014-06-23,55,Smartphone,1037,721,1792,16,2,4,6,6,2,0,1
+967,1976,Youth Seg,North,46049,2013-07-21,11,Non Smartphone,351,145,515,16,7,5,9,2,0,0,1
+1990,1974,HV seg,West,63159,2012-11-05,74,Smartphone,999,761,1797,16,3,3,8,5,1,0,0
+8375,1968,HV seg,North,55954,2014-03-03,63,Smartphone,447,28,518,16,7,8,6,2,0,0,0
+5512,1977,Mass Mkt Seg,North,55842,2014-05-23,19,Smartphone,451,43,518,16,5,7,8,1,0,0,0
+2406,1949,Youth Seg,Lagos,54591,2013-08-05,63,Smartphone,380,115,519,16,5,6,8,2,0,0,0
+607,1955,Youth Seg,East,41769,2013-02-13,31,Smartphone,331,163,521,16,8,8,7,1,0,0,0
+4944,1959,Youth Seg,Lagos,71367,2013-08-23,24,Smartphone,250,452,777,16,2,4,7,5,0,0,0
+4607,1959,Youth Seg,Lagos,71367,2013-08-23,24,Smartphone,250,452,777,16,2,4,7,5,0,0,0
+10307,1956,Youth Seg,North,50387,2013-08-31,91,Smartphone,378,113,525,16,5,6,8,2,0,0,0
+9240,1971,HV seg,West,60504,2014-02-07,73,Smartphone,458,34,526,16,6,6,8,2,0,0,0
+232,1965,Youth Seg,West,61559,2013-07-17,8,Smartphone,362,134,530,16,3,4,10,2,0,0,0
+2525,1974,HV seg,North,38410,2012-09-14,65,Smartphone,217,303,534,16,6,5,9,2,0,0,1
+7300,1952,Youth Seg,East,69142,2014-06-29,50,Smartphone,452,44,535,16,5,8,7,1,1,0,0
+7431,1991,HV seg,West,68126,2012-11-10,40,Smartphone,1349,385,1820,16,9,7,5,4,1,0,1
+2877,1974,Mass Mkt Seg,Lagos,46014,2013-01-21,21,Non Smartphone,410,87,541,16,7,7,8,1,0,0,0
+7192,1955,Youth Seg,Lagos,65748,2013-04-15,58,Smartphone,245,266,545,16,1,2,10,4,0,1,0
+9215,1980,HV seg,North,43974,2012-12-12,19,Non Smartphone,378,101,551,16,7,6,6,4,0,0,0
+5332,1960,Youth Seg,North,82504,2013-07-27,2,Smartphone,412,600,1066,16,1,3,7,6,0,0,0
+2162,1976,Youth Seg,North,56939,2013-09-18,19,Smartphone,290,222,561,16,3,3,10,3,0,0,0
+5272,1965,Mass Mkt Seg,North,53843,2013-06-27,64,Smartphone,378,111,562,16,7,8,3,5,0,0,0
+8825,1962,Youth Seg,Lagos,51195,2013-04-01,46,Non Smartphone,244,262,564,16,8,9,5,2,0,0,0
+1619,1956,Youth Seg,North,90369,2014-04-28,2,Smartphone,343,1228,1588,16,1,4,6,6,0,0,1
+7462,1954,Youth Seg,West,22507,2012-11-24,67,Smartphone,68,434,570,16,9,10,4,2,0,0,0
+2995,1957,Mass Mkt Seg,Lagos,66636,2013-08-17,64,Smartphone,301,783,1084,16,1,3,9,4,0,0,0
+10870,1967,Youth Seg,North,61223,2013-06-13,46,Smartphone,752,342,1341,16,5,9,4,3,0,0,0
+10379,1962,Mass Mkt Seg,West,59247,2013-11-08,87,Smartphone,336,155,574,16,6,5,9,2,0,0,0
+1079,1971,HV seg,North,71969,2012-10-16,59,Smartphone,1000,76,1086,16,8,3,9,4,1,0,0
+5117,1963,Youth Seg,North,32632,2012-08-02,32,Smartphone,214,309,576,16,5,4,8,4,0,0,0
+9937,1979,Youth Seg,West,70337,2014-01-02,75,Smartphone,268,217,576,16,1,2,12,2,0,0,0
+9938,1954,Youth Seg,North,80067,2013-09-19,82,Smartphone,536,1013,1600,16,2,4,6,6,1,0,0
+521,1985,Youth Seg,Lagos,54006,2012-09-18,42,Non Smartphone,251,233,581,16,7,8,7,1,0,0,0
+1343,1968,Youth Seg,Lagos,58554,2012-09-26,55,Non Smartphone,392,106,586,16,7,8,6,2,0,0,0
+4749,1968,Youth Seg,Lagos,58554,2012-09-26,55,Non Smartphone,392,106,586,16,7,8,6,2,0,0,0
+3571,1961,HV seg,Lagos,63342,2012-10-16,48,Smartphone,939,141,1101,16,6,8,5,3,1,0,1
+309,1961,HV seg,Lagos,63342,2012-10-16,48,Smartphone,939,141,1101,16,6,8,5,3,1,0,0
+5331,1977,Youth Seg,North,74985,2012-09-11,8,Smartphone,638,1145,1869,16,2,3,7,6,0,0,0
+2002,1958,Youth Seg,East,71964,2013-05-20,81,Smartphone,638,1146,1870,16,3,5,5,6,0,0,0
+9952,1947,Mass Mkt Seg,Lagos,78093,2013-12-11,53,Smartphone,400,695,1105,16,1,4,5,7,0,0,0
+8091,1956,Youth Seg,North,63943,2012-09-02,50,Smartphone,607,478,1106,16,5,6,6,4,0,0,0
+773,1971,Mass Mkt Seg,East,42835,2013-06-30,64,Non Smartphone,383,114,595,16,6,6,4,6,0,0,0
+252,1963,HV seg,East,41003,2013-03-17,11,Smartphone,256,257,601,16,6,6,8,2,0,0,0
+9381,1978,Youth Seg,North,66373,2013-06-12,57,Non Smartphone,337,160,606,16,3,4,10,2,0,0,0
+9384,1978,Youth Seg,North,66373,2013-06-12,57,Non Smartphone,337,160,606,16,3,4,10,2,0,0,0
+3934,1966,Youth Seg,North,61286,2013-08-02,34,Smartphone,356,135,608,16,5,7,8,1,0,0,0
+2493,1966,Youth Seg,North,61286,2013-08-02,34,Smartphone,356,135,608,16,5,7,8,1,0,0,0
+1137,1964,Youth Seg,West,81246,2013-12-29,87,Smartphone,588,754,1379,16,1,4,7,5,2,0,0
+1544,1967,Mass Mkt Seg,East,81380,2012-12-22,51,Smartphone,809,981,1893,16,2,4,10,2,0,0,0
+4702,1964,Youth Seg,West,61839,2012-08-12,20,Smartphone,1155,620,1895,16,8,4,4,8,0,0,0
+6428,1950,HV seg,East,76842,2014-05-03,37,Smartphone,615,483,1130,16,0,1,7,8,0,0,0
+6652,1965,Youth Seg,North,77343,2014-06-09,28,Smartphone,378,725,1134,16,1,3,9,4,0,0,0
+10846,1978,Mass Mkt Seg,North,43783,2014-05-29,22,Non Smartphone,336,154,629,16,7,7,8,1,1,0,0
+6327,1967,Youth Seg,Lagos,65777,2013-12-19,87,Smartphone,597,495,1146,16,1,2,6,8,0,0,0
+1092,1980,Youth Seg,North,61014,2012-08-11,17,Smartphone,398,720,1147,16,7,9,4,3,0,0,0
+2631,1982,Youth Seg,Lagos,71853,2013-05-08,29,Smartphone,466,651,1149,16,1,2,6,8,0,0,0
+9495,1982,Youth Seg,Lagos,71853,2013-05-08,29,Smartphone,466,651,1149,16,1,2,6,8,0,0,0
+7972,1955,Youth Seg,West,72906,2013-09-17,79,Smartphone,432,665,1151,16,1,3,9,4,0,0,0
+3619,1960,Youth Seg,East,87305,2012-09-23,19,Smartphone,370,702,1152,16,2,5,8,3,1,0,1
+8370,1976,Youth Seg,Lagos,75484,2012-08-02,50,Smartphone,475,650,1159,16,4,7,6,3,0,0,0
+8584,1952,HV seg,Lagos,85431,2013-06-08,54,Smartphone,429,683,1165,16,0,2,7,7,0,0,0
+2004,1969,Youth Seg,West,72679,2013-09-18,65,Smartphone,673,441,1168,16,1,4,5,7,0,0,0
+9799,1968,HV seg,East,83664,2013-05-08,57,Non Smartphone,887,200,1173,16,5,2,12,2,0,0,0
+701,1971,Youth Seg,North,73691,2013-11-06,58,Smartphone,728,378,1179,16,2,6,8,2,1,0,0
+3762,1986,HV seg,West,69867,2013-04-02,30,Smartphone,196,675,925,16,1,3,8,5,1,0,1
+10176,1968,Youth Seg,West,57107,2012-08-24,44,Smartphone,159,120,416,16,8,4,8,4,2,0,1
+7348,1958,HV seg,West,71691,2014-03-17,0,Smartphone,466,683,1192,16,2,4,5,7,0,0,1
+11013,1987,Youth Seg,Lagos,67605,2013-03-31,84,Smartphone,364,520,938,16,1,2,6,8,0,0,0
+4324,1989,Youth Seg,North,42387,2012-10-29,42,Non Smartphone,235,258,684,16,8,8,7,1,0,0,0
+158,1945,HV seg,Lagos,71604,2013-11-17,3,Smartphone,398,701,1196,16,4,8,5,3,1,0,1
+0,1985,Youth Seg,North,70951,2013-05-04,66,Smartphone,249,895,1198,16,1,3,9,4,0,0,0
+10140,1983,HV seg,Lagos,70123,2013-09-28,27,Smartphone,1308,419,1727,16,3,5,4,7,2,0,0
+3717,1959,Youth Seg,North,61180,2014-04-23,70,Smartphone,427,59,704,16,3,5,6,5,1,0,0
+1628,1971,Youth Seg,Lagos,71796,2013-10-24,54,Smartphone,375,553,960,16,4,9,4,3,0,0,0
+7999,1955,HV seg,Lagos,75261,2013-04-23,17,Smartphone,1256,470,1743,16,2,5,5,6,2,0,1
+10446,1957,HV seg,North,82017,2012-11-07,58,Smartphone,207,499,729,16,2,5,7,4,3,0,1
+460,1972,HV seg,North,79930,2012-08-08,72,Smartphone,878,858,1753,16,2,3,8,5,0,0,0
+2345,1982,HV seg,Lagos,70038,2013-10-25,54,Smartphone,641,473,1244,16,2,4,8,4,0,0,0
+1232,1982,HV seg,Lagos,70038,2013-10-25,54,Smartphone,641,473,1244,16,2,4,8,4,0,0,0
+10486,1948,Youth Seg,North,77142,2013-05-29,54,Smartphone,551,342,990,16,2,4,8,4,0,0,0
+1513,1979,Youth Seg,Lagos,60839,2012-08-28,72,Non Smartphone,621,501,1250,16,8,2,12,2,0,0,0
+9973,1963,Youth Seg,North,50437,2012-10-17,28,Smartphone,379,107,490,16,7,7,8,1,0,0,0
+5080,1993,Youth Seg,West,70515,2013-10-21,12,Smartphone,420,698,1258,16,2,6,4,6,0,0,1
+4769,1977,Mass Mkt Seg,Lagos,57954,2014-06-18,52,Non Smartphone,460,24,493,16,7,8,6,2,1,0,0
+7230,1960,HV seg,East,50611,2012-10-04,98,Smartphone,459,30,493,16,6,4,7,5,1,0,1
+5675,1960,HV seg,East,50611,2012-10-04,98,Smartphone,459,30,493,16,6,4,7,5,1,0,0
+11176,1970,HV seg,Lagos,65968,2014-05-12,12,Smartphone,385,106,495,16,3,5,7,4,0,0,0
+339,1972,HV seg,North,57091,2012-11-23,82,Smartphone,462,30,496,16,7,9,5,2,1,0,1
+6218,1965,Youth Seg,North,59594,2012-10-20,74,Smartphone,461,29,499,16,7,8,7,1,1,0,0
+3979,1983,HV seg,East,90687,2013-05-22,98,Smartphone,999,729,1779,16,2,6,8,2,1,0,1
+6422,1954,Youth Seg,North,86718,2013-01-17,20,Smartphone,533,565,1270,16,2,5,5,6,0,0,0
+359,1950,Youth Seg,Lagos,48070,2013-01-13,33,Smartphone,387,98,504,16,7,8,6,2,0,1,0
+10766,1964,HV seg,North,65526,2014-04-11,22,Smartphone,416,81,506,16,2,4,8,4,0,0,0
+9971,1964,HV seg,North,65526,2014-04-11,22,Smartphone,416,81,506,16,2,4,8,4,0,0,0
+6245,1950,HV seg,Lagos,59292,2013-06-13,71,Smartphone,392,101,507,16,3,3,8,5,0,0,0
+6257,1976,Mass Mkt Seg,West,60482,2013-01-23,81,Smartphone,298,185,507,16,7,7,7,2,0,0,0
+8780,1950,HV seg,Lagos,59292,2013-06-13,71,Smartphone,392,101,507,16,3,3,8,5,0,0,0
+8614,1957,Youth Seg,East,65486,2014-05-12,29,Smartphone,264,229,507,16,2,4,10,2,0,0,0
+8545,1954,Youth Seg,East,85683,2014-03-21,6,Smartphone,1313,425,1789,16,1,2,10,4,4,0,1
+6906,1953,Mass Mkt Seg,East,84953,2013-06-03,73,Smartphone,215,737,1024,17,2,3,4,10,3,0,1
+7214,1957,Youth Seg,North,62187,2013-07-05,49,Smartphone,792,365,1283,17,3,4,5,8,0,0,0
+9298,1947,HV seg,Lagos,81574,2014-04-28,89,Smartphone,1252,546,1798,17,1,4,8,5,2,0,0
+10424,1968,Youth Seg,West,75922,2013-12-09,60,Smartphone,403,800,1295,17,1,4,9,4,0,0,0
+9493,1980,HV seg,West,76412,2013-05-05,15,Smartphone,893,898,1808,17,3,5,8,4,2,0,1
+11088,1971,HV seg,Lagos,78642,2013-04-21,83,Smartphone,1396,403,1816,17,6,4,4,9,0,0,0
+9697,1951,Youth Seg,North,53790,2014-03-06,86,Smartphone,377,160,542,17,6,7,8,2,0,0,0
+8858,1972,HV seg,North,44325,2013-03-07,69,Smartphone,516,21,542,17,8,8,7,2,1,0,0
+3321,1967,HV seg,Lagos,56575,2013-05-05,42,Smartphone,426,106,542,17,5,7,7,3,0,0,0
+6292,1986,HV seg,North,82333,2013-03-30,60,Smartphone,1311,494,1822,17,2,4,10,3,1,0,1
+4047,1954,HV seg,North,65324,2014-01-11,0,Smartphone,384,155,544,17,4,6,9,2,0,0,0
+9477,1954,HV seg,North,65324,2014-01-11,0,Smartphone,384,155,544,17,4,6,9,2,0,0,0
+4440,1964,Mass Mkt Seg,North,64100,2013-09-10,93,Smartphone,509,27,546,17,7,8,6,3,1,0,0
+3074,1984,HV seg,North,70643,2012-10-15,66,Smartphone,1325,470,1828,17,6,5,4,8,0,0,1
+8204,1971,Youth Seg,North,78041,2012-12-16,93,Smartphone,517,785,1319,17,2,4,9,4,0,0,0
+8233,1950,Mass Mkt Seg,East,64866,2014-01-26,9,Smartphone,513,33,556,17,5,7,7,3,1,0,0
+3523,1962,Youth Seg,Lagos,75072,2013-01-23,83,Smartphone,617,331,1073,17,3,5,8,4,0,0,0
+4741,1974,Youth Seg,North,65463,2014-01-30,17,Non Smartphone,423,123,562,17,5,6,9,2,1,0,0
+2499,1958,Youth Seg,West,75342,2013-05-06,38,Smartphone,301,236,563,17,4,5,10,2,0,0,0
+7500,1967,Youth Seg,West,79146,2014-04-24,33,Non Smartphone,261,287,564,17,6,8,8,1,0,0,0
+6887,1967,Youth Seg,West,79146,2014-04-24,33,Non Smartphone,261,287,564,17,6,8,8,1,0,0,0
+4070,1969,HV seg,North,94871,2012-09-01,99,Smartphone,193,741,1078,17,7,8,4,5,2,0,1
+7072,1973,Youth Seg,North,67432,2013-03-29,69,Smartphone,511,654,1335,17,4,8,4,5,0,0,0
+9362,1965,Youth Seg,West,69263,2014-03-05,14,Smartphone,497,50,568,17,6,9,7,1,1,0,0
+10177,1954,Youth Seg,East,72071,2013-02-14,4,Smartphone,600,588,1338,17,2,5,8,4,0,0,0
+2429,1954,Youth Seg,East,72071,2013-02-14,4,Smartphone,600,588,1338,17,2,5,8,4,0,0,0
+310,1970,Mass Mkt Seg,North,61872,2013-12-13,81,Smartphone,335,222,573,17,4,4,9,4,0,0,0
+7378,1981,Mass Mkt Seg,Lagos,42021,2012-08-31,34,Non Smartphone,398,148,573,17,9,10,6,1,1,0,0
+1,1961,Youth Seg,West,57091,2014-06-15,0,Smartphone,469,71,577,17,5,7,7,3,1,0,1
+10343,1991,Youth Seg,West,61618,2012-09-29,27,Smartphone,696,444,1345,17,3,3,8,6,0,0,0
+3635,1962,HV seg,West,52597,2014-05-07,69,Smartphone,492,44,578,17,5,6,8,3,0,0,0
+1964,1951,Youth Seg,Lagos,86610,2013-09-05,66,Smartphone,553,997,1603,17,2,5,6,6,0,0,0
+5538,1975,Youth Seg,East,83829,2013-10-08,78,Smartphone,1058,777,1862,17,1,4,6,7,3,0,1
+3910,1975,Youth Seg,East,83829,2013-10-08,78,Smartphone,1058,777,1862,17,1,4,6,7,3,0,1
+4690,1953,Youth Seg,North,50725,2013-02-13,45,Smartphone,453,85,586,17,8,8,8,1,0,0,0
+965,1971,Youth Seg,East,55635,2012-11-13,34,Smartphone,300,263,590,17,6,7,7,3,0,0,0
+895,1948,HV seg,North,61467,2012-12-09,69,Smartphone,426,119,594,17,5,5,10,2,0,0,0
+1044,1953,Youth Seg,Lagos,58398,2013-05-14,44,Smartphone,304,243,596,17,4,5,8,4,0,0,0
+10469,1981,Youth Seg,Lagos,88325,2014-02-05,42,Smartphone,590,980,1623,17,2,6,9,2,0,0,0
+10281,1970,Youth Seg,East,64713,2014-02-07,11,Non Smartphone,240,308,602,17,4,5,7,5,0,0,1
+8996,1957,HV seg,North,,2012-11-19,4,Non Smartphone,272,278,603,17,9,7,8,2,0,0,0
+7247,1960,Youth Seg,East,47916,2012-11-22,72,Smartphone,505,26,606,17,6,7,6,4,1,0,0
+3267,1963,Mass Mkt Seg,Lagos,57288,2014-06-25,27,Smartphone,527,21,608,17,6,8,8,1,1,0,0
+635,1966,Mass Mkt Seg,North,57183,2013-03-19,51,Non Smartphone,469,71,610,17,8,9,7,1,0,0,0
+6575,1981,Youth Seg,Lagos,56386,2012-10-27,51,Non Smartphone,278,259,612,17,9,9,7,1,0,0,0
+9729,1955,Youth Seg,East,58275,2013-06-02,48,Non Smartphone,199,352,615,17,7,8,7,2,0,0,0
+2118,1964,Youth Seg,North,62905,2013-09-10,68,Smartphone,241,322,622,17,4,7,8,2,0,0,0
+5209,1954,Youth Seg,East,50002,2013-06-17,21,Smartphone,448,108,638,17,7,8,7,2,0,0,0
+810,1975,Youth Seg,North,74190,2014-05-12,49,Smartphone,232,345,641,17,2,4,11,2,0,0,0
+851,1972,Mass Mkt Seg,North,57136,2013-07-09,48,Non Smartphone,311,239,642,17,6,5,10,2,0,0,0
+6963,1947,Youth Seg,West,77457,2014-03-05,85,Smartphone,686,460,1157,17,1,2,10,5,1,0,0
+4964,1958,HV seg,Lagos,74250,2014-01-26,90,Smartphone,691,467,1158,17,1,2,4,11,0,0,0
+10675,1956,HV seg,North,66334,2013-04-03,82,Smartphone,920,218,1161,17,5,9,5,3,0,0,1
+6606,1969,Mass Mkt Seg,North,70091,2013-03-31,11,Non Smartphone,998,152,1161,17,8,5,10,2,1,0,0
+4477,1958,Youth Seg,Lagos,69096,2013-09-27,4,Smartphone,296,248,653,17,4,5,10,2,0,0,0
+4789,1953,Youth Seg,Lagos,80812,2013-09-17,95,Smartphone,791,853,1677,17,2,4,5,8,3,0,0
+8897,1965,Youth Seg,West,42720,2013-04-24,9,Non Smartphone,397,145,654,17,8,7,7,3,0,0,1
+5863,1953,Youth Seg,North,47703,2013-05-29,95,Smartphone,359,173,655,17,5,6,8,3,0,0,0
+11074,1977,Youth Seg,West,85072,2014-04-09,94,Smartphone,586,596,1423,17,0,3,10,4,0,0,0
+7861,1952,Mass Mkt Seg,North,77027,2014-02-05,23,Smartphone,877,287,1175,17,4,8,6,3,0,0,0
+4491,1949,Mass Mkt Seg,North,62845,2012-10-01,3,Non Smartphone,1099,45,1178,17,8,3,10,4,1,0,0
+873,1949,Mass Mkt Seg,North,62845,2012-10-01,3,Non Smartphone,1099,45,1178,17,8,3,10,4,1,0,1
+9707,1969,HV seg,North,55212,2012-11-23,65,Smartphone,1103,45,1182,17,8,4,11,2,2,0,0
+10872,1969,HV seg,North,55212,2012-11-23,65,Smartphone,1103,45,1182,17,8,4,11,2,2,0,0
+8624,1958,Youth Seg,North,81320,2013-02-06,61,Smartphone,216,655,928,17,2,4,10,3,0,0,0
+11056,1974,Youth Seg,North,72099,2012-10-27,18,Smartphone,637,529,1188,17,1,3,10,4,0,0,0
+8746,1989,Youth Seg,North,75433,2014-04-05,28,Non Smartphone,800,331,1188,17,6,2,10,5,2,0,0
+10573,1953,Youth Seg,East,62551,2013-11-18,27,Smartphone,141,253,421,17,3,6,4,7,1,0,0
+8560,1992,Youth Seg,West,48789,2012-09-10,94,Smartphone,367,168,680,17,6,6,7,4,0,0,0
+988,1965,Youth Seg,North,81168,2014-05-07,84,Smartphone,410,761,1193,17,3,6,7,4,1,0,0
+1328,1982,Youth Seg,North,57937,2014-02-16,56,Smartphone,303,247,683,17,3,4,9,4,0,0,0
+8755,1946,Mass Mkt Seg,North,68657,2013-02-20,4,Smartphone,516,658,1196,17,7,3,9,5,0,0,0
+10981,1988,Youth Seg,North,84219,2014-02-02,27,Smartphone,571,582,1198,17,1,3,10,4,0,0,0
+486,1988,Youth Seg,North,84219,2014-02-02,27,Smartphone,571,582,1198,17,1,3,10,4,0,0,0
+5631,1991,Youth Seg,West,49767,2013-05-02,92,Smartphone,249,294,692,17,4,5,8,4,0,0,0
+10704,1969,Youth Seg,West,54803,2012-08-21,65,Smartphone,404,147,693,17,4,6,9,2,0,0,0
+1378,1972,Youth Seg,Lagos,50334,2013-07-24,24,Smartphone,300,260,694,17,6,7,6,4,0,0,0
+2802,1992,Youth Seg,North,87000,2012-12-15,61,Smartphone,221,691,961,17,2,4,7,6,0,0,0
+10619,1994,Youth Seg,West,95529,2012-12-03,29,Smartphone,799,1167,1990,17,3,7,7,3,1,0,1
+10394,1984,Youth Seg,North,90000,2013-12-23,91,Smartphone,819,419,1479,17,1,4,5,8,3,0,0
+2730,1955,Youth Seg,West,80317,2013-08-20,64,Smartphone,547,627,1231,17,1,3,10,4,0,0,0
+9589,1948,HV seg,East,82032,2014-04-05,54,Smartphone,526,651,1234,17,1,4,7,6,0,0,0
+202,1948,HV seg,East,82032,2014-04-05,54,Smartphone,526,651,1234,17,1,4,7,6,0,0,0
+9984,1981,Youth Seg,North,56337,2013-03-27,25,Non Smartphone,365,177,724,17,8,8,4,5,2,0,1
+5350,1991,Mass Mkt Seg,West,90638,2014-02-13,29,Smartphone,1276,1153,2525,17,1,3,10,4,1,0,1
+5735,1991,Mass Mkt Seg,West,90638,2014-02-13,29,Smartphone,1276,1153,2525,17,1,3,10,4,1,0,0
+9977,1973,Youth Seg,East,78901,2013-09-17,99,Smartphone,332,368,734,17,4,9,5,3,0,0,0
+340,1970,Youth Seg,East,72967,2012-12-15,1,Smartphone,193,179,497,17,5,7,8,2,1,0,1
+10868,1951,Youth Seg,East,70792,2013-02-06,82,Smartphone,389,769,1272,17,3,3,10,4,0,0,0
+2930,1978,Mass Mkt Seg,West,68092,2013-12-16,7,Smartphone,912,321,1281,18,5,2,10,6,0,0,0
+3139,1982,Youth Seg,West,74116,2013-12-30,53,Smartphone,982,904,2052,18,2,4,10,4,1,0,0
+1103,1976,Mass Mkt Seg,North,81929,2012-09-29,60,Non Smartphone,1541,327,2053,18,6,4,10,4,2,0,1
+10319,1971,Youth Seg,North,66303,2013-02-26,56,Smartphone,1102,124,1286,18,8,3,11,4,1,0,0
+5120,1982,Youth Seg,Lagos,66664,2012-09-25,78,Smartphone,494,763,1289,18,3,5,6,7,0,0,0
+10648,1982,Youth Seg,Lagos,66664,2012-09-25,78,Smartphone,494,763,1289,18,3,5,6,7,0,0,0
+6055,1979,Youth Seg,North,71626,2012-11-01,94,Smartphone,618,615,1305,18,3,5,8,5,1,0,0
+10524,1963,Mass Mkt Seg,East,49476,2013-06-20,29,Smartphone,409,190,795,18,2,2,5,11,0,0,0
+9750,1961,HV seg,East,64325,2013-02-07,41,Smartphone,791,443,1307,18,7,10,5,3,0,0,0
+6059,1953,HV seg,Lagos,64504,2013-03-04,81,Non Smartphone,1022,184,1314,18,7,11,4,3,0,0,1
+6349,1987,Mass Mkt Seg,East,61787,2013-07-06,71,Smartphone,694,540,1319,18,5,8,6,4,0,0,0
+6299,1968,HV seg,East,42564,2013-01-02,28,Smartphone,372,243,813,18,7,6,4,8,1,0,1
+9790,1957,Youth Seg,West,78499,2013-11-23,12,Smartphone,984,253,1334,18,4,11,4,3,1,0,1
+1867,1957,Youth Seg,West,64849,2012-11-13,42,Smartphone,700,528,1336,18,5,9,6,3,0,0,1
+3434,1951,Youth Seg,West,80872,2014-05-12,60,Smartphone,555,673,1336,18,1,4,10,4,0,0,0
+5564,1969,Youth Seg,Lagos,62882,2012-08-09,26,Smartphone,642,599,1338,18,4,7,6,5,0,0,0
+4508,1952,Youth Seg,West,75127,2014-05-22,92,Smartphone,238,368,833,18,1,2,5,11,0,0,0
+4843,1952,Youth Seg,West,75127,2014-05-22,92,Smartphone,238,368,833,18,1,2,5,11,0,0,0
+3766,1959,Mass Mkt Seg,East,33051,2012-08-16,15,Smartphone,171,445,835,18,9,9,8,1,0,0,1
+3698,1983,Youth Seg,Lagos,78687,2012-08-09,13,Smartphone,1002,887,2130,18,2,4,8,6,1,0,1
+55,1963,Youth Seg,Lagos,56253,2012-12-07,83,Smartphone,509,83,597,18,6,7,9,2,0,0,0
+8504,1973,Youth Seg,North,79593,2014-05-12,70,Smartphone,410,811,1366,18,2,5,7,6,1,0,0
+1020,1973,Youth Seg,North,79593,2014-05-12,70,Smartphone,410,811,1366,18,2,5,7,6,1,0,0
+7428,1975,Youth Seg,Lagos,80144,2013-09-30,47,Smartphone,372,887,1367,18,1,3,8,7,0,0,0
+9449,1958,HV seg,West,79761,2013-10-04,32,Smartphone,420,174,605,18,3,5,11,2,0,0,0
+3598,1972,Youth Seg,North,62710,2013-05-23,53,Smartphone,476,119,606,18,4,4,12,2,0,0,0
+6518,1951,HV seg,East,67680,2013-06-11,8,Smartphone,546,54,606,18,5,7,8,3,0,0,0
+1729,1961,HV seg,Lagos,66426,2013-10-02,14,Smartphone,1067,153,1377,18,6,3,10,5,0,0,0
+1859,1972,Mass Mkt Seg,North,75251,2012-08-27,34,Smartphone,832,1040,1890,18,5,7,5,6,0,0,1
+5057,1961,Mass Mkt Seg,North,61794,2013-09-14,74,Smartphone,311,289,611,18,2,4,10,4,0,0,0
+7250,1978,Youth Seg,Lagos,57867,2013-10-01,48,Non Smartphone,379,216,612,18,6,7,9,2,0,0,0
+3076,1975,Youth Seg,Lagos,66653,2012-09-07,18,Non Smartphone,470,136,612,18,3,4,12,2,0,0,0
+10196,1978,Youth Seg,North,71427,2014-03-12,26,Non Smartphone,335,256,614,18,4,8,8,2,0,0,0
+9400,1958,Youth Seg,West,85485,2014-06-21,73,Smartphone,656,673,1383,18,2,6,6,6,0,0,0
+8164,1978,HV seg,North,82170,2013-11-25,13,Smartphone,1116,755,1908,18,2,5,7,6,0,0,0
+2607,1953,Youth Seg,West,40464,2013-01-11,78,Smartphone,441,148,630,18,8,8,8,2,0,0,0
+2611,1959,Mass Mkt Seg,Lagos,82576,2012-08-01,66,Smartphone,1261,631,1910,18,1,2,12,4,1,0,0
+433,1958,Mass Mkt Seg,East,61331,2013-03-10,42,Non Smartphone,539,52,632,18,8,11,6,1,0,0,0
+1945,1962,Youth Seg,North,71434,2013-09-18,4,Smartphone,747,485,1400,18,4,7,7,4,2,0,0
+10478,1950,HV seg,North,55517,2012-09-27,53,Non Smartphone,483,114,633,18,9,11,6,1,0,0,1
+7712,1946,HV seg,West,62159,2014-04-28,68,Smartphone,199,406,634,18,4,6,10,2,0,0,0
+2320,1978,Youth Seg,North,47025,2013-09-12,98,Smartphone,519,87,635,18,9,11,6,1,0,0,0
+10888,1961,Youth Seg,West,45938,2013-11-03,46,Smartphone,284,323,636,18,6,8,6,4,0,0,0
+9336,1969,HV seg,East,62187,2014-03-22,38,Smartphone,512,83,636,18,4,6,10,2,0,0,0
+9483,1959,Youth Seg,Lagos,57957,2013-08-19,24,Smartphone,349,259,637,18,3,4,8,6,0,1,0
+6991,1951,Youth Seg,East,43185,2013-04-10,88,Smartphone,543,64,637,18,8,9,6,3,0,0,0
+2008,1978,Youth Seg,North,77583,2014-02-10,93,Smartphone,395,646,1149,18,2,4,9,5,1,0,0
+1065,1963,Youth Seg,West,80695,2013-12-29,85,Smartphone,686,1214,1918,18,2,5,5,8,0,0,0
+5872,1951,Youth Seg,West,60689,2013-06-01,23,Smartphone,330,285,639,18,3,4,10,4,0,0,0
+4543,1980,Youth Seg,North,82497,2012-10-31,32,Smartphone,906,810,1919,18,4,2,9,7,1,0,0
+4278,1983,HV seg,West,87188,2013-06-03,73,Smartphone,1021,847,1923,18,3,10,6,2,0,0,1
+6036,1959,Mass Mkt Seg,Lagos,89120,2014-03-17,78,Smartphone,1260,609,1924,18,1,5,7,6,1,0,0
+10643,1987,HV seg,West,42000,2013-01-10,23,Smartphone,207,411,653,18,5,5,11,2,0,0,1
+4478,1979,Youth Seg,North,63777,2013-03-24,87,Non Smartphone,462,138,653,18,8,11,6,1,0,0,0
+1162,1987,HV seg,West,42000,2013-01-10,23,Smartphone,207,411,653,18,5,5,11,2,0,0,1
+3678,1973,Youth Seg,East,60208,2012-10-07,13,Non Smartphone,511,86,656,18,7,8,7,3,1,0,1
+9805,1953,Mass Mkt Seg,Lagos,56129,2013-06-20,65,Smartphone,368,244,660,18,4,6,10,2,0,0,0
+849,1953,Mass Mkt Seg,Lagos,56129,2013-06-20,65,Smartphone,368,244,660,18,4,6,10,2,0,0,0
+10676,1982,Youth Seg,North,63211,2012-11-02,3,Smartphone,338,690,1173,18,2,3,7,8,0,0,1
+3933,1980,Youth Seg,Lagos,44010,2012-10-13,46,Non Smartphone,222,392,662,18,9,10,6,2,0,0,0
+7822,1976,Youth Seg,Lagos,54058,2013-06-04,56,Smartphone,216,392,662,18,3,4,8,6,0,0,0
+5883,1972,Youth Seg,North,77981,2013-05-26,78,Non Smartphone,258,346,664,18,5,7,7,4,0,0,0
+3661,1995,Youth Seg,West,80617,2012-10-12,42,Smartphone,645,758,1435,18,2,4,8,6,0,0,0
+3197,1980,Youth Seg,North,77353,2013-12-16,38,Smartphone,334,277,670,18,4,6,8,4,0,0,0
+591,1957,Youth Seg,East,66033,2013-01-20,76,Smartphone,328,284,677,18,7,8,7,3,0,0,0
+10949,1963,HV seg,East,72968,2013-12-16,8,Smartphone,1129,774,1958,18,3,5,8,5,1,0,1
+1802,1971,Youth Seg,North,64795,2013-01-17,23,Smartphone,417,186,680,18,2,3,12,3,0,0,0
+10150,1961,Youth Seg,West,86429,2013-11-21,10,Smartphone,492,920,1449,18,2,7,7,4,1,0,1
+6384,1978,Youth Seg,East,71022,2014-02-11,30,Smartphone,921,290,1453,18,8,5,11,2,1,0,0
+7397,1951,Youth Seg,West,49090,2013-07-19,45,Smartphone,499,89,688,18,7,7,9,2,0,0,0
+10142,1976,HV seg,East,66476,2013-03-07,99,Smartphone,390,221,689,18,4,5,11,2,0,0,0
+2134,1952,Youth Seg,West,53700,2012-08-17,94,Smartphone,268,343,694,18,5,5,8,5,0,0,0
+9242,1990,Youth Seg,West,64509,2013-08-17,19,Smartphone,1021,624,1722,18,4,6,9,3,1,0,1
+8911,1967,HV seg,North,56320,2013-04-08,11,Smartphone,254,365,702,18,4,5,9,4,0,0,0
+257,1959,HV seg,North,75032,2013-04-28,74,Smartphone,964,239,1215,18,3,5,9,4,0,0,0
+569,1991,Youth Seg,West,90273,2013-12-14,32,Smartphone,833,1047,1991,18,2,5,7,6,3,0,1
+4012,1972,HV seg,Lagos,62220,2012-08-11,55,Smartphone,811,403,1226,18,6,7,5,6,0,0,1
+4483,1993,Youth Seg,West,72354,2013-04-17,67,Smartphone,341,705,1228,18,1,2,6,10,0,0,0
+2681,1984,Youth Seg,North,65370,2013-08-01,1,Smartphone,93,339,461,18,1,2,13,3,0,0,0
+2574,1977,HV seg,North,61996,2013-01-31,27,Smartphone,1062,144,1230,18,5,6,8,4,3,0,1
+3194,1974,HV seg,West,71466,2014-04-05,86,Smartphone,424,806,1230,18,1,4,10,4,0,0,0
+1829,1961,HV seg,East,54959,2013-01-19,55,Smartphone,1148,60,1232,18,7,9,4,5,1,0,1
+7187,1969,Mass Mkt Seg,Lagos,,2013-05-18,52,Non Smartphone,417,208,721,18,3,4,4,10,0,0,0
+9597,1969,Youth Seg,North,73448,2014-02-10,10,Smartphone,342,253,725,18,4,7,9,2,0,0,0
+4128,1962,HV seg,Lagos,56067,2013-07-20,51,Smartphone,529,76,725,18,5,7,7,4,0,0,0
+1295,1963,Youth Seg,North,,2013-08-11,96,Smartphone,296,305,725,18,4,6,7,5,0,0,0
+7059,1963,Youth Seg,North,80124,2014-06-26,47,Smartphone,567,687,1495,18,1,3,8,7,1,0,0
+1225,1963,Youth Seg,North,80124,2014-06-26,47,Smartphone,567,687,1495,18,1,3,8,7,1,0,0
+7801,1959,Youth Seg,Lagos,54753,2013-09-12,87,Smartphone,304,293,728,18,4,5,11,2,0,0,0
+7270,1981,Youth Seg,East,56981,2014-01-25,91,Smartphone,956,261,1241,18,6,2,13,3,1,0,0
+4673,1963,HV seg,North,81300,2012-10-30,17,Smartphone,1016,189,1241,18,5,10,5,3,1,0,1
+5848,1970,Youth Seg,Lagos,81205,2014-01-13,43,Smartphone,798,1081,2009,18,2,5,7,6,3,0,1
+7106,1943,HV seg,North,75865,2014-03-31,73,Smartphone,483,747,1242,18,1,3,10,5,0,0,0
+3202,1987,HV seg,North,51563,2012-10-01,60,Smartphone,1166,48,1250,18,8,4,10,4,2,0,0
+4597,1970,HV seg,Lagos,82072,2013-07-02,67,Smartphone,944,945,2018,18,1,3,13,2,0,0,0
+1402,1954,Mass Mkt Seg,North,66991,2012-09-11,1,Smartphone,532,709,1253,18,3,4,6,8,0,0,0
+4654,1992,Youth Seg,Lagos,75114,2013-11-07,40,Smartphone,583,646,1253,18,2,3,5,10,0,0,0
+9286,1960,Mass Mkt Seg,Lagos,83151,2012-10-10,93,Smartphone,435,294,747,18,3,5,4,9,0,0,0
+8314,1982,Youth Seg,North,79908,2013-04-05,30,Smartphone,686,975,1772,18,2,5,7,6,1,0,0
+2909,1974,HV seg,North,78128,2014-02-19,89,Smartphone,958,270,1264,18,3,8,6,4,2,0,0
+5121,1977,Youth Seg,West,56628,2014-03-21,30,Smartphone,484,106,761,18,5,7,5,6,1,0,0
+1772,1975,HV seg,North,79174,2013-01-11,2,Smartphone,1111,803,2043,18,2,5,7,6,2,0,1
+5386,1953,Youth Seg,Lagos,94384,2013-03-04,62,Smartphone,1135,995,2302,18,2,5,5,8,3,0,1
+6024,1953,Youth Seg,Lagos,94384,2013-03-04,62,Smartphone,1135,995,2302,18,2,5,5,8,3,0,1
+1631,1965,HV seg,Lagos,65220,2012-09-03,3,Smartphone,953,317,1282,19,6,8,7,4,0,0,1
+2416,1969,HV seg,West,66582,2014-03-03,83,Smartphone,814,474,1288,19,1,2,9,8,0,0,0
+4322,1958,HV seg,Lagos,77863,2013-11-27,20,Smartphone,919,360,1291,19,2,4,10,5,0,0,0
+10095,1975,HV seg,East,74165,2013-05-01,9,Smartphone,1013,268,1293,19,2,5,10,4,0,0,0
+10473,1956,HV seg,East,78028,2012-09-10,38,Smartphone,177,313,528,19,7,6,9,4,2,0,1
+9064,1982,Youth Seg,North,69109,2012-11-09,10,Smartphone,848,612,1555,19,4,6,7,6,1,0,1
+2407,1982,Youth Seg,North,69109,2012-11-09,10,Smartphone,848,612,1555,19,4,6,7,6,1,0,1
+3010,1989,Mass Mkt Seg,Lagos,88420,2014-05-02,87,Smartphone,1110,806,2069,19,1,4,8,7,3,0,0
+5207,1963,HV seg,North,53378,2012-09-24,41,Non Smartphone,495,166,793,19,8,9,6,4,0,0,1
+378,1971,Youth Seg,North,52531,2012-12-30,68,Smartphone,395,274,794,19,6,7,10,2,0,0,0
+448,1978,HV seg,West,54880,2013-03-01,57,Non Smartphone,393,284,795,19,5,6,11,2,0,0,0
+2131,1959,HV seg,East,62859,2012-12-30,37,Smartphone,1152,130,1307,19,6,9,6,4,0,0,0
+5519,1956,Youth Seg,Lagos,64090,2013-08-07,8,Smartphone,374,288,797,19,5,6,4,9,0,0,1
+1745,1962,HV seg,East,85696,2013-05-03,88,Smartphone,790,511,1313,19,1,4,9,6,0,0,1
+8015,1962,HV seg,East,85696,2013-05-03,88,Smartphone,790,511,1313,19,1,4,9,6,0,0,1
+3179,1980,Youth Seg,West,81741,2013-06-16,75,Smartphone,402,1132,1572,19,2,6,7,6,0,0,0
+7521,1952,Youth Seg,Lagos,83844,2013-05-12,57,Smartphone,932,451,1574,19,1,4,11,4,1,0,0
+241,1952,Youth Seg,Lagos,83844,2013-05-12,57,Smartphone,932,451,1574,19,1,4,11,4,1,0,0
+3560,1952,Youth Seg,Lagos,83844,2013-05-12,57,Smartphone,932,451,1574,19,1,4,11,4,1,0,0
+6566,1954,HV seg,North,72550,2012-11-08,39,Non Smartphone,876,405,1319,19,8,5,12,2,0,0,0
+6072,1970,Mass Mkt Seg,West,75345,2013-02-02,16,Smartphone,975,979,2087,19,3,5,6,8,1,0,1
+10163,1984,HV seg,West,82733,2013-09-10,28,Smartphone,762,523,1323,19,4,8,7,4,0,0,1
+3403,1958,HV seg,Lagos,78952,2012-09-24,11,Smartphone,1189,769,2092,19,6,2,12,5,0,0,0
+2565,1955,Mass Mkt Seg,East,70638,2013-06-01,69,Smartphone,1028,243,1334,19,3,4,10,5,1,0,0
+8908,1959,Youth Seg,North,87195,2014-05-08,35,Smartphone,293,766,1097,19,1,3,5,11,0,0,1
+2535,1978,Mass Mkt Seg,North,88097,2012-08-18,24,Non Smartphone,163,606,844,19,9,6,8,5,3,0,1
+6521,1954,Youth Seg,Lagos,77972,2014-03-18,18,Smartphone,635,454,1101,19,1,4,9,6,0,0,0
+2747,1988,HV seg,North,67546,2012-08-31,90,Smartphone,998,956,2126,19,3,4,5,10,0,0,0
+8867,1988,HV seg,North,67546,2012-08-31,90,Smartphone,998,956,2126,19,3,4,5,10,0,0,0
+7010,1965,Youth Seg,North,70924,2014-04-07,41,Smartphone,749,538,1363,19,3,6,7,6,1,0,0
+4767,1965,Youth Seg,North,70924,2014-04-07,41,Smartphone,749,538,1363,19,3,6,7,6,1,0,0
+5303,1974,HV seg,Lagos,79632,2014-04-08,42,Smartphone,471,630,1113,19,2,6,9,4,0,0,0
+25,1958,Youth Seg,North,65148,2012-11-16,9,Smartphone,495,467,1115,19,4,6,7,6,0,0,0
+2561,1966,Youth Seg,West,63810,2012-11-11,45,Smartphone,989,281,1371,19,8,4,12,3,1,0,0
+1245,1966,Youth Seg,West,63810,2012-11-11,45,Smartphone,989,281,1371,19,8,4,12,3,1,0,0
+528,1978,Youth Seg,North,65819,2012-11-29,99,Smartphone,305,1015,1383,19,3,5,10,4,0,0,0
+9265,1953,Youth Seg,North,75027,2013-01-09,74,Smartphone,989,324,1390,19,5,9,6,4,0,0,0
+3711,1944,Mass Mkt Seg,North,80184,2014-03-01,19,Smartphone,1169,733,1902,19,3,6,10,3,2,0,0
+4974,1970,Youth Seg,West,83273,2012-09-25,98,Non Smartphone,522,768,1392,19,7,4,9,6,0,0,0
+8601,1980,Youth Seg,North,80011,2013-04-29,3,Smartphone,497,796,1395,19,4,8,5,6,0,0,0
+8362,1982,HV seg,North,84169,2013-08-07,9,Smartphone,1497,422,1919,19,3,7,6,6,2,0,1
+5547,1982,HV seg,North,84169,2013-08-07,9,Smartphone,1497,422,1919,19,3,7,6,6,2,0,1
+3919,1976,Mass Mkt Seg,West,72309,2013-03-11,64,Smartphone,960,971,1931,19,3,5,8,6,1,0,1
+4603,1960,HV seg,North,65695,2014-01-31,50,Smartphone,403,247,656,19,4,5,10,4,0,0,0
+1958,1973,HV seg,Lagos,55012,2014-03-21,85,Smartphone,582,65,660,19,5,8,9,2,0,0,0
+8132,1975,HV seg,North,60631,2013-04-05,88,Non Smartphone,571,71,661,19,7,9,8,2,1,0,0
+11051,1956,HV seg,Lagos,77376,2014-05-10,72,Non Smartphone,511,138,661,19,4,6,10,3,0,0,0
+3136,1962,Mass Mkt Seg,East,59432,2013-04-13,88,Smartphone,342,309,663,19,5,5,11,3,0,0,0
+9596,1980,HV seg,West,65295,2013-12-23,19,Smartphone,397,261,664,19,2,3,13,3,0,0,0
+6409,1967,Youth Seg,East,57136,2013-05-18,18,Smartphone,407,645,1179,19,6,7,7,5,0,0,1
+5140,1985,HV seg,North,64355,2012-08-24,66,Non Smartphone,1047,245,1445,19,8,4,12,3,0,0,0
+5536,1959,Youth Seg,Lagos,87771,2013-05-22,61,Smartphone,1530,394,1957,19,6,5,4,10,4,0,1
+3174,1959,Youth Seg,Lagos,87771,2013-05-22,61,Smartphone,1530,394,1957,19,6,5,4,10,4,0,1
+1127,1973,HV seg,North,85844,2014-05-29,62,Smartphone,957,963,1958,19,2,6,7,6,1,0,0
+4286,1970,HV seg,West,57642,2014-01-09,24,Smartphone,586,66,679,19,4,7,6,6,1,0,0
+6605,1944,HV seg,East,55614,2013-11-27,85,Smartphone,517,139,682,19,7,9,6,4,1,0,0
+5430,1956,Youth Seg,Lagos,54450,2012-09-14,0,Non Smartphone,454,198,684,19,8,9,8,2,0,0,0
+8432,1956,Youth Seg,Lagos,54450,2012-09-14,0,Non Smartphone,454,198,684,19,8,9,8,2,0,0,0
+1118,1956,Mass Mkt Seg,North,50965,2013-02-20,87,Smartphone,557,99,685,19,8,10,5,4,1,0,0
+6715,1948,HV seg,West,60200,2013-01-02,3,Smartphone,521,138,685,19,6,6,11,2,0,0,0
+9220,1971,Youth Seg,West,91700,2013-01-17,58,Smartphone,748,1201,1968,19,3,8,5,6,0,0,1
+966,1966,Youth Seg,North,44529,2013-07-05,98,Smartphone,551,114,691,19,5,6,11,2,1,0,0
+1618,1965,Youth Seg,Lagos,56046,2013-01-02,9,Smartphone,577,64,692,19,8,10,8,1,1,0,1
+550,1952,Youth Seg,East,62335,2013-05-23,87,Smartphone,374,308,708,19,2,3,13,3,0,0,0
+11112,1966,Youth Seg,Lagos,70713,2012-12-03,23,Smartphone,850,437,1477,19,3,5,8,6,0,0,0
+4656,1990,Youth Seg,West,51250,2013-03-30,28,Non Smartphone,374,296,710,19,9,10,4,5,1,0,0
+4501,1965,Mass Mkt Seg,West,69882,2013-11-10,94,Smartphone,419,894,1478,19,1,3,9,7,0,0,0
+8318,1979,Youth Seg,Lagos,90300,2014-01-03,7,Smartphone,728,953,1738,19,1,5,8,6,1,0,0
+2712,1956,Youth Seg,North,71866,2013-12-25,85,Smartphone,362,320,715,19,3,6,10,3,0,0,0
+10156,1975,Youth Seg,West,84196,2013-06-03,56,Smartphone,278,769,1237,19,3,8,7,4,0,0,0
+425,1985,Youth Seg,North,55357,2013-02-19,66,Non Smartphone,438,225,727,19,5,6,11,2,0,0,0
+7451,1960,Mass Mkt Seg,West,98777,2014-02-17,23,Smartphone,1019,951,2008,19,1,4,9,6,1,0,0
+4248,1960,Mass Mkt Seg,West,98777,2014-02-17,23,Smartphone,1019,951,2008,19,1,4,9,6,1,0,0
+8939,1959,Youth Seg,East,61250,2012-12-16,49,Smartphone,520,151,730,19,5,5,12,2,0,0,0
+4915,1956,Youth Seg,North,53230,2012-08-03,86,Smartphone,248,255,732,19,5,5,12,2,0,0,0
+5562,1974,Youth Seg,North,60093,2013-06-26,92,Smartphone,514,131,735,19,6,7,10,2,0,0,0
+1915,1951,HV seg,North,78939,2013-12-12,57,Smartphone,909,393,1507,19,3,8,6,5,0,0,0
+7732,1978,Youth Seg,North,64813,2014-01-02,81,Non Smartphone,293,400,745,19,5,7,10,2,0,0,0
+3594,1973,Mass Mkt Seg,North,54108,2012-11-05,74,Non Smartphone,545,105,747,19,8,8,9,2,0,0,0
+1399,1958,Youth Seg,North,72905,2014-01-21,52,Smartphone,521,791,1515,19,1,3,9,7,1,0,0
+1518,1965,Mass Mkt Seg,North,62694,2013-06-17,29,Non Smartphone,385,273,749,19,7,9,7,3,0,0,0
+7476,1964,Mass Mkt Seg,West,63972,2012-12-02,93,Smartphone,991,266,1269,19,4,5,10,4,1,0,0
+10582,1979,Youth Seg,North,72063,2013-07-03,3,Smartphone,212,456,758,19,2,5,12,2,0,0,0
+9500,1959,Youth Seg,North,58113,2013-01-25,66,Smartphone,325,349,758,19,7,9,8,2,0,1,0
+9365,1976,HV seg,West,60000,2012-12-22,57,Smartphone,1048,217,1277,19,6,11,5,3,0,0,0
+9958,1972,Youth Seg,North,65685,2014-03-29,54,Smartphone,656,56,769,20,5,9,9,2,0,0,0
+3900,1972,Youth Seg,North,65685,2014-03-29,54,Smartphone,656,56,769,20,5,9,9,2,0,0,0
+10172,1988,Youth Seg,West,68655,2012-08-10,95,Smartphone,475,1025,1538,20,3,4,11,5,0,0,0
+6729,1988,Youth Seg,West,68655,2012-08-10,95,Smartphone,475,1025,1538,20,3,4,11,5,0,0,0
+4141,1965,Youth Seg,Lagos,71613,2013-08-21,26,Smartphone,475,259,776,20,4,8,10,2,0,0,0
+7683,1968,Mass Mkt Seg,North,70777,2014-02-25,80,Smartphone,589,120,787,20,3,5,12,3,0,0,0
+4828,1954,Youth Seg,East,79865,2014-06-18,12,Smartphone,170,584,792,20,1,5,5,10,0,0,0
+8402,1953,Mass Mkt Seg,North,67087,2013-12-17,40,Smartphone,364,387,794,20,4,7,8,5,0,0,0
+5543,1966,Youth Seg,Lagos,57811,2013-06-24,49,Smartphone,552,172,802,20,5,7,11,2,1,0,0
+7646,1989,Youth Seg,West,64449,2014-02-18,70,Non Smartphone,281,454,805,20,4,5,12,3,0,0,0
+146,1960,HV seg,West,76045,2013-11-15,78,Smartphone,813,510,1323,20,2,4,11,5,1,0,0
+7005,1981,Youth Seg,West,58684,2014-06-16,71,Smartphone,514,214,813,20,2,5,12,3,1,0,0
+2453,1960,Youth Seg,Lagos,62807,2012-08-31,83,Smartphone,554,166,819,20,5,5,12,3,0,0,0
+7787,1960,Youth Seg,Lagos,62807,2012-08-31,83,Smartphone,554,166,819,20,5,5,12,3,0,0,0
+8923,1973,Youth Seg,West,83917,2013-04-18,12,Smartphone,536,972,1587,20,3,6,7,7,0,0,1
+7165,1972,Youth Seg,Lagos,64474,2013-10-22,59,Smartphone,416,314,823,20,5,8,10,2,0,0,0
+3091,1981,Youth Seg,Lagos,75774,2014-05-02,27,Non Smartphone,361,406,823,20,4,7,8,5,0,0,0
+762,1981,Youth Seg,Lagos,75774,2014-05-02,27,Non Smartphone,361,406,823,20,4,7,8,5,0,0,0
+10767,1989,HV seg,Lagos,77845,2014-05-16,40,Smartphone,800,520,1346,20,1,3,12,5,2,0,0
+4149,1948,HV seg,Lagos,76140,2014-05-13,57,Smartphone,652,670,1348,20,2,5,6,9,0,0,0
+6421,1961,Youth Seg,Lagos,88347,2013-07-03,32,Smartphone,1228,770,2116,20,1,4,9,7,1,0,0
+10383,1966,Youth Seg,East,70287,2013-04-02,30,Smartphone,330,723,1093,20,3,5,10,5,0,0,1
+2225,1977,Youth Seg,East,82582,2014-06-07,54,Smartphone,630,746,1617,20,1,4,7,9,2,0,1
+8148,1956,Mass Mkt Seg,Lagos,50898,2013-01-08,88,Non Smartphone,313,411,859,20,5,6,12,2,0,0,0
+4331,1978,Mass Mkt Seg,Lagos,85738,2014-01-23,41,Smartphone,939,419,1371,20,1,3,11,6,2,0,0
+2926,1952,Mass Mkt Seg,Lagos,55951,2012-08-23,62,Smartphone,1241,93,1374,20,8,3,11,6,2,0,0
+5067,1994,Youth Seg,Lagos,80134,2014-02-14,11,Smartphone,992,360,1378,20,5,2,11,7,4,0,0
+3799,1955,Youth Seg,North,67225,2013-11-26,4,Smartphone,350,375,868,20,5,7,11,2,0,0,0
+4990,1954,Youth Seg,North,59111,2013-05-02,90,Smartphone,524,190,869,20,7,11,8,1,0,0,0
+10240,1949,Youth Seg,Lagos,69372,2013-02-19,10,Smartphone,1023,316,1381,20,4,10,6,4,2,0,1
+10909,1948,Youth Seg,North,92344,2014-01-15,9,Smartphone,1016,764,1899,20,1,5,5,10,2,0,0
+9166,1968,Youth Seg,North,63967,2013-08-09,57,Smartphone,471,249,882,20,2,4,12,4,0,0,0
+5847,1969,Youth Seg,East,69901,2013-05-29,95,Smartphone,333,400,882,20,5,7,10,3,0,0,0
+1012,1952,Youth Seg,West,61823,2013-02-18,26,Smartphone,530,185,884,20,7,8,10,2,0,0,0
+3584,1955,HV seg,West,49667,2012-08-20,35,Smartphone,1207,150,1396,20,8,5,5,10,1,0,1
+1168,1978,HV seg,North,72159,2012-10-29,62,Smartphone,375,973,1401,20,2,4,10,6,0,0,0
+7022,1971,Youth Seg,North,76445,2012-09-28,2,Non Smartphone,846,529,1410,20,6,2,13,5,0,0,0
+5278,1964,Youth Seg,North,82224,2014-01-25,83,Smartphone,333,529,902,20,3,6,5,9,1,0,0
+10673,1976,HV seg,North,68397,2013-11-17,6,Smartphone,840,496,1416,20,3,6,5,9,0,0,0
+4530,1948,Mass Mkt Seg,East,78427,2012-10-24,36,Smartphone,991,801,1930,20,3,3,10,7,1,0,1
+3283,1972,Youth Seg,North,70932,2014-01-19,57,Smartphone,393,331,909,20,3,6,12,2,0,0,0
+5236,1979,Youth Seg,Lagos,77568,2012-08-25,30,Smartphone,1230,806,2194,20,5,10,8,2,3,0,0
+6406,1988,Mass Mkt Seg,North,78285,2013-10-28,13,Smartphone,754,633,1427,20,3,6,10,4,0,0,0
+4310,1944,Youth Seg,North,80589,2014-01-22,25,Smartphone,600,802,1428,20,1,5,5,10,1,0,1
+8537,1949,Youth Seg,East,72643,2013-02-27,60,Smartphone,606,770,1429,20,2,3,7,10,1,0,1
+6853,1982,Mass Mkt Seg,West,75777,2013-07-04,12,Smartphone,738,620,1438,20,1,3,11,6,2,0,1
+7366,1982,Mass Mkt Seg,West,75777,2013-07-04,12,Smartphone,738,620,1438,20,1,3,11,6,2,0,1
+2963,1979,Youth Seg,Lagos,75507,2014-05-02,56,Smartphone,802,558,1440,20,3,8,6,6,0,0,0
+7723,1979,Youth Seg,Lagos,75507,2014-05-02,56,Smartphone,802,558,1440,20,3,8,6,6,0,0,0
+175,1986,Youth Seg,North,71952,2013-01-10,93,Non Smartphone,736,614,1443,20,4,8,8,4,2,0,0
+6988,1986,Youth Seg,North,71952,2013-01-10,93,Non Smartphone,736,614,1443,20,4,8,8,4,2,0,0
+2254,1983,Youth Seg,North,69520,2013-07-07,95,Smartphone,747,615,1455,20,5,9,5,6,0,0,0
+10129,1966,Youth Seg,Lagos,82427,2014-03-12,35,Smartphone,629,720,1456,20,1,3,12,5,1,0,0
+3599,1970,Youth Seg,North,63684,2012-11-26,61,Smartphone,655,729,1464,20,5,8,8,4,0,0,0
+9145,1972,Youth Seg,West,72504,2013-04-06,43,Smartphone,630,754,1478,20,2,5,6,9,0,0,0
+7290,1985,Youth Seg,West,70596,2012-10-05,68,Smartphone,391,551,968,20,2,3,12,5,0,0,0
+8895,1985,Youth Seg,West,70596,2012-10-05,68,Smartphone,391,551,968,20,2,3,12,5,0,0,0
+4785,1970,HV seg,Lagos,77622,2014-04-14,3,Smartphone,527,173,714,20,3,6,11,3,0,0,0
+7446,1967,Mass Mkt Seg,Lagos,62513,2013-09-09,16,Smartphone,562,140,716,20,6,6,10,4,0,0,0
+5544,1970,Youth Seg,West,67384,2012-11-10,32,Smartphone,997,386,1490,20,5,7,5,8,1,0,0
+3433,1955,Youth Seg,North,72635,2013-06-03,54,Smartphone,412,462,981,20,3,6,6,8,1,0,0
+6583,1955,Youth Seg,North,72635,2013-06-03,54,Smartphone,412,462,981,20,3,6,6,8,1,0,0
+3104,1961,Youth Seg,West,82332,2012-09-17,89,Smartphone,889,1098,2006,20,2,5,12,3,1,0,1
+6613,1970,Mass Mkt Seg,North,44511,2012-10-12,39,Non Smartphone,520,193,727,20,8,8,8,4,0,0,0
+5596,1956,Youth Seg,Lagos,58821,2013-10-12,44,Smartphone,527,173,728,20,6,9,9,2,0,0,0
+5186,1955,HV seg,North,58482,2014-03-12,59,Smartphone,583,141,731,20,6,7,9,4,1,0,0
+2829,1955,Youth Seg,North,65210,2014-03-10,25,Smartphone,626,77,731,20,6,9,8,3,2,0,0
+6892,1968,Youth Seg,East,61671,2014-06-03,23,Smartphone,648,56,732,20,8,10,6,4,2,0,0
+2408,1976,Youth Seg,North,58597,2012-11-20,20,Non Smartphone,490,222,733,20,7,7,9,4,0,0,0
+9699,1966,Youth Seg,East,67272,2013-12-21,12,Smartphone,392,327,733,20,5,6,12,2,0,0,0
+2894,1985,Youth Seg,West,72903,2013-10-29,74,Smartphone,1205,769,2013,20,4,7,8,5,3,0,1
+3427,1955,HV seg,North,59821,2013-04-12,11,Smartphone,629,70,734,20,8,11,7,2,0,0,0
+3478,1971,HV seg,North,60585,2013-06-24,17,Non Smartphone,309,406,736,20,5,7,9,4,0,0,1
+466,1944,Youth Seg,North,65275,2013-04-03,9,Smartphone,402,323,746,20,2,4,13,3,0,0,0
+832,1966,HV seg,Lagos,65814,2014-03-02,90,Smartphone,575,137,747,20,5,8,10,2,0,0,0
+6905,1994,Youth Seg,Lagos,80685,2012-08-22,55,Smartphone,286,664,1004,20,2,6,10,4,0,0,0
+8581,1971,Mass Mkt Seg,North,49505,2013-03-05,4,Non Smartphone,604,119,751,20,8,10,8,2,0,0,0
+850,1968,Youth Seg,West,70566,2013-10-06,4,Smartphone,409,327,757,20,3,6,9,5,0,0,0
+10736,1971,Youth Seg,West,72258,2013-09-12,28,Smartphone,522,869,1525,20,2,6,5,9,0,0,0
+7118,1957,Youth Seg,North,73803,2012-08-01,61,Smartphone,913,441,1528,20,6,9,6,5,1,0,1
+5782,1982,Youth Seg,Lagos,58582,2013-09-28,15,Smartphone,437,284,763,20,5,9,9,2,1,0,0
+5935,1956,Mass Mkt Seg,West,55284,2012-12-24,60,Smartphone,554,147,764,20,5,7,8,5,0,0,0
+3807,1955,Youth Seg,Lagos,59925,2012-11-30,83,Smartphone,494,216,766,20,6,9,9,2,0,0,0
+6722,1954,HV seg,North,70421,2014-06-28,98,Smartphone,507,225,767,20,6,10,7,3,0,0,0
+697,1969,Youth Seg,Lagos,74918,2013-03-12,78,Smartphone,1031,957,2047,20,3,5,6,9,1,0,0
+2304,1963,HV seg,Lagos,66313,2013-09-16,86,Smartphone,632,131,770,21,4,6,12,3,0,0,0
+6912,1967,HV seg,North,63246,2013-08-20,60,Smartphone,623,142,772,21,4,6,12,3,0,0,0
+6250,1949,HV seg,East,54356,2012-11-19,62,Smartphone,725,50,775,21,8,11,8,2,0,0,1
+1627,1957,Youth Seg,East,77297,2013-01-26,84,Smartphone,469,279,789,21,4,5,9,7,1,0,0
+4405,1956,Mass Mkt Seg,North,63915,2013-07-30,2,Smartphone,629,145,789,21,5,6,12,3,0,0,0
+9710,1969,HV seg,East,58086,2013-01-20,80,Smartphone,715,62,792,21,8,11,7,3,0,0,0
+5589,1964,Youth Seg,East,51983,2012-08-31,95,Smartphone,631,132,793,21,7,9,10,2,0,0,0
+5250,1943,Mass Mkt Seg,East,,2013-10-30,75,Smartphone,658,780,1564,21,1,5,11,5,1,0,1
+618,1977,HV seg,North,69389,2012-09-28,17,Smartphone,429,353,797,21,4,7,12,2,0,0,0
+821,1992,Mass Mkt Seg,West,92859,2012-10-19,46,Smartphone,1023,1034,2077,21,2,5,12,4,0,0,0
+5136,1973,Youth Seg,West,65333,2014-01-17,58,Smartphone,661,107,798,21,6,9,8,4,2,0,0
+7793,1976,Youth Seg,Lagos,62061,2013-08-31,12,Smartphone,648,114,800,21,6,10,7,4,1,0,0
+843,1971,Youth Seg,North,64722,2014-05-26,47,Non Smartphone,303,487,805,21,6,8,11,2,0,0,0
+6262,1962,Mass Mkt Seg,West,72217,2013-04-10,93,Smartphone,858,561,1573,21,2,3,8,10,0,0,0
+7627,1975,Mass Mkt Seg,North,92163,2012-12-12,25,Smartphone,1000,1066,2086,21,2,5,5,11,2,0,1
+313,1968,Youth Seg,East,73455,2013-10-28,98,Smartphone,962,1106,2088,21,3,6,10,5,1,0,0
+6815,1980,Youth Seg,North,96547,2014-05-23,4,Smartphone,469,278,809,21,2,7,8,6,3,0,1
+203,1975,Mass Mkt Seg,West,81169,2013-04-14,47,Smartphone,1308,754,2089,21,2,5,9,7,0,0,0
+4058,1955,HV seg,West,61284,2013-10-12,76,Smartphone,633,133,811,21,6,11,8,2,1,0,0
+760,1975,HV seg,East,60554,2013-08-09,8,Non Smartphone,595,201,811,21,6,8,9,4,0,0,0
+3690,1986,Mass Mkt Seg,North,80141,2013-01-11,20,Smartphone,1286,765,2091,21,6,7,10,4,1,0,1
+2570,1968,Youth Seg,Lagos,56534,2013-07-23,35,Smartphone,698,71,815,21,8,10,7,4,2,0,1
+2495,1974,Mass Mkt Seg,North,83891,2014-06-20,24,Smartphone,255,546,816,21,1,4,10,7,0,0,0
+10057,1951,Youth Seg,West,72282,2013-07-19,70,Smartphone,530,648,1331,21,7,5,9,7,0,0,1
+7143,1955,Youth Seg,Lagos,74805,2013-11-06,14,Smartphone,371,412,820,21,2,4,10,7,0,0,0
+10858,1975,Youth Seg,Lagos,76532,2013-09-09,38,Non Smartphone,385,405,820,21,5,9,7,5,0,0,0
+2295,1954,HV seg,North,62670,2014-02-02,57,Smartphone,569,218,825,21,3,5,13,3,0,0,0
+7488,1963,Mass Mkt Seg,West,64191,2013-01-22,30,Smartphone,435,375,825,21,3,5,13,3,0,0,0
+5841,1966,Youth Seg,Lagos,60894,2013-06-28,61,Smartphone,613,165,832,21,7,10,8,3,0,0,0
+9826,1972,HV seg,West,86857,2012-09-12,96,Smartphone,1001,1073,2114,21,2,5,10,6,0,0,1
+5830,1972,HV seg,West,86857,2012-09-12,96,Smartphone,1001,1073,2114,21,2,5,10,6,0,0,1
+1951,1981,Youth Seg,North,34445,2013-01-27,92,Smartphone,350,459,839,21,9,11,8,2,0,0,0
+4390,1954,Youth Seg,Lagos,75315,2014-04-15,14,Smartphone,474,336,841,21,2,5,12,4,0,0,0
+8235,1956,Mass Mkt Seg,Lagos,69245,2014-01-24,8,Smartphone,458,324,843,21,3,6,10,5,0,0,0
+9058,1955,Youth Seg,East,79800,2012-09-23,65,Smartphone,1081,562,1867,21,3,5,5,11,3,0,1
+2736,1978,Youth Seg,North,73807,2013-01-02,88,Smartphone,490,305,849,21,2,5,11,5,0,0,0
+1490,1962,Youth Seg,North,55759,2012-11-28,84,Smartphone,675,102,854,21,8,10,8,3,0,0,0
+8952,1953,Mass Mkt Seg,North,65569,2012-11-05,96,Smartphone,443,346,859,21,3,6,10,5,0,0,0
+9529,1990,Youth Seg,North,73687,2013-11-28,8,Smartphone,712,734,1627,21,2,3,9,9,1,0,1
+3732,1955,Mass Mkt Seg,North,52750,2013-02-04,72,Smartphone,393,398,860,21,4,5,9,7,0,0,0
+3834,1962,Youth Seg,West,69627,2013-03-17,35,Smartphone,392,416,861,21,5,8,11,2,0,0,0
+9264,1986,Youth Seg,North,79529,2014-04-27,1,Smartphone,465,976,1638,21,2,4,9,8,0,0,0
+4084,1975,Youth Seg,Lagos,60934,2014-01-17,41,Smartphone,379,440,873,21,4,6,11,4,0,0,0
+7274,1957,Youth Seg,North,78618,2012-09-28,87,Smartphone,899,1193,2153,21,2,4,10,7,1,0,0
+3498,1976,HV seg,North,55424,2012-11-25,6,Smartphone,523,247,877,21,6,7,9,5,1,0,1
+477,1986,Youth Seg,North,83512,2014-06-17,31,Smartphone,1121,935,2157,21,1,4,10,7,4,0,1
+10099,1984,Youth Seg,North,55434,2013-10-05,21,Non Smartphone,353,453,882,21,4,5,13,3,0,0,0
+8969,1977,Youth Seg,North,71855,2013-01-16,59,Smartphone,579,534,1141,21,3,5,11,5,0,0,0
+10681,1970,Youth Seg,North,62466,2014-01-15,13,Smartphone,258,548,889,21,4,6,12,3,0,0,0
+5156,1970,Youth Seg,North,62466,2014-01-15,13,Smartphone,258,548,889,21,4,6,12,3,0,0,0
+10992,1967,Youth Seg,Lagos,75702,2012-08-29,77,Non Smartphone,678,440,1148,21,8,4,11,6,0,0,0
+10711,1945,Youth Seg,North,69755,2013-10-02,23,Smartphone,294,507,894,21,1,3,12,6,0,0,0
+8643,1971,Youth Seg,Lagos,69930,2013-05-26,21,Smartphone,350,1116,1662,21,3,4,12,5,0,0,0
+6200,1951,Youth Seg,North,75903,2013-04-08,50,Smartphone,448,353,901,21,3,6,9,6,0,0,0
+295,1989,Youth Seg,West,81217,2013-07-19,77,Smartphone,563,510,1157,21,1,3,11,7,0,0,0
+6071,1989,Youth Seg,West,81217,2013-07-19,77,Smartphone,563,510,1157,21,1,3,11,7,0,0,0
+9560,1965,Youth Seg,Lagos,83003,2013-03-03,18,Smartphone,917,635,1674,21,3,7,8,6,1,0,1
+3421,1968,Mass Mkt Seg,East,63841,2013-04-21,64,Smartphone,650,127,908,21,6,9,9,3,0,0,0
+4391,1968,Mass Mkt Seg,East,63841,2013-04-21,64,Smartphone,650,127,908,21,6,9,9,3,0,0,0
+6283,1968,Mass Mkt Seg,East,63841,2013-04-21,64,Smartphone,650,127,908,21,6,9,9,3,0,0,0
+7851,1949,Youth Seg,East,70165,2013-09-22,60,Smartphone,161,643,926,21,1,3,11,7,0,0,0
+5011,1963,Youth Seg,East,68118,2013-10-18,51,Smartphone,618,156,928,21,6,8,4,9,0,0,0
+2891,1963,Youth Seg,East,68118,2013-10-18,51,Smartphone,618,156,928,21,6,8,4,9,0,0,0
+7381,1968,Youth Seg,East,75693,2012-12-06,10,Smartphone,950,462,1442,21,4,11,6,4,3,0,1
+9463,1959,Youth Seg,Lagos,71706,2012-11-13,16,Smartphone,987,442,1443,21,5,9,7,5,0,0,0
+3334,1951,Youth Seg,North,94642,2014-02-12,35,Smartphone,1022,1046,2211,21,1,5,9,7,2,0,0
+7053,1966,HV seg,West,78420,2013-06-29,75,Smartphone,632,793,1453,21,1,3,8,10,0,0,0
+10151,1960,Youth Seg,East,62204,2012-09-12,38,Smartphone,363,444,946,21,3,4,12,5,0,0,0
+8310,1964,Youth Seg,Lagos,68142,2012-08-29,96,Smartphone,1023,399,1459,21,6,10,7,4,0,0,0
+8732,1969,Mass Mkt Seg,East,67369,2012-11-17,81,Smartphone,1298,121,1461,21,4,7,10,4,2,0,1
+5204,1971,Youth Seg,Lagos,74538,2013-06-29,21,Smartphone,478,955,1461,21,3,8,5,8,1,0,1
+2079,1947,Youth Seg,North,81044,2013-12-27,0,Smartphone,476,706,1208,21,1,5,10,6,0,0,0
+10965,1955,Youth Seg,Lagos,76005,2013-02-22,72,Smartphone,1003,679,1722,21,6,3,13,5,1,0,0
+3445,1956,Youth Seg,West,60714,2013-01-17,56,Smartphone,378,417,957,21,5,7,10,4,0,0,1
+4406,1970,Youth Seg,Lagos,67419,2013-01-16,29,Smartphone,930,499,1471,21,5,9,8,4,0,0,0
+7734,1993,Youth Seg,East,79244,2012-12-19,58,Smartphone,573,398,1216,21,1,4,7,10,2,0,1
+1907,1950,Mass Mkt Seg,East,63120,2012-09-28,53,Smartphone,1034,374,1477,21,7,8,9,4,0,0,1
+10102,1966,Youth Seg,East,79946,2014-05-12,19,Smartphone,578,872,1478,21,3,5,5,11,0,0,0
+2150,1958,HV seg,East,80995,2013-05-11,83,Smartphone,888,538,1482,21,4,8,4,9,0,0,0
+2186,1977,Youth Seg,Lagos,82326,2014-03-10,30,Smartphone,1080,994,2257,21,2,5,6,10,3,0,1
+6974,1972,HV seg,Lagos,83443,2013-12-31,89,Smartphone,560,853,1497,21,2,6,5,10,0,0,0
+4507,1952,Youth Seg,West,72228,2012-11-27,87,Smartphone,659,535,1250,21,3,6,8,7,0,0,0
+8395,1961,Youth Seg,West,82014,2012-08-20,48,Smartphone,1017,463,1511,21,6,3,12,6,0,0,1
+1139,1984,HV seg,North,73356,2014-02-06,56,Smartphone,1064,336,1512,21,2,5,5,11,3,0,1
+5832,1960,Youth Seg,Lagos,92556,2014-04-20,32,Smartphone,676,559,1263,21,0,3,13,5,0,0,0
+8932,1969,Mass Mkt Seg,Lagos,65176,2012-10-29,57,Smartphone,988,473,1531,21,6,9,6,6,0,0,0
+9029,1972,HV seg,North,70116,2013-01-26,73,Smartphone,751,756,1536,22,1,2,12,8,0,0,0
+437,1976,Mass Mkt Seg,East,75012,2014-01-25,41,Smartphone,436,440,1027,22,1,3,11,8,0,0,0
+8427,1956,Mass Mkt Seg,West,64857,2012-11-23,78,Smartphone,570,927,1540,22,4,7,10,5,0,0,0
+217,1956,Mass Mkt Seg,West,64857,2012-11-23,78,Smartphone,570,927,1540,22,4,7,10,5,0,0,0
+1509,1958,HV seg,Lagos,84460,2013-01-04,80,Smartphone,179,263,523,22,5,9,4,9,4,0,1
+9999,1965,Youth Seg,Lagos,75276,2012-09-27,2,Smartphone,715,304,1040,22,5,9,9,4,0,0,0
+7313,1949,Youth Seg,East,74859,2013-06-03,63,Smartphone,643,849,1565,22,3,6,11,5,1,0,0
+1215,1978,Youth Seg,Lagos,70440,2013-10-08,49,Smartphone,807,677,1572,22,3,5,7,10,1,0,0
+9010,1972,Mass Mkt Seg,North,83151,2013-02-10,80,Smartphone,1115,1021,2346,22,2,5,10,7,3,0,1
+7919,1976,HV seg,Lagos,72335,2012-08-13,2,Smartphone,1390,702,2092,22,8,10,8,4,0,0,1
+7872,1975,HV seg,North,86836,2012-09-12,7,Smartphone,200,294,557,22,5,6,6,10,3,0,1
+7000,1972,Youth Seg,West,65704,2013-10-13,18,Smartphone,451,120,817,22,1,2,10,10,0,0,0
+10413,1984,Youth Seg,North,72570,2014-04-25,67,Smartphone,357,508,1089,22,1,4,12,6,0,0,0
+6999,1980,Mass Mkt Seg,North,69661,2014-05-13,80,Smartphone,672,154,834,22,3,7,12,3,0,0,0
+2579,1957,Youth Seg,North,71113,2013-12-17,95,Smartphone,528,299,835,22,4,6,9,7,0,0,0
+6932,1941,HV seg,North,93027,2013-04-13,77,Smartphone,1327,771,2119,22,2,7,5,10,1,0,0
+8475,1973,HV seg,North,157243,2014-03-01,98,Smartphone,22,1585,1608,22,0,0,0,22,0,0,0
+1184,1968,HV seg,East,69674,2013-05-22,46,Smartphone,595,226,845,22,5,10,10,2,0,0,0
+5524,1957,Youth Seg,West,58138,2012-09-04,58,Smartphone,723,806,1617,22,7,8,4,10,0,0,1
+9988,1976,Mass Mkt Seg,West,70379,2013-03-03,84,Smartphone,578,274,860,22,4,6,13,3,0,0,0
+2276,1955,Youth Seg,West,57959,2013-05-02,71,Smartphone,446,389,868,22,3,4,11,7,0,0,0
+5796,1963,Youth Seg,North,77437,2013-11-26,70,Smartphone,581,515,1125,22,1,4,13,5,1,0,0
+9292,1952,Youth Seg,North,81795,2012-10-26,74,Smartphone,456,838,1382,22,2,4,7,11,0,0,0
+2937,1974,HV seg,West,68352,2013-08-28,47,Smartphone,630,208,871,22,6,8,9,5,0,0,0
+8690,1962,Youth Seg,North,86111,2013-04-19,73,Smartphone,427,832,1385,22,2,5,10,7,0,0,0
+1146,1949,Mass Mkt Seg,Lagos,49912,2012-09-07,5,Smartphone,528,304,874,22,8,10,7,5,1,0,1
+9323,1949,Mass Mkt Seg,Lagos,49912,2012-09-07,5,Smartphone,528,304,874,22,8,10,7,5,1,0,1
+9349,1985,Youth Seg,North,92533,2013-12-19,84,Smartphone,714,375,1131,22,2,6,11,5,2,0,0
+5221,1957,Youth Seg,North,52852,2012-12-01,93,Smartphone,722,110,879,22,8,10,5,7,1,0,0
+10299,1969,HV seg,West,48240,2012-11-09,73,Smartphone,480,361,882,22,5,6,13,3,0,0,1
+3005,1992,Youth Seg,West,83528,2014-05-01,7,Smartphone,647,856,1650,22,1,4,8,10,2,0,1
+3916,1971,HV seg,Lagos,49269,2012-08-15,92,Non Smartphone,647,185,890,22,7,7,12,3,0,0,0
+531,1954,HV seg,East,57333,2012-09-22,55,Smartphone,955,531,1662,22,6,8,9,5,0,0,1
+4138,1962,Youth Seg,West,76624,2014-05-24,68,Smartphone,517,316,899,22,1,5,7,10,1,0,0
+6457,1976,Youth Seg,East,64892,2014-05-29,77,Smartphone,551,286,902,22,4,6,12,4,0,0,0
+2968,1943,HV seg,East,48948,2013-02-01,53,Smartphone,445,415,902,22,6,7,5,10,1,0,1
+8800,1943,HV seg,East,48948,2013-02-01,53,Smartphone,445,415,902,22,6,7,5,10,1,0,1
+1272,1965,Mass Mkt Seg,West,55250,2012-10-21,49,Smartphone,722,115,903,22,5,7,10,5,0,0,0
+5718,1950,Youth Seg,North,80763,2013-08-15,17,Smartphone,842,342,1415,22,3,5,6,11,2,0,1
+9284,1958,Youth Seg,Lagos,53977,2013-06-08,21,Smartphone,636,189,907,22,5,5,12,5,0,0,0
+2666,1972,Mass Mkt Seg,North,76234,2014-02-06,21,Smartphone,569,297,907,22,3,8,11,3,1,0,0
+10128,1958,Youth Seg,Lagos,53977,2013-06-08,21,Smartphone,636,189,907,22,5,5,12,5,0,0,0
+3138,1956,Youth Seg,West,91249,2012-10-20,84,Smartphone,1351,298,1676,22,4,7,6,9,4,0,1
+2683,1969,Youth Seg,North,52413,2013-02-02,56,Smartphone,401,444,910,22,6,6,12,4,0,0,0
+9212,1962,Mass Mkt Seg,North,72828,2013-02-14,17,Smartphone,1205,268,1678,22,7,6,13,3,0,0,0
+7503,1976,Youth Seg,West,75825,2012-10-12,40,Smartphone,1137,1021,2209,22,4,5,9,8,1,0,1
+10983,1952,Youth Seg,Lagos,75278,2013-01-29,17,Smartphone,402,454,930,22,3,6,13,3,0,0,0
+2975,1976,Youth Seg,Lagos,85606,2012-11-12,89,Smartphone,759,1113,1956,22,3,6,9,7,1,0,0
+1212,1973,Youth Seg,North,52845,2013-08-13,7,Non Smartphone,409,463,936,22,6,8,6,8,1,0,0
+2931,1978,Youth Seg,East,71847,2012-09-21,95,Smartphone,758,224,1192,22,3,6,9,7,1,0,0
+4320,1979,Youth Seg,West,60152,2013-03-28,6,Smartphone,408,444,943,22,3,6,12,4,0,0,0
+6461,1969,Mass Mkt Seg,West,62772,2013-05-19,74,Smartphone,630,208,946,22,2,5,11,6,1,0,0
+9274,1961,Mass Mkt Seg,North,80950,2013-03-28,44,Smartphone,672,478,1213,22,2,6,9,7,1,0,0
+10968,1969,Youth Seg,West,57731,2012-11-23,0,Smartphone,287,373,704,22,6,8,6,8,0,0,0
+1685,1967,HV seg,Lagos,62981,2013-03-17,21,Smartphone,810,672,1482,22,3,4,13,5,1,0,0
+10590,1956,HV seg,Lagos,76542,2013-03-30,91,Smartphone,867,602,1483,22,2,4,10,8,0,0,0
+178,1956,Youth Seg,North,62503,2013-02-18,40,Smartphone,478,378,973,22,5,8,11,3,0,0,0
+6295,1977,Youth Seg,North,54233,2013-02-04,46,Smartphone,660,179,981,22,8,11,5,6,0,0,0
+8492,1978,Youth Seg,Lagos,75437,2013-11-09,25,Smartphone,795,698,1493,22,6,8,10,4,1,0,0
+6303,1986,HV seg,Lagos,91820,2013-11-23,72,Smartphone,483,984,1497,22,1,5,12,5,0,0,0
+7631,1978,Mass Mkt Seg,Lagos,61346,2013-10-06,34,Non Smartphone,620,227,989,22,3,5,10,7,0,0,0
+4394,1965,HV seg,North,81051,2014-05-23,43,Smartphone,1171,316,1501,22,2,5,12,5,2,0,0
+10092,1954,Youth Seg,East,70044,2013-02-18,46,Smartphone,1073,417,1504,22,5,7,5,10,0,0,0
+6246,1953,Youth Seg,West,73892,2013-11-13,40,Smartphone,805,659,1507,22,1,3,8,11,0,0,1
+6320,1976,Mass Mkt Seg,West,70893,2013-02-06,42,Smartphone,812,682,1508,22,3,6,10,6,0,0,0
+2147,1969,Youth Seg,Lagos,76653,2013-08-16,91,Smartphone,799,1354,2279,22,2,4,11,7,2,0,0
+6050,1975,Youth Seg,North,57036,2012-12-11,33,Smartphone,1214,252,1513,22,9,6,13,3,1,0,0
+1553,1946,Youth Seg,Lagos,82657,2013-09-27,71,Smartphone,1134,1023,2283,22,4,7,10,5,2,0,0
+3856,1960,Youth Seg,Lagos,63381,2012-10-05,78,Smartphone,621,225,1005,22,2,4,13,5,0,0,0
+6202,1960,Youth Seg,Lagos,63381,2012-10-05,78,Smartphone,621,225,1005,22,2,4,13,5,0,0,0
+6343,1959,Youth Seg,North,79823,2014-03-31,6,Smartphone,908,567,1518,22,2,6,7,9,1,0,0
+3767,1968,Youth Seg,North,61314,2013-04-25,1,Smartphone,378,458,1008,22,3,5,12,5,0,0,0
+10489,1973,Youth Seg,North,92955,2013-08-19,35,Smartphone,714,980,1778,22,2,6,9,7,2,0,1
+7832,1959,Mass Mkt Seg,North,77520,2013-08-28,30,Smartphone,984,484,1526,22,4,8,7,7,3,0,1
+3483,1958,Youth Seg,North,48192,2013-04-06,76,Smartphone,1082,415,1526,22,8,2,12,8,3,0,1
+640,1951,Youth Seg,North,57304,2013-03-11,61,Smartphone,436,484,1026,23,5,7,10,6,0,0,0
+7881,1946,Mass Mkt Seg,North,66835,2013-09-28,21,Smartphone,646,246,1033,23,2,6,13,4,0,0,0
+10562,1946,Mass Mkt Seg,North,66835,2013-09-28,21,Smartphone,646,246,1033,23,2,6,13,4,0,0,0
+1071,1976,HV seg,East,70179,2013-07-21,10,Smartphone,620,281,1034,23,5,7,13,3,0,0,0
+2793,1976,HV seg,East,70179,2013-07-21,10,Smartphone,620,281,1034,23,5,7,13,3,0,0,0
+3673,1971,Youth Seg,West,55239,2013-07-14,59,Smartphone,388,285,779,23,5,7,11,5,0,0,0
+4947,1966,Youth Seg,West,89572,2012-09-15,44,Smartphone,630,1365,2059,23,4,7,9,7,2,0,1
+9904,1956,Youth Seg,North,71391,2013-03-29,50,Smartphone,459,443,1043,23,3,6,12,5,0,0,0
+6417,1971,Mass Mkt Seg,Lagos,80573,2012-10-14,85,Smartphone,967,582,1564,23,2,4,13,6,0,0,0
+9209,1971,Mass Mkt Seg,Lagos,80573,2012-10-14,85,Smartphone,967,582,1564,23,2,4,13,6,0,0,0
+5721,1956,HV seg,North,84117,2014-05-11,60,Smartphone,687,853,1566,23,2,7,6,10,1,0,0
+7094,1975,Youth Seg,East,58330,2013-12-25,87,Smartphone,498,415,1064,23,4,6,13,4,0,0,0
+5084,1975,Youth Seg,East,58330,2013-12-25,87,Smartphone,498,415,1064,23,4,6,13,4,0,0,0
+5989,1959,Youth Seg,East,78353,2013-04-16,51,Smartphone,874,668,1576,23,8,10,11,2,0,0,0
+3749,1973,Youth Seg,Lagos,73926,2013-03-02,54,Smartphone,718,847,1580,23,3,6,12,5,0,0,0
+6982,1976,Youth Seg,North,74068,2013-03-19,14,Smartphone,813,753,1581,23,2,4,9,10,0,0,0
+796,1965,Youth Seg,East,60161,2012-10-23,17,Smartphone,628,266,1071,23,8,11,8,4,0,0,0
+5453,1956,Mass Mkt Seg,North,90226,2012-09-26,26,Smartphone,1191,1053,2352,23,2,4,12,7,1,0,0
+10727,1970,HV seg,North,69084,2013-11-19,43,Non Smartphone,1288,268,1586,23,8,7,13,3,0,0,0
+5299,1970,HV seg,North,69084,2013-11-19,43,Non Smartphone,1288,268,1586,23,8,7,13,3,0,0,0
+8852,1976,Youth Seg,North,61064,2012-08-31,80,Smartphone,513,387,1080,23,6,8,11,4,0,0,0
+9645,1968,Youth Seg,North,64590,2012-10-14,98,Smartphone,1058,250,1338,23,6,9,10,4,0,0,0
+3426,1975,Youth Seg,East,70300,2013-07-15,89,Non Smartphone,1106,444,1596,23,8,5,13,5,0,0,0
+5407,1954,Youth Seg,Lagos,53103,2013-09-12,70,Smartphone,746,144,1085,23,7,10,7,6,1,0,0
+4500,1991,HV seg,Lagos,68682,2013-10-06,56,Smartphone,919,634,1598,23,2,4,10,9,0,0,0
+3428,1991,HV seg,Lagos,68682,2013-10-06,56,Smartphone,919,634,1598,23,2,4,10,9,0,0,0
+10061,1950,Youth Seg,North,59462,2013-01-05,29,Smartphone,741,151,1088,23,7,9,12,2,0,0,0
+2437,1989,Youth Seg,North,,2013-06-03,69,Smartphone,999,551,1611,23,3,6,12,5,2,0,0
+9757,1972,Youth Seg,Lagos,84906,2013-10-04,98,Smartphone,1012,543,1631,23,2,5,12,6,3,0,0
+2088,1972,Youth Seg,Lagos,84906,2013-10-04,98,Smartphone,1012,543,1631,23,2,5,12,6,3,0,0
+4687,1958,Mass Mkt Seg,North,80739,2013-05-23,92,Smartphone,766,775,1633,23,1,3,9,11,0,0,0
+6086,1955,Youth Seg,North,80395,2013-11-23,62,Smartphone,470,862,1380,23,2,6,12,5,1,0,0
+5046,1958,Youth Seg,East,78331,2014-01-23,97,Smartphone,894,683,1638,23,4,10,7,6,0,0,0
+9224,1972,HV seg,West,55260,2012-12-12,81,Smartphone,833,64,1139,23,6,8,5,10,0,0,0
+9451,1965,Youth Seg,North,73538,2012-11-25,92,Smartphone,887,664,1658,23,7,10,9,4,0,0,0
+1440,1978,Youth Seg,Lagos,52513,2012-09-04,84,Smartphone,384,533,1149,23,7,9,9,5,0,0,0
+5628,1982,Youth Seg,Lagos,61416,2013-02-08,25,Smartphone,1002,585,1665,23,6,10,10,3,1,0,0
+3463,1975,HV seg,North,69283,2014-06-14,41,Smartphone,736,160,904,23,5,7,13,3,0,0,0
+564,1981,HV seg,Lagos,56937,2012-08-04,81,Non Smartphone,754,144,906,23,6,8,9,6,1,0,1
+2875,1978,Youth Seg,North,67023,2014-03-04,93,Smartphone,488,401,906,23,2,3,13,7,0,1,0
+4339,1970,HV seg,North,67353,2013-12-31,37,Smartphone,719,159,913,23,2,5,12,6,0,0,0
+3924,1965,HV seg,East,57912,2014-03-17,34,Smartphone,801,80,916,23,5,8,12,3,1,0,0
+10678,1959,Youth Seg,Lagos,71232,2013-11-28,91,Smartphone,670,230,917,23,7,11,10,2,0,0,0
+500,1977,Youth Seg,Lagos,96876,2013-08-06,79,Smartphone,951,969,1941,23,2,7,9,7,3,0,1
+10286,1962,Youth Seg,North,83715,2014-02-03,2,Smartphone,326,592,926,23,0,2,13,8,0,0,0
+4676,1951,Mass Mkt Seg,East,73705,2014-03-05,86,Smartphone,703,885,1695,23,5,9,8,6,0,0,0
+7129,1962,HV seg,North,54693,2013-02-17,72,Smartphone,703,191,929,23,6,6,13,4,0,0,0
+3945,1947,HV seg,East,68117,2013-03-10,80,Smartphone,662,232,930,23,6,11,4,8,1,0,1
+5667,1964,HV seg,North,60896,2012-10-11,90,Smartphone,1043,505,1701,23,6,9,4,10,0,0,1
+6001,1979,Youth Seg,North,56775,2013-01-02,62,Smartphone,649,253,937,23,5,5,10,8,0,0,0
+3967,1971,HV seg,North,78931,2013-10-25,19,Smartphone,528,380,943,23,1,2,13,8,0,0,0
+10584,1976,Youth Seg,North,65665,2013-12-02,77,Smartphone,387,529,945,23,3,5,8,10,0,0,0
+10548,1995,Youth Seg,West,71163,2014-03-09,30,Smartphone,300,616,960,23,1,3,12,8,0,0,0
+1000,1961,Mass Mkt Seg,Lagos,74881,2013-03-08,48,Non Smartphone,577,333,964,23,5,9,12,2,0,0,0
+3852,1961,Mass Mkt Seg,Lagos,74881,2013-03-08,48,Non Smartphone,577,333,964,23,5,9,12,2,0,0,0
+7922,1951,HV seg,West,64950,2012-08-12,29,Smartphone,819,84,966,23,7,11,10,2,1,0,0
+6173,1979,Youth Seg,Lagos,77298,2013-11-02,46,Smartphone,540,350,969,23,3,6,11,6,0,0,0
+5077,1979,Youth Seg,Lagos,77298,2013-11-02,46,Smartphone,540,350,969,23,3,6,11,6,0,0,0
+4743,1969,HV seg,North,56242,2013-03-03,72,Smartphone,697,186,971,23,6,8,11,4,0,0,0
+9167,1956,Youth Seg,North,67131,2013-03-26,72,Smartphone,536,378,976,23,6,9,12,2,0,0,0
+9256,1971,Youth Seg,West,58350,2013-01-04,5,Smartphone,519,402,1001,23,6,8,12,3,0,0,0
+3870,1978,Youth Seg,Lagos,63855,2013-02-09,28,Smartphone,394,523,1006,23,4,7,13,3,0,0,0
+8925,1965,Mass Mkt Seg,North,70053,2013-07-03,38,Smartphone,565,358,1012,23,5,8,10,5,0,0,0
+1008,1981,HV seg,Lagos,44953,2012-12-21,31,Smartphone,745,152,1021,23,6,7,13,3,1,0,0
+17,1971,HV seg,North,60491,2013-09-06,81,Smartphone,684,268,1028,24,5,6,7,11,0,0,0
+380,1954,Youth Seg,East,64497,2012-09-10,17,Smartphone,1218,394,1804,24,8,11,9,4,1,0,1
+1570,1951,HV seg,Lagos,69702,2013-02-19,8,Smartphone,673,309,1039,24,4,7,10,7,0,0,0
+4207,1981,HV seg,North,87171,2013-05-01,27,Smartphone,1045,209,1298,24,2,6,11,7,2,0,0
+10770,1959,Youth Seg,North,65492,2014-01-26,73,Smartphone,408,590,1045,24,2,4,13,7,0,0,0
+7706,1975,Youth Seg,Lagos,46772,2012-11-07,88,Smartphone,454,537,1048,24,8,11,5,8,1,0,0
+8602,1964,Youth Seg,East,69932,2013-06-12,97,Smartphone,584,408,1049,24,4,7,11,6,0,0,0
+9780,1971,Mass Mkt Seg,Lagos,71499,2013-06-25,12,Smartphone,490,268,795,24,4,8,13,3,0,0,0
+7849,1970,HV seg,North,80336,2013-09-09,12,Smartphone,228,758,1052,24,1,2,13,9,0,0,0
+10314,1948,HV seg,North,83837,2012-12-16,79,Smartphone,913,294,1318,24,4,9,5,10,2,0,1
+6694,1964,Youth Seg,North,75236,2013-11-25,27,Smartphone,504,450,1068,24,4,8,13,3,0,0,0
+7342,1961,Youth Seg,East,59184,2012-09-09,6,Smartphone,483,523,1072,24,5,6,12,6,0,0,0
+4640,1967,Youth Seg,East,70647,2012-09-21,65,Smartphone,646,319,1079,24,2,4,13,7,0,0,0
+238,1967,Youth Seg,Lagos,67309,2013-01-23,76,Non Smartphone,562,425,1082,24,7,9,9,6,0,0,0
+8722,1957,Youth Seg,North,82347,2012-11-06,38,Smartphone,610,1180,1853,24,3,7,10,7,2,0,1
+4856,1957,Youth Seg,North,82347,2012-11-06,38,Smartphone,610,1180,1853,24,3,7,10,7,2,0,0
+6439,1958,Youth Seg,North,61074,2012-08-17,37,Smartphone,789,161,1102,24,7,11,8,5,0,0,0
+819,1945,Youth Seg,East,63285,2013-11-05,84,Smartphone,632,337,1103,24,3,6,13,5,0,0,0
+6274,1948,Mass Mkt Seg,North,83790,2013-11-15,81,Smartphone,1092,507,1615,24,3,8,6,10,2,0,0
+7441,1973,Youth Seg,East,71128,2012-10-06,80,Non Smartphone,1117,467,1615,24,7,2,12,10,0,0,0
+10814,1947,Youth Seg,Lagos,70321,2013-01-16,6,Smartphone,326,859,1376,24,4,6,13,5,0,0,1
+9206,1968,Youth Seg,Lagos,77382,2014-01-07,36,Smartphone,539,448,1121,24,1,5,12,7,1,0,0
+4418,1983,Mass Mkt Seg,West,89616,2013-02-25,36,Smartphone,718,911,1644,24,2,7,12,5,0,0,1
+4637,1954,HV seg,West,74637,2013-05-18,73,Smartphone,1024,610,1650,24,3,6,9,9,1,0,0
+3262,1958,Youth Seg,West,68281,2012-08-07,31,Smartphone,1107,507,1655,24,5,2,13,9,0,0,1
+3298,1956,Mass Mkt Seg,North,52973,2012-11-08,92,Smartphone,856,97,1152,24,8,9,9,6,0,0,0
+3759,1958,Youth Seg,Lagos,65196,2013-07-25,34,Smartphone,762,193,1155,24,5,7,11,6,1,0,0
+4475,1949,HV seg,North,69098,2013-02-16,82,Smartphone,1337,925,2440,24,5,7,9,8,0,0,0
+4756,1952,Youth Seg,East,63998,2013-12-20,42,Smartphone,205,851,1168,24,4,7,11,6,0,0,1
+2612,1987,Youth Seg,North,75794,2013-12-24,33,Smartphone,914,720,1682,24,3,7,12,5,1,0,0
+4686,1962,HV seg,East,82571,2014-04-02,28,Smartphone,892,715,1686,24,2,6,13,5,1,0,0
+2831,1976,Youth Seg,Lagos,78416,2014-06-27,99,Smartphone,491,505,1179,24,3,7,10,7,0,0,0
+2849,1979,Youth Seg,West,60474,2013-04-01,25,Smartphone,464,546,1180,24,7,10,12,2,0,0,0
+1456,1979,Youth Seg,West,60474,2013-04-01,25,Smartphone,464,546,1180,24,7,10,12,2,0,0,0
+6233,1976,Youth Seg,North,65991,2012-09-07,21,Smartphone,526,436,971,24,7,9,10,5,0,0,0
+10833,1975,Youth Seg,North,65106,2014-05-24,55,Smartphone,809,145,973,24,6,8,13,3,1,0,0
+716,1949,HV seg,Lagos,67911,2014-05-22,63,Smartphone,529,447,976,24,3,6,11,7,0,0,0
+6544,1949,HV seg,Lagos,67911,2014-05-22,63,Smartphone,529,447,976,24,3,6,11,7,0,0,0
+6935,1951,Youth Seg,North,78497,2013-12-01,44,Smartphone,233,522,978,24,2,5,12,7,1,0,0
+4646,1951,Youth Seg,North,78497,2013-12-01,44,Smartphone,233,522,978,24,2,5,12,7,1,0,0
+999,1991,Youth Seg,West,86037,2013-01-02,95,Smartphone,534,174,730,24,3,6,11,7,2,0,1
+3667,1969,Youth Seg,North,80952,2013-02-28,20,Smartphone,956,757,1757,24,8,8,11,5,3,0,1
+8534,1952,Youth Seg,North,67433,2013-07-16,51,Smartphone,643,319,992,24,4,6,13,5,1,0,0
+2807,1969,Youth Seg,North,56796,2013-02-16,24,Smartphone,694,270,1001,24,7,8,7,9,0,0,0
+1052,1969,Youth Seg,North,56796,2013-02-16,24,Smartphone,694,270,1001,24,7,8,7,9,0,0,0
+10925,1983,Youth Seg,North,76630,2014-01-14,93,Smartphone,286,542,1003,24,1,3,11,10,0,0,0
+9504,1949,Mass Mkt Seg,North,81698,2013-11-06,4,Smartphone,207,754,1008,24,1,3,13,8,0,0,1
+1172,1983,HV seg,North,92491,2013-05-01,71,Smartphone,1023,989,2034,24,3,7,12,5,3,0,1
+9907,1969,Mass Mkt Seg,Lagos,66476,2013-12-04,80,Smartphone,770,186,1013,24,4,6,10,8,0,0,0
+6565,1949,Mass Mkt Seg,North,76995,2013-03-28,91,Smartphone,1092,514,1782,24,5,11,9,4,1,0,0
+9723,1960,Youth Seg,North,67716,2013-01-10,8,Smartphone,672,288,1016,24,5,7,13,4,1,0,0
+7055,1952,HV seg,Lagos,61010,2012-10-09,57,Smartphone,888,57,1021,24,5,8,11,5,0,0,0
+9559,1961,HV seg,North,57072,2014-01-24,79,Smartphone,944,60,1034,25,5,7,13,5,1,0,0
+8659,1952,HV seg,Lagos,69805,2014-01-21,50,Smartphone,821,197,1038,25,2,6,11,8,0,0,0
+9153,1964,HV seg,North,59304,2013-07-29,81,Smartphone,479,559,1048,25,5,7,10,8,0,0,0
+9817,1970,Mass Mkt Seg,West,44802,2012-08-21,71,Smartphone,863,166,1049,25,8,9,12,4,0,0,0
+2223,1965,Youth Seg,East,64176,2012-08-03,52,Smartphone,1248,429,1826,25,6,8,8,9,0,0,0
+4261,1946,HV seg,West,82800,2012-11-24,23,Smartphone,1028,242,1315,25,3,7,12,6,2,0,1
+2114,1946,HV seg,West,82800,2012-11-24,23,Smartphone,1028,242,1315,25,3,7,12,6,2,0,1
+1453,1943,HV seg,East,57513,2013-07-06,59,Smartphone,775,255,1060,25,6,9,13,3,0,0,0
+1031,1989,Youth Seg,North,85710,2013-05-05,5,Smartphone,620,409,1062,25,2,6,10,9,1,0,0
+5031,1974,Youth Seg,Lagos,83145,2012-09-22,14,Smartphone,812,907,1833,25,2,5,11,9,1,0,1
+10133,1970,Youth Seg,West,93790,2014-02-12,16,Smartphone,1370,934,2349,25,2,6,12,7,3,0,1
+2797,1977,Youth Seg,North,72117,2013-08-20,34,Smartphone,727,296,1073,25,5,9,9,7,0,0,0
+7396,1966,Youth Seg,North,80398,2012-11-10,92,Smartphone,393,1178,1597,25,3,5,12,8,1,0,0
+11101,1991,Youth Seg,Lagos,89891,2013-04-15,17,Smartphone,434,219,836,25,4,11,8,6,1,0,0
+4679,1977,Mass Mkt Seg,North,78710,2014-05-23,42,Smartphone,721,321,1092,25,4,7,12,6,0,0,0
+5125,1960,Youth Seg,North,79530,2013-05-17,64,Smartphone,333,986,1348,25,2,4,11,10,0,0,0
+3867,1947,HV seg,Lagos,73059,2013-08-31,36,Smartphone,522,502,1095,25,4,9,13,3,0,0,0
+3859,1947,HV seg,Lagos,73059,2013-08-31,36,Smartphone,522,502,1095,25,4,9,13,3,0,0,0
+4786,1977,Youth Seg,North,75330,2012-10-04,94,Non Smartphone,637,411,1109,25,6,10,12,3,0,0,0
+7960,1962,Youth Seg,Lagos,82122,2013-08-15,89,Smartphone,756,526,1382,25,1,3,13,9,1,0,0
+10311,1969,Youth Seg,North,4428,2013-10-05,0,Smartphone,20,18,359,25,1,25,0,0,0,0,0
+8920,1967,Mass Mkt Seg,West,59235,2013-01-12,4,Non Smartphone,488,549,1128,25,7,11,12,2,0,0,0
+7789,1965,HV seg,North,84618,2013-11-22,96,Smartphone,784,888,1672,25,2,6,10,9,1,0,0
+1966,1965,HV seg,North,84618,2013-11-22,96,Smartphone,784,888,1672,25,2,6,10,9,1,0,0
+7875,1949,Youth Seg,North,72025,2014-04-29,46,Smartphone,967,710,1677,25,2,4,13,8,3,0,1
+4518,1979,Youth Seg,Lagos,85693,2013-04-20,59,Smartphone,558,500,1169,25,5,9,11,5,0,0,0
+6237,1966,HV seg,West,7144,2013-12-07,92,Smartphone,85,40,416,25,0,23,1,1,0,0,0
+10159,1970,Youth Seg,East,58710,2013-03-31,77,Smartphone,521,490,1185,25,6,11,9,5,0,0,0
+6658,1972,Youth Seg,Lagos,59868,2013-07-22,37,Smartphone,822,218,1194,25,6,11,12,2,0,0,0
+9260,1945,HV seg,North,70356,2012-11-05,20,Smartphone,1365,308,1706,25,6,10,9,6,0,0,0
+7101,1963,HV seg,East,52278,2013-01-25,24,Smartphone,953,71,1198,25,8,10,10,5,0,0,0
+9760,1963,HV seg,East,52278,2013-01-25,24,Smartphone,953,71,1198,25,8,10,10,5,0,0,1
+4580,1969,Youth Seg,North,75759,2013-10-25,46,Smartphone,1416,888,2486,25,5,9,9,7,3,0,1
+4216,1981,Youth Seg,West,91065,2013-02-22,33,Smartphone,936,424,1474,25,3,7,9,9,2,0,1
+6203,1947,Youth Seg,Lagos,74485,2013-08-24,58,Smartphone,648,1037,1734,25,3,6,12,7,0,0,0
+4994,1943,Mass Mkt Seg,West,77598,2013-10-01,53,Smartphone,1226,476,1735,25,3,7,13,5,1,0,0
+8931,1986,Youth Seg,Lagos,83033,2014-05-18,82,Non Smartphone,911,817,1761,25,5,11,10,4,1,0,0
+3491,1975,Youth Seg,Lagos,55914,2013-04-29,32,Smartphone,444,584,1260,25,7,11,8,6,0,0,0
+9855,1952,HV seg,West,62000,2013-08-25,25,Smartphone,899,101,1020,25,4,6,13,6,1,0,0
+1340,1986,Youth Seg,North,92910,2014-04-24,42,Smartphone,688,1074,1795,26,1,6,13,7,3,0,0
+4608,1987,Youth Seg,East,81361,2014-02-25,18,Smartphone,186,516,778,26,1,3,13,10,0,0,1
+535,1987,Youth Seg,East,81361,2014-02-25,18,Smartphone,186,516,778,26,1,3,13,10,0,0,0
+6049,1982,Mass Mkt Seg,Lagos,73450,2013-12-05,85,Smartphone,1193,574,1804,26,3,7,11,8,2,0,0
+4837,1965,HV seg,North,71322,2013-02-16,57,Smartphone,796,305,1305,26,4,8,13,5,0,0,0
+9305,1976,Youth Seg,West,79689,2013-05-12,65,Smartphone,337,857,1315,26,2,4,13,9,0,0,0
+3828,1951,Youth Seg,North,71107,2013-02-17,61,Smartphone,543,589,1327,26,4,7,13,6,0,0,0
+5682,1953,HV seg,West,64108,2013-03-23,8,Smartphone,958,120,1099,26,5,6,11,9,0,0,0
+3233,1965,HV seg,North,62745,2013-03-23,89,Smartphone,583,502,1117,26,5,7,11,8,0,0,0
+6312,1959,Youth Seg,North,65031,2013-03-17,29,Smartphone,365,412,863,26,7,10,13,3,0,0,0
+5687,1980,Youth Seg,East,81702,2012-09-23,98,Smartphone,613,833,1633,26,3,7,12,7,0,0,0
+4002,1960,HV seg,North,77037,2013-10-13,3,Smartphone,559,554,1123,26,3,7,12,7,0,0,0
+1650,1960,Mass Mkt Seg,North,81843,2013-04-22,13,Smartphone,865,640,1643,26,3,5,12,9,0,0,0
+454,1980,Youth Seg,Lagos,69508,2012-11-14,48,Non Smartphone,856,236,1135,26,6,11,11,4,0,0,0
+3595,1963,Youth Seg,Lagos,77226,2014-02-28,29,Smartphone,674,443,1138,26,3,6,12,8,0,0,0
+3056,1978,Youth Seg,East,63693,2013-10-14,63,Smartphone,630,466,1150,26,6,11,9,6,0,0,0
+8727,1978,Youth Seg,East,63693,2013-10-14,63,Smartphone,630,466,1150,26,6,11,9,6,0,0,0
+5147,1948,Youth Seg,West,90842,2013-07-29,57,Smartphone,844,487,1424,26,1,4,13,9,0,0,0
+6260,1955,Mass Mkt Seg,Lagos,82384,2012-11-19,55,Smartphone,1035,732,1957,26,1,3,13,10,1,0,1
+6181,1950,Youth Seg,Lagos,52203,2012-07-31,36,Smartphone,509,402,939,26,6,8,11,7,0,0,0
+3968,1970,Youth Seg,East,65706,2013-06-28,77,Smartphone,928,142,1199,26,7,11,12,3,3,0,1
+4945,1953,Youth Seg,East,53653,2012-11-07,29,Smartphone,825,277,1210,26,6,10,12,4,0,0,0
+9516,1971,Youth Seg,East,49118,2012-08-18,90,Smartphone,674,436,1229,26,7,9,10,7,2,0,1
+2798,1977,HV seg,Lagos,102160,2012-11-02,54,Smartphone,792,390,1240,26,4,7,10,9,3,0,1
+5602,1989,HV seg,Lagos,66973,2013-05-17,98,Smartphone,488,692,1282,27,3,8,12,7,0,0,0
+2109,1990,Youth Seg,West,96843,2013-04-23,60,Smartphone,519,1008,1544,27,2,6,10,11,1,0,1
+4619,1945,HV seg,West,113734,2014-05-28,9,Smartphone,8,266,277,27,1,27,0,0,0,0,0
+4299,1960,Youth Seg,Lagos,70971,2012-09-21,28,Smartphone,1018,790,1825,27,7,11,5,11,0,0,1
+1204,1970,HV seg,North,67536,2013-05-22,45,Smartphone,1253,541,1829,27,8,11,11,5,1,0,0
+8717,1975,HV seg,North,80427,2012-09-12,56,Smartphone,1220,589,1835,27,5,11,8,8,0,0,0
+4427,1995,Youth Seg,West,83257,2012-09-18,56,Smartphone,563,735,1365,27,6,5,12,10,2,1,1
+7215,1983,Youth Seg,West,101970,2013-03-12,69,Smartphone,749,218,1135,27,2,6,13,8,3,0,1
+9743,1955,Youth Seg,North,76998,2013-01-11,85,Smartphone,1538,265,1910,27,6,11,8,8,1,0,0
+5255,1986,Youth Seg,West,,2013-02-20,19,Non Smartphone,6,269,637,27,1,27,0,0,0,0,0
+9930,1944,HV seg,West,82716,2013-11-05,8,Smartphone,754,391,1167,27,2,6,13,8,0,0,0
+5462,1974,Youth Seg,North,67445,2012-08-12,63,Smartphone,837,326,1174,27,6,9,12,6,0,0,0
+10897,1974,Youth Seg,North,67445,2012-08-12,63,Smartphone,837,326,1174,27,6,9,12,6,0,0,0
+6661,1974,Youth Seg,North,67445,2012-08-12,63,Smartphone,837,326,1174,27,6,9,12,6,0,0,0
+5758,1982,Youth Seg,North,65169,2014-01-14,23,Smartphone,1074,69,1189,27,6,10,13,4,4,0,1
+7966,1959,Youth Seg,West,80982,2013-01-08,48,Non Smartphone,642,527,1191,27,5,11,11,5,0,1,0
+6248,1947,Mass Mkt Seg,West,91712,2013-10-17,47,Smartphone,1300,869,2217,27,3,9,11,7,1,0,1
+10701,1973,Youth Seg,North,65308,2013-09-11,60,Smartphone,713,464,1211,27,4,7,12,8,2,0,0
+8985,1964,Youth Seg,Lagos,68316,2012-11-04,54,Smartphone,886,292,1211,27,6,10,10,7,0,0,0
+4073,1954,Youth Seg,North,63564,2014-01-29,0,Smartphone,849,301,1215,27,6,10,7,10,1,0,1
+1446,1956,Mass Mkt Seg,West,86424,2014-04-05,12,Smartphone,455,703,1226,27,1,6,12,9,0,0,0
+7079,1962,Youth Seg,East,63887,2012-09-08,38,Smartphone,920,233,1245,27,6,9,12,6,0,0,0
+1277,1960,Youth Seg,Lagos,78468,2014-04-09,29,Smartphone,456,514,1004,27,4,10,10,7,1,0,0
+1911,1987,Youth Seg,Lagos,67430,2012-09-05,6,Smartphone,692,551,1364,28,6,11,12,5,0,0,0
+10089,1974,Youth Seg,East,102692,2013-04-05,5,Smartphone,316,648,1112,28,2,6,13,9,4,0,1
+2426,1964,HV seg,East,78825,2012-09-14,35,Smartphone,557,320,895,28,3,5,13,10,0,0,1
+6977,1974,Youth Seg,Lagos,75702,2012-10-14,87,Smartphone,1073,811,1921,28,6,10,13,5,1,0,0
+4114,1964,Mass Mkt Seg,North,79143,2012-08-11,2,Smartphone,687,974,1693,28,3,6,13,9,0,0,0
+2886,1971,Mass Mkt Seg,East,74290,2013-08-12,70,Smartphone,1121,84,1217,28,6,10,10,8,2,0,0
+5376,1979,Youth Seg,North,2447,2013-01-06,42,Non Smartphone,2,1727,1730,28,1,0,0,28,0,0,0
+4931,1977,Youth Seg,Lagos,157146,2013-04-29,13,Smartphone,1,1728,1730,28,1,0,0,28,0,0,0
+1351,1956,Mass Mkt Seg,Lagos,58656,2012-09-20,25,Smartphone,974,234,1220,28,6,7,13,8,1,0,0
+1763,1988,Youth Seg,Lagos,87679,2013-07-27,62,Smartphone,1431,1060,2524,28,4,7,10,11,3,0,1
+4910,1967,Youth Seg,East,68743,2012-08-30,81,Smartphone,1266,693,2074,29,7,11,13,5,0,0,0
+2324,1972,Youth Seg,Lagos,77044,2013-10-27,12,Smartphone,663,326,1065,29,4,7,11,11,1,0,0
+5396,1988,Youth Seg,North,68487,2013-01-13,48,Smartphone,770,507,1366,29,4,9,13,7,0,0,0
+6318,1988,Youth Seg,North,68487,2013-01-13,48,Smartphone,770,507,1366,29,4,9,13,7,0,0,0
+2021,1975,Youth Seg,North,61456,2013-03-27,47,Smartphone,639,660,1388,29,4,6,13,10,0,0,0
+1501,1982,HV seg,North,160803,2012-08-04,21,Smartphone,71,1642,1717,29,0,0,1,28,0,0,0
+4611,1970,Youth Seg,Lagos,105471,2013-01-21,36,Smartphone,1190,327,1724,30,3,9,13,8,2,0,1
+3389,1970,Youth Seg,North,69016,2012-11-22,61,Smartphone,779,593,1533,30,5,8,13,9,0,0,0
+6945,1952,Youth Seg,West,84574,2013-06-04,72,Smartphone,407,805,1375,31,5,9,11,11,0,0,0
+9369,1979,Youth Seg,West,88194,2014-03-19,19,Smartphone,702,534,1274,31,5,11,10,10,2,0,1
+7030,1955,HV seg,North,66465,2013-03-30,1,Smartphone,1200,271,1485,32,6,11,12,9,1,0,0
+4127,1967,HV seg,North,77766,2013-02-22,97,Smartphone,1063,439,1529,32,6,11,11,10,1,0,1
+5153,1967,HV seg,North,77766,2013-02-22,97,Smartphone,1063,439,1529,32,6,11,11,10,1,0,1
