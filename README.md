@@ -1,5 +1,5 @@
 ## Background:
-Telecom XYZ's Marketing Division has a budget constraint for promoting a new consumer offer. They've requested the Customer Value Management (CVM) team to strategically drive the promotion.
+Telecom AT&T Marketing Division has a budget constraint for promoting a new consumer offer. They've requested the Customer Value Management (CVM) team to strategically drive the promotion.
 
 ## Current Situation:
 The CVM team tested the offer on a random sample of 2,240 customers.
