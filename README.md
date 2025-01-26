@@ -30,4 +30,6 @@ This will enable the team to maximize campaign effectiveness by targeting the mo
 -    ``Response(Target Label) :`` Purchase or Not based on the new offer.
 
 
+
 `I choose Random Forest because of it a versatile and powerful algorithm that is commonly used for classification tasks due to its ability to handle various data types, robustness to overfitting, and interpretability through feature importance analysis.`
+![image](https://github.com/user-attachments/assets/d3f08593-29ab-4ce4-8c5a-fcfc6641c0a3)
